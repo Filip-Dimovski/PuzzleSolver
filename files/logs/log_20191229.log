@@ -1,0 +1,76 @@
+[2019-12-29 05:14:58,171] [INFO] : RootScreen: App has started
+[2019-12-29 05:15:13,892] [DEBUG] : LanguageScreen: mk language is used
+[2019-12-29 05:15:16,112] [DEBUG] : SignInScreen: labels are configured
+[2019-12-29 05:15:33,790] [DEBUG] : Homeboard: labels are configured.
+[2019-12-29 05:15:33,791] [INFO] : SignInScreen: User demo@test.com is successfully signed in
+[2019-12-29 05:15:35,684] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-12-29 05:15:35,685] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-12-29 05:15:44,427] [DEBUG] : Homeboard: labels are configured.
+[2019-12-29 05:15:46,773] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-12-29 05:15:56,562] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to FullPuzzle
+[2019-12-29 05:15:56,565] [DEBUG] : CameraScreen: labels configured.
+[2019-12-29 05:15:58,492] [INFO] : CameraScreen: image temp_puzzle/40_FullPuzzle_20191229_051558.png is created.
+[2019-12-29 05:15:58,509] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-12-29 05:15:59,826] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to PiecesPuzzle
+[2019-12-29 05:15:59,826] [DEBUG] : CameraScreen: labels configured.
+[2019-12-29 05:16:00,975] [INFO] : CameraScreen: image temp_puzzle/40_PiecesPuzzle_20191229_051600.png is created.
+[2019-12-29 05:16:00,976] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-12-29 05:16:02,225] [DEBUG] : PuzzleConnection: check_user_puzzle_rel:False
+[2019-12-29 05:16:02,229] [INFO] : NewPuzzleScreen: Folder users/40/test_20191229_051602 is created.
+[2019-12-29 05:16:02,232] [INFO] : NewPuzzleScreen: file users/40/test_20191229_051602/FullPuzzle.png is moved
+[2019-12-29 05:16:02,235] [INFO] : NewPuzzleScreen: file users/40/test_20191229_051602/PiecesPuzzle.png is moved
+[2019-12-29 05:16:02,276] [INFO] : PuzzleConnection: puzzle: test for user id: 40 is created
+[2019-12-29 05:16:02,314] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: test, user_id: 40, result =125
+[2019-12-29 05:16:02,319] [INFO] : PuzzleConnection: puzzle: test - user id: 40 relation is created
+[2019-12-29 05:16:02,336] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: test, user_id: 40, result =125
+[2019-12-29 05:16:02,354] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:125. Full Path:users/40/test_20191229_051602/FullPuzzle.png
+[2019-12-29 05:16:02,387] [DEBUG] : PuzzleSolution: progressbar pop is open
+[2019-12-29 05:16:02,387] [DEBUG] : PuzzleSolution: initialize
+[2019-12-29 05:16:02,387] [DEBUG] : PuzzleSolution: solve_puzzle is called.
+[2019-12-29 05:16:02,388] [DEBUG] : PuzzleSolution: solve_puzzle_algorithm is called.
+[2019-12-29 05:16:02,416] [DEBUG] : PuzzleConnection: update_puzzle_solution called for Puzzle id:125. Solution Path:users/40/test_20191229_051602//SolutionPuzzle.png
+[2019-12-29 05:16:02,416] [INFO] : NewPuzzleScreen: Puzzle is solved.
+[2019-12-29 05:16:02,418] [DEBUG] : PictureViewScreen: labels are configured
+[2019-12-29 05:16:02,445] [INFO] : PuzzleSolution: Number of Contours found = 1
+[2019-12-29 05:16:02,472] [DEBUG] : PuzzleSolution:  part puzzle users/40/test_20191229_051602/piece1.png is created
+[2019-12-29 05:16:02,472] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-12-29 05:16:02,608] [DEBUG] : PuzzleSolution:  future_matches not match found
+[2019-12-29 05:16:03,447] [DEBUG] : PuzzleSolution: progress_bar.value =100.0
+[2019-12-29 05:16:08,817] [DEBUG] : PictureViewScreen: btn_goback is clicked
+[2019-12-29 05:16:08,853] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-12-29 05:16:08,853] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-12-29 05:16:12,201] [DEBUG] : Homeboard: labels are configured.
+[2019-12-29 05:16:13,640] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-12-29 05:16:14,968] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to FullPuzzle
+[2019-12-29 05:16:14,968] [DEBUG] : CameraScreen: labels configured.
+[2019-12-29 05:16:16,642] [INFO] : CameraScreen: image temp_puzzle/40_FullPuzzle_20191229_051616.png is created.
+[2019-12-29 05:16:16,642] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-12-29 05:16:18,474] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to PiecesPuzzle
+[2019-12-29 05:16:18,474] [DEBUG] : CameraScreen: labels configured.
+[2019-12-29 05:16:19,755] [INFO] : CameraScreen: image temp_puzzle/40_PiecesPuzzle_20191229_051619.png is created.
+[2019-12-29 05:16:19,756] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-12-29 05:16:23,863] [DEBUG] : PuzzleConnection: check_user_puzzle_rel:False
+[2019-12-29 05:16:23,864] [INFO] : NewPuzzleScreen: Folder users/40/te_20191229_051623 is created.
+[2019-12-29 05:16:23,867] [INFO] : NewPuzzleScreen: file users/40/te_20191229_051623/FullPuzzle.png is moved
+[2019-12-29 05:16:23,870] [INFO] : NewPuzzleScreen: file users/40/te_20191229_051623/PiecesPuzzle.png is moved
+[2019-12-29 05:16:23,897] [INFO] : PuzzleConnection: puzzle: te for user id: 40 is created
+[2019-12-29 05:16:23,926] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: te, user_id: 40, result =126
+[2019-12-29 05:16:23,930] [INFO] : PuzzleConnection: puzzle: te - user id: 40 relation is created
+[2019-12-29 05:16:23,945] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: te, user_id: 40, result =126
+[2019-12-29 05:16:23,962] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:126. Full Path:users/40/te_20191229_051623/FullPuzzle.png
+[2019-12-29 05:16:23,964] [DEBUG] : PuzzleSolution: progressbar pop is open
+[2019-12-29 05:16:23,965] [DEBUG] : PuzzleSolution: initialize
+[2019-12-29 05:16:23,965] [DEBUG] : PuzzleSolution: solve_puzzle is called.
+[2019-12-29 05:16:23,966] [DEBUG] : PuzzleSolution: solve_puzzle_algorithm is called.
+[2019-12-29 05:16:23,979] [INFO] : PuzzleSolution: Number of Contours found = 1
+[2019-12-29 05:16:23,987] [DEBUG] : PuzzleConnection: update_puzzle_solution called for Puzzle id:126. Solution Path:users/40/te_20191229_051623//SolutionPuzzle.png
+[2019-12-29 05:16:23,988] [INFO] : NewPuzzleScreen: Puzzle is solved.
+[2019-12-29 05:16:23,988] [DEBUG] : PictureViewScreen: labels are configured
+[2019-12-29 05:16:24,006] [DEBUG] : PuzzleSolution:  part puzzle users/40/te_20191229_051623/piece1.png is created
+[2019-12-29 05:16:24,006] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-12-29 05:16:24,131] [DEBUG] : PuzzleSolution:  future_matches not match found
+[2019-12-29 05:16:25,072] [DEBUG] : PuzzleSolution: progress_bar.value =100.0
+[2019-12-29 05:16:25,864] [DEBUG] : PictureViewScreen: btn_goback is clicked
+[2019-12-29 05:16:25,899] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-12-29 05:16:25,899] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-12-29 05:30:13,076] [INFO] : RootScreen: App has started

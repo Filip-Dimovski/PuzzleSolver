@@ -1,0 +1,132 @@
+[2019-10-19 19:59:27,644] [INFO] : RootScreen: App has started
+[2019-10-19 19:59:37,186] [DEBUG] : LanguageScreen: mk language is used
+[2019-10-19 19:59:38,488] [DEBUG] : Homeboard:  No-user
+[2019-10-19 19:59:38,491] [DEBUG] : Homeboard: labels are configured.
+[2019-10-19 19:59:40,581] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-10-19 19:59:44,790] [DEBUG] : NewPuzzleScreen: DIRECTORY_CALLED is changed to FullPuzzle
+[2019-10-19 19:59:44,793] [DEBUG] : ChooseFileScreen: labels are configured.
+[2019-10-19 20:00:44,472] [INFO] : ChooseFileScreen: file C:\Users\Filip.Dimovski\Documents\PuzzleSolver\users\0\leneto_20190909_175139\FullPuzzle.png is copied
+[2019-10-19 20:00:44,473] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-10-19 20:00:46,622] [DEBUG] : NewPuzzleScreen: DIRECTORY_CALLED is changed to PiecesPuzzle
+[2019-10-19 20:00:46,624] [DEBUG] : ChooseFileScreen: labels are configured.
+[2019-10-19 20:00:51,551] [INFO] : ChooseFileScreen: file C:\Users\Filip.Dimovski\Documents\PuzzleSolver\users\0\leneto_20190909_175139\PiecesPuzzle.png is copied
+[2019-10-19 20:00:51,552] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-10-19 20:00:54,221] [DEBUG] : PuzzleConnection: check_user_puzzle_rel:False
+[2019-10-19 20:00:54,222] [INFO] : NewPuzzleScreen: Folder users/0/zdr_20191019_200054 is created.
+[2019-10-19 20:00:54,225] [INFO] : NewPuzzleScreen: file users/0/zdr_20191019_200054/FullPuzzle.png is moved
+[2019-10-19 20:00:54,229] [INFO] : NewPuzzleScreen: file users/0/zdr_20191019_200054/PiecesPuzzle.png is moved
+[2019-10-19 20:00:54,270] [DEBUG] : PuzzleSolution: progressbar pop is open
+[2019-10-19 20:00:54,270] [DEBUG] : PuzzleSolution: initialize
+[2019-10-19 20:00:54,270] [DEBUG] : PuzzleSolution: solve_puzzle is called.
+[2019-10-19 20:00:54,271] [DEBUG] : PuzzleSolution: solve_puzzle_algorithm is called.
+[2019-10-19 20:00:54,298] [DEBUG] : PuzzleConnection: update_puzzle_solution called for Puzzle id:0. Solution Path:users/0/zdr_20191019_200054//SolutionPuzzle.png
+[2019-10-19 20:00:54,298] [INFO] : NewPuzzleScreen: Puzzle is solved.
+[2019-10-19 20:00:54,301] [DEBUG] : PictureViewScreen: labels are configured
+[2019-10-19 20:00:54,387] [INFO] : PuzzleSolution: Number of Contours found = 25
+[2019-10-19 20:00:54,416] [DEBUG] : PuzzleSolution:  part puzzle users/0/zdr_20191019_200054/piece1.png is created
+[2019-10-19 20:00:54,416] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-10-19 20:00:54,905] [DEBUG] : PuzzleSolution:  future_matches match found at: (1023, 103)
+[2019-10-19 20:00:54,932] [DEBUG] : PuzzleSolution:  part puzzle users/0/zdr_20191019_200054/piece2.png is created
+[2019-10-19 20:00:54,932] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-10-19 20:00:55,296] [DEBUG] : PuzzleSolution:  future_matches not match found
+[2019-10-19 20:00:55,302] [DEBUG] : PuzzleSolution:  part puzzle users/0/zdr_20191019_200054/piece3.png is created
+[2019-10-19 20:00:55,302] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-10-19 20:00:55,434] [DEBUG] : PuzzleSolution: progress_bar.value =5.0
+[2019-10-19 20:00:55,455] [DEBUG] : PuzzleSolution: progress_bar.value =9.0
+[2019-10-19 20:00:55,688] [DEBUG] : PuzzleSolution:  future_matches match found at: (803, 211)
+[2019-10-19 20:00:55,714] [DEBUG] : PuzzleSolution:  part puzzle users/0/zdr_20191019_200054/piece4.png is created
+[2019-10-19 20:00:55,714] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-10-19 20:00:56,101] [DEBUG] : PuzzleSolution:  future_matches match found at: (347, 95)
+[2019-10-19 20:00:56,125] [DEBUG] : PuzzleSolution:  part puzzle users/0/zdr_20191019_200054/piece5.png is created
+[2019-10-19 20:00:56,125] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-10-19 20:00:56,397] [DEBUG] : PuzzleSolution: progress_bar.value =13.0
+[2019-10-19 20:00:56,460] [DEBUG] : PuzzleSolution: progress_bar.value =17.0
+[2019-10-19 20:00:56,528] [DEBUG] : PuzzleSolution:  future_matches match found at: (907, 585)
+[2019-10-19 20:00:56,559] [DEBUG] : PuzzleSolution:  part puzzle users/0/zdr_20191019_200054/piece6.png is created
+[2019-10-19 20:00:56,560] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-10-19 20:00:56,940] [DEBUG] : PuzzleSolution:  future_matches match found at: (724, 251)
+[2019-10-19 20:00:56,968] [DEBUG] : PuzzleSolution:  part puzzle users/0/zdr_20191019_200054/piece7.png is created
+[2019-10-19 20:00:56,968] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-10-19 20:00:57,324] [DEBUG] : PuzzleSolution:  future_matches match found at: (800, 399)
+[2019-10-19 20:00:57,349] [DEBUG] : PuzzleSolution:  part puzzle users/0/zdr_20191019_200054/piece8.png is created
+[2019-10-19 20:00:57,349] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-10-19 20:00:57,456] [DEBUG] : PuzzleSolution: progress_bar.value =21.0
+[2019-10-19 20:00:57,456] [DEBUG] : PuzzleSolution: progress_bar.value =25.0
+[2019-10-19 20:00:57,792] [DEBUG] : PuzzleSolution:  part puzzle users/0/zdr_20191019_200054/piece9.png is created
+[2019-10-19 20:00:57,792] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-10-19 20:00:58,153] [DEBUG] : PuzzleSolution:  future_matches not match found
+[2019-10-19 20:00:58,158] [DEBUG] : PuzzleSolution:  part puzzle users/0/zdr_20191019_200054/piece10.png is created
+[2019-10-19 20:00:58,158] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-10-19 20:00:58,456] [DEBUG] : PuzzleSolution: progress_bar.value =29.0
+[2019-10-19 20:00:58,457] [DEBUG] : PuzzleSolution: progress_bar.value =33.0
+[2019-10-19 20:00:58,527] [DEBUG] : PuzzleSolution:  future_matches match found at: (637, 554)
+[2019-10-19 20:00:58,555] [DEBUG] : PuzzleSolution:  part puzzle users/0/zdr_20191019_200054/piece11.png is created
+[2019-10-19 20:00:58,555] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-10-19 20:00:58,917] [DEBUG] : PuzzleSolution:  future_matches match found at: (1039, 506)
+[2019-10-19 20:00:58,946] [DEBUG] : PuzzleSolution:  part puzzle users/0/zdr_20191019_200054/piece12.png is created
+[2019-10-19 20:00:58,946] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-10-19 20:00:59,320] [DEBUG] : PuzzleSolution:  future_matches match found at: (784, 322)
+[2019-10-19 20:00:59,346] [DEBUG] : PuzzleSolution:  part puzzle users/0/zdr_20191019_200054/piece13.png is created
+[2019-10-19 20:00:59,346] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-10-19 20:00:59,462] [DEBUG] : PuzzleSolution: progress_bar.value =37.0
+[2019-10-19 20:00:59,462] [DEBUG] : PuzzleSolution: progress_bar.value =41.0
+[2019-10-19 20:00:59,782] [DEBUG] : PuzzleSolution:  future_matches match found at: (729, 310)
+[2019-10-19 20:00:59,808] [DEBUG] : PuzzleSolution:  part puzzle users/0/zdr_20191019_200054/piece14.png is created
+[2019-10-19 20:00:59,808] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-10-19 20:01:00,194] [DEBUG] : PuzzleSolution:  future_matches match found at: (559, 421)
+[2019-10-19 20:01:00,220] [DEBUG] : PuzzleSolution:  part puzzle users/0/zdr_20191019_200054/piece15.png is created
+[2019-10-19 20:01:00,220] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-10-19 20:01:00,469] [DEBUG] : PuzzleSolution: progress_bar.value =45.0
+[2019-10-19 20:01:00,469] [DEBUG] : PuzzleSolution: progress_bar.value =49.0
+[2019-10-19 20:01:00,579] [DEBUG] : PuzzleSolution:  future_matches not match found
+[2019-10-19 20:01:00,585] [DEBUG] : PuzzleSolution:  part puzzle users/0/zdr_20191019_200054/piece16.png is created
+[2019-10-19 20:01:00,585] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-10-19 20:01:00,943] [DEBUG] : PuzzleSolution:  future_matches match found at: (346, 292)
+[2019-10-19 20:01:00,977] [DEBUG] : PuzzleSolution:  part puzzle users/0/zdr_20191019_200054/piece17.png is created
+[2019-10-19 20:01:00,977] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-10-19 20:01:01,366] [DEBUG] : PuzzleSolution:  future_matches match found at: (555, 449)
+[2019-10-19 20:01:01,391] [DEBUG] : PuzzleSolution:  part puzzle users/0/zdr_20191019_200054/piece18.png is created
+[2019-10-19 20:01:01,391] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-10-19 20:01:01,474] [DEBUG] : PuzzleSolution: progress_bar.value =53.0
+[2019-10-19 20:01:01,474] [DEBUG] : PuzzleSolution: progress_bar.value =57.0
+[2019-10-19 20:01:01,755] [DEBUG] : PuzzleSolution:  future_matches match found at: (998, 243)
+[2019-10-19 20:01:01,784] [DEBUG] : PuzzleSolution:  part puzzle users/0/zdr_20191019_200054/piece19.png is created
+[2019-10-19 20:01:01,784] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-10-19 20:01:02,136] [DEBUG] : PuzzleSolution:  future_matches match found at: (391, 329)
+[2019-10-19 20:01:02,166] [DEBUG] : PuzzleSolution:  part puzzle users/0/zdr_20191019_200054/piece20.png is created
+[2019-10-19 20:01:02,166] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-10-19 20:01:02,471] [DEBUG] : PuzzleSolution: progress_bar.value =61.0
+[2019-10-19 20:01:02,471] [DEBUG] : PuzzleSolution: progress_bar.value =65.0
+[2019-10-19 20:01:02,529] [DEBUG] : PuzzleSolution:  future_matches match found at: (547, 481)
+[2019-10-19 20:01:02,561] [DEBUG] : PuzzleSolution:  part puzzle users/0/zdr_20191019_200054/piece21.png is created
+[2019-10-19 20:01:02,561] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-10-19 20:01:02,925] [DEBUG] : PuzzleSolution:  future_matches match found at: (393, 338)
+[2019-10-19 20:01:02,956] [DEBUG] : PuzzleSolution:  part puzzle users/0/zdr_20191019_200054/piece22.png is created
+[2019-10-19 20:01:02,956] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-10-19 20:01:03,311] [DEBUG] : PuzzleSolution:  future_matches match found at: (274, 370)
+[2019-10-19 20:01:03,336] [DEBUG] : PuzzleSolution:  part puzzle users/0/zdr_20191019_200054/piece23.png is created
+[2019-10-19 20:01:03,336] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-10-19 20:01:03,474] [DEBUG] : PuzzleSolution: progress_bar.value =69.0
+[2019-10-19 20:01:03,474] [DEBUG] : PuzzleSolution: progress_bar.value =73.0
+[2019-10-19 20:01:03,701] [DEBUG] : PuzzleSolution:  future_matches not match found
+[2019-10-19 20:01:03,707] [DEBUG] : PuzzleSolution:  part puzzle users/0/zdr_20191019_200054/piece24.png is created
+[2019-10-19 20:01:03,707] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-10-19 20:01:04,070] [DEBUG] : PuzzleSolution:  future_matches match found at: (508, 214)
+[2019-10-19 20:01:04,095] [DEBUG] : PuzzleSolution:  part puzzle users/0/zdr_20191019_200054/piece25.png is created
+[2019-10-19 20:01:04,095] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-10-19 20:01:04,431] [DEBUG] : PuzzleSolution:  future_matches not match found
+[2019-10-19 20:01:04,471] [DEBUG] : PuzzleSolution: progress_bar.value =77.0
+[2019-10-19 20:01:04,471] [DEBUG] : PuzzleSolution: progress_bar.value =81.0
+[2019-10-19 20:01:05,485] [DEBUG] : PuzzleSolution: progress_bar.value =85.0
+[2019-10-19 20:01:05,486] [DEBUG] : PuzzleSolution: progress_bar.value =89.0
+[2019-10-19 20:01:06,481] [DEBUG] : PuzzleSolution: progress_bar.value =93.0
+[2019-10-19 20:01:06,481] [DEBUG] : PuzzleSolution: progress_bar.value =97.0
+[2019-10-19 20:01:07,276] [DEBUG] : PictureViewScreen: pieces_puzzle_on_click is called for puzzle: users/0/zdr_20191019_200054/PiecesPuzzle.png 
+[2019-10-19 20:01:07,309] [INFO] : PictureScreen: called for picture:users/0/zdr_20191019_200054/PiecesPuzzle.png
+[2019-10-19 20:01:07,487] [DEBUG] : PuzzleSolution: progress_bar.value =100.0
+[2019-10-19 20:01:08,670] [DEBUG] : PictureViewScreen: labels are configured
+[2019-10-19 20:01:09,717] [DEBUG] : PictureViewScreen: full_puzzle_on_click is called for puzzle: users/0/zdr_20191019_200054/FullPuzzle.png 
+[2019-10-19 20:01:09,744] [INFO] : PictureScreen: called for picture:users/0/zdr_20191019_200054/FullPuzzle.png
+[2019-10-19 20:01:11,309] [DEBUG] : PictureViewScreen: labels are configured
+[2019-10-19 20:01:12,286] [DEBUG] : PictureViewScreen: solution_puzzle_on_click is called for puzzle: users/0/zdr_20191019_200054/SolutionPuzzle.png 
+[2019-10-19 20:01:12,309] [INFO] : PictureScreen: called for picture:users/0/zdr_20191019_200054/SolutionPuzzle.png

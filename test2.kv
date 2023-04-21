@@ -1,0 +1,69 @@
+from kivy.app import App
+from kivy.uix.boxlayout import BoxLayout
+from kivy.uix.widget import Widget
+from kivy.uix.label import Label
+
+from kivy.lang import Builder
+
+from functools import partial
+
+kv = '''
+<CentralWidget>:
+    pos_hint: {'center_y': .5} 
+    size_hint: None, None
+    canvas:
+        Color:
+            rgb: 1, 0, 1
+        Rectangle:
+            pos: self.pos
+            size: self.size
+
+<SideWidget>:
+    pos_hint: {'center_y': .5} 
+    size_hint: None, 1
+    canvas.before:
+        Color:
+            rgb: 0, 0, 1
+        Rectangle:
+            pos: self.pos
+            size: self.size
+'''
+
+Builder.load_string(kv)
+
+class CentralWidget(Widget):
+    pass
+
+class SideWidget(Label):
+    pass
+
+class MyWidget(BoxLayout):
+    def __init__(self, **kwargs):
+        super().__init__(**kwargs)
+
+        w1 = SideWidget(text="............................")
+        w2 = CentralWidget()
+        w3 = SideWidget(text="............................")
+
+        self.add_widget(w1)
+        self.add_widget(w2)
+        self.add_widget(w3)
+
+    def on_size(self, *args):
+        # self.size - size of parent widget
+        # self.children - children of widget
+        # self.children[0].texture_size - sife of content of selectend children widget
+        # self.children[0].size - size of selected children widget to set
+        if((self.size[0]-500)/2 > self.children[0].texture_size[0]):
+            self.children[0].size = ((self.size[0]-500)/2, 0)     
+            self.children[1].size = (500, 500)   
+            self.children[2].size = ((self.size[0]-500)/2, 0)   
+        else:
+            self.children[1].size = (self.size[0]-2*self.children[0].texture_size[0], self.size[0]-2*self.children[0].texture_size[0])  
+
+class MyApp(App):
+    def build(self):
+        return MyWidget()
+
+if __name__ == '__main__':
+    MyApp().run()

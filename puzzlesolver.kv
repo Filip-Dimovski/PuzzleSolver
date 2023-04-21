@@ -1,0 +1,759 @@
+#: import C kivy.utils.get_color_from_hex
+
+<CustomTextInput@TextInput>:
+    font_name: "Rubik"
+    size_hint: 0.5, 0.1
+    font_size: 30
+    multiline: False
+    background_normal:'files/images/textInput.png'
+    background_active:'files/images/textInput_down.png'
+    write_tab: False
+   
+<CustomButton@Button>:
+    font_name: "Rubik"
+    size_hint: 0.3, 0.23
+    color: 0,0,0,1
+    font_size: 20
+    valign: "middle"
+    halign: "center"
+    background_normal: 'files/images/button.png'
+    background_down: 'files/images/button_down.png'
+    background_disabled_normal: 'files/images/button_disabled.png'
+    disabled_color: 1, 0,0, 1
+
+
+<TitleLabel@Label>:
+    font_size: 35
+    font_name: "Andatino"
+    color: 0,0,0,1
+
+    pos_hint: {'x':0, 'y':0.2}
+
+<CustomLabel@Label>:
+    font_size: 21
+    size_hint: 0.4, 0.3
+    color: 0,0,0,1
+    font_name: "Rubik"
+
+<CustomPicture@Image>:
+    source: 'files/images/X.png'
+    size_hint: None, None
+    size: 20, 20
+
+
+<Row@BoxLayout>:
+    value: ''
+    orientation: 'vertical'
+
+    Button:
+        id: btn
+        text: root.value
+        background_normal:'files/images/ListView.png'
+        background_down:'files/images/ListView_down.png'
+        color: 0,0,0,1
+        font_size: 20
+        on_release:
+            app.root.update_puzzle_name(root.value)
+            
+
+
+
+<RootScreen>:
+    
+    LanguageScreen:
+    WelcomeScreen:
+    SignInScreen:
+    SignUpScreen:
+    HomeBoardScreen:
+    MyPuzzlesScreen:
+    NewPuzzleScreen:
+    ManageUserScreen
+    ChangePasswordScreen:
+    CameraScreen:
+    PictureViewScreen:
+    PictureScreen:
+    ChooseFileScreen:
+  
+
+<LanguageScreen>:
+    title_languagescreen: title_languagescreen
+    name: "language"
+    canvas.before:
+        Rectangle:
+            pos: self.pos
+            size: self.size
+            source: "files/images/background.jpg"
+
+    FloatLayout:
+        TitleLabel:
+            id: title_languagescreen
+            text: "PuzzleSolver"
+            pos_hint: {'center_x':.2, 'center_y':.9}
+
+        CustomButton:
+            pos_hint: {'center_x':.7, 'center_y':.5}
+            text: "EN"
+            on_release:
+                root.update_language_eng()
+                root.manager.current = "main"
+                root.manager.transition.direction="left"
+
+        CustomButton:
+            text: "MK"
+            pos_hint: {'center_x':.3, 'center_y':.5}
+            on_release:
+                root.update_language_mkd()
+                root.manager.current = "main"
+                root.manager.transition.direction="left"
+
+
+
+<WelcomeScreen>:
+    name: "main"
+    title_main : title_main
+    btn_signin_main : btn_signin_main
+    btn_signup_main : btn_signup_main
+    btn_nouser_main : btn_nouser_main
+    on_enter:
+        root.update_screen()
+
+    canvas.before:
+        Rectangle:
+            pos: self.pos
+            size: self.size
+            source: "files/images/background.jpg"
+    FloatLayout:
+        
+        TitleLabel:
+            id: title_main          
+
+        CustomButton:
+            id: btn_signin_main
+            markup: True
+            pos_hint: {'center_x':.80, 'center_y':.5}
+            on_release: 
+                root.manager.current = "sign_in"
+                root.manager.transition.direction="left"
+
+        CustomButton:
+            id: btn_nouser_main
+            markup: True
+            pos_hint: {'center_x':.50, 'center_y':.5}
+            on_release: 
+                root.manager.current = "homeboard"
+                root.manager.transition.direction="left"
+
+        CustomButton:
+            id: btn_signup_main
+            pos_hint: {'center_x':.2, 'center_y':.5}
+            on_release: 
+                root.manager.current = "sign_up"
+                root.manager.transition.direction="left"
+                
+<SignInScreen>:
+    name: "sign_in"
+    password_signin: password_signin
+    email_signin: email_signin
+    title_signin: title_signin
+    label_email_signin: label_email_signin
+    label_password_signin: label_password_signin
+    btn_signin_signin: btn_signin_signin
+    btn_clear_signin: btn_clear_signin
+    btn_goback_signin: btn_goback_signin
+    
+    on_pre_enter:
+        root.update_screen()
+ 
+    canvas.before:
+        Rectangle:
+            pos: self.pos
+            size: self.size
+            source: "files/images/background.jpg"
+    FloatLayout:
+
+        TitleLabel:
+            id: title_signin
+            pos_hint: {'center_x':.2, 'center_y':.9}
+            
+        
+        CustomLabel:
+            id: label_email_signin
+            pos_hint: {'x':-0.07, 'center_y':.7}
+            
+        CustomTextInput:
+            id: email_signin
+            pos_hint: {'center_x':.5, 'center_y':.7}
+            
+
+        CustomLabel:
+            id: label_password_signin
+            pos_hint: {'x':-0.07, 'center_y':.5}
+            
+            
+        CustomTextInput:
+            id: password_signin
+            password: True
+            pos_hint: {'center_x':.5, 'center_y':.5}
+
+        CustomButton:
+            id: btn_signin_signin
+            pos_hint: {'center_x':.15, 'center_y':.2}
+            on_release: 
+                root.btn_sign_in_on_pressed()
+
+        CustomButton:
+            id: btn_clear_signin
+            pos_hint: {'center_x':.45, 'center_y':.2}
+            on_press: 
+                password_signin.text =""
+                email_signin.text=""
+
+
+        CustomButton:
+            id: btn_goback_signin
+            pos_hint: {'center_x':.75, 'center_y':.2}
+            on_release: 
+                password_signin.text =""
+                email_signin.text=""
+                root.manager.current = "main"
+                root.manager.transition.direction="right"
+
+
+
+<SignUpScreen>:
+    name: "sign_up"
+    email_signup: email_signup
+    password_signup: password_signup
+    repeat_password_signup:repeat_password_signup
+    label_password_signup: label_password_signup
+    label_repeatpassword_signup: label_repeatpassword_signup
+    btn_signup_signup: btn_signup_signup
+    btn_clear_signup: btn_clear_signup
+    btn_goback_signup: btn_goback_signup
+
+    title_signup: title_signup
+    label_email_signup: label_email_signup
+
+    on_pre_enter:
+        root.update_screen()
+ 
+    canvas.before:
+        Rectangle:
+            pos: self.pos
+            size: self.size
+            source: "files/images/background.jpg"
+    FloatLayout:
+
+        TitleLabel:
+            id: title_signup
+            pos_hint: {'center_x':.2, 'center_y':.9}
+            
+        CustomLabel:
+            id: label_email_signup
+            pos_hint: {'x':-0.07, 'center_y':.75}
+            
+        CustomTextInput:
+            id: email_signup
+            pos_hint: {'center_x':.5, 'center_y':.75}
+            multiline: False
+
+        CustomLabel:
+            id: label_password_signup
+            pos_hint: {'x':-0.07, 'center_y':.55}
+            
+        CustomTextInput:
+            id: password_signup
+            password: True
+            pos_hint: {'center_x':.5, 'center_y':.55}
+
+
+        CustomLabel:
+            id: label_repeatpassword_signup
+            pos_hint: {'x':-0.07, 'center_y':.35}
+            
+        CustomTextInput:
+            id: repeat_password_signup
+            password: True
+            pos_hint: {'center_x':.5, 'center_y':.35}
+            
+
+        CustomButton:
+            id: btn_signup_signup
+            pos_hint: {'center_x':.15, 'center_y':.15}
+            on_release: 
+                root.btn_sign_up_on_pressed()
+
+        CustomButton:
+            id: btn_clear_signup
+            pos_hint: {'center_x':.45, 'center_y':.15}
+            on_press: 
+                password_signup.text =""
+                email_signup.text=""
+                repeat_password_signup.text=""
+
+
+        CustomButton:
+            id: btn_goback_signup
+            pos_hint: {'center_x':.75, 'center_y':.15}
+            on_release:
+                password_signup.text =""
+                email_signup.text=""
+                repeat_password_signup.text="" 
+                root.manager.current = "main"
+                root.manager.transition.direction="right"
+
+<HomeBoardScreen>:
+    name: "homeboard"
+    title_homeboard: title_homeboard
+    btn_mypuzzles_homeboard: btn_mypuzzles_homeboard
+    btn_newpuzzle_homeboard: btn_newpuzzle_homeboard
+    btn_signout_homeboard: btn_signout_homeboard
+    btn_manageuser_homeboard: btn_manageuser_homeboard
+
+    on_pre_enter:
+        root.update_screen()
+    canvas.before:
+        Rectangle:
+            pos: self.pos
+            size: self.size
+            source: "files/images/background.jpg"
+    FloatLayout:
+        TitleLabel:
+            id: title_homeboard
+            pos_hint: {'center_x':.3, 'center_y':.9}
+            
+        CustomButton:
+            id: btn_mypuzzles_homeboard
+            pos_hint: {'center_x':.3, 'center_y':.65}
+            on_release:
+                root.manager.current = "my_puzzles"
+                root.manager.transition.direction="left"
+
+        
+        CustomButton:
+            id: btn_newpuzzle_homeboard
+            pos_hint: {'center_x':.65, 'center_y':.65}
+            on_release:
+                root.manager.current = "new_puzzle"
+                root.manager.transition.direction="left"
+        
+        CustomButton:
+            id: btn_manageuser_homeboard
+            pos_hint: {'center_x':.3, 'center_y':.33}
+            on_release:
+                root.manager.current ='manage_user'
+                root.manager.transition.direction="left"
+
+        CustomButton:
+            id: btn_signout_homeboard
+            pos_hint: {'center_x':.65, 'center_y':.33}
+            on_release:
+                root.sign_out()
+
+
+<MyPuzzlesScreen>:
+    name: "my_puzzles"
+    title_mypuzzles: title_mypuzzles
+    rv:rv
+    btn_goback_mypuzzles:btn_goback_mypuzzles
+
+    on_pre_enter: root.update_screen()
+
+    canvas.before:
+        Rectangle:
+            pos: self.pos
+            size: self.size
+            source: "files/images/background.jpg"
+
+    BoxLayout:
+        orientation: 'vertical'
+
+        TitleLabel:
+            id: title_mypuzzles
+            pos_hint: {'center_x':.2, 'center_y':.9}
+
+        RecycleView:
+            id: rv
+            cols:2
+            scroll_type: ['bars', 'content']
+            scroll_wheel_distance: dp(10)
+            bar_width: dp(10)
+            viewclass: 'Row'
+
+            RecycleBoxLayout:
+                default_size: None, dp(56)
+                default_size_hint: 1, None
+                size_hint_y: None
+                height: self.minimum_height
+                orientation: 'vertical'
+                
+
+
+        
+           
+        CustomButton:
+            id: btn_goback_mypuzzles
+            size_hint_y: 0.7
+            on_release:
+                root.manager.current = "homeboard"
+                root.manager.transition.direction="left"
+
+
+<ManageUserScreen>:
+    name: "manage_user"
+    title_manageuser: title_manageuser
+    btn_goback_manageuser: btn_goback_manageuser
+    btn_changepassword_manageuser: btn_changepassword_manageuser
+    btn_deleteuser_manageuser: btn_deleteuser_manageuser
+
+    on_pre_enter:
+        root.update_screen()
+    canvas.before:
+        Rectangle:
+            pos: self.pos
+            size: self.size
+            source: "files/images/background.jpg"
+    FloatLayout:
+        TitleLabel:
+            id: title_manageuser
+            pos_hint: {'center_x':.3, 'center_y':.9}
+
+        CustomButton:
+            id: btn_changepassword_manageuser
+            pos_hint: {'center_x':.5, 'center_y':.7}
+            on_release: 
+                root.manager.current = "change_password"
+                root.manager.transition.direction="left"
+
+        CustomButton:
+            id: btn_deleteuser_manageuser
+            pos_hint: {'center_x':.5, 'center_y':.45}
+            on_release: 
+                root.btn_deleteuser_manageuser_onclick()
+           
+        CustomButton:
+            id: btn_goback_manageuser
+            pos_hint: {'center_x':.5, 'center_y':.15}
+            on_release: 
+                root.manager.current = "homeboard"
+                root.manager.transition.direction="left"
+
+<ChangePasswordScreen>:
+    name: "change_password"
+    title_changepassword: title_changepassword
+    label_currentpassword_changepassword: label_currentpassword_changepassword
+    currentpassword_changepassword: currentpassword_changepassword
+    label_newpassword_changepassword: label_newpassword_changepassword
+    newpassword_changepassword: newpassword_changepassword
+    label_repeatpassword_changepassword: label_repeatpassword_changepassword
+    repeatpassword_changepassword: repeatpassword_changepassword
+    btn_changepassword_changepassword : btn_changepassword_changepassword
+    btn_clear_changepassword:  btn_clear_changepassword
+    btn_goback_changepassword: btn_goback_changepassword
+
+    on_pre_enter:
+        root.update_screen()
+    canvas.before:
+        Rectangle:
+            pos: self.pos
+            size: self.size
+            source: "files/images/background.jpg"
+    FloatLayout:
+        TitleLabel:
+            id: title_changepassword
+            pos_hint: {'center_x':.3, 'center_y':.9}
+
+           
+        CustomLabel:
+            id: label_currentpassword_changepassword
+            pos_hint: {'x':-0.07, 'center_y':.75}
+            
+        CustomTextInput:
+            id: currentpassword_changepassword
+            password: True
+            pos_hint: {'center_x':.5, 'center_y':.75}
+            multiline: False
+
+        CustomLabel:
+            id: label_newpassword_changepassword
+            pos_hint: {'x':-0.07, 'center_y':.55}
+            
+        CustomTextInput:
+            id: newpassword_changepassword
+            password: True
+            pos_hint: {'center_x':.5, 'center_y':.55}
+
+
+        CustomLabel:
+            id: label_repeatpassword_changepassword
+            pos_hint: {'x':-0.07, 'center_y':.35}
+            
+        CustomTextInput:
+            id: repeatpassword_changepassword
+            password: True
+            pos_hint: {'center_x':.5, 'center_y':.35}
+            
+
+        CustomButton:
+            id: btn_changepassword_changepassword
+            pos_hint: {'center_x':.15, 'center_y':.15}
+            on_release: 
+                root.btn_changepassword_on_pressed()
+
+        CustomButton:
+            id: btn_clear_changepassword
+            pos_hint: {'center_x':.45, 'center_y':.15}
+            on_press: 
+                currentpassword_changepassword.text =""
+                newpassword_changepassword.text=""
+                repeatpassword_changepassword.text=""
+
+
+        CustomButton:
+            id: btn_goback_changepassword
+            pos_hint: {'center_x':.75, 'center_y':.15}
+            on_release:
+                currentpassword_changepassword.text =""
+                newpassword_changepassword.text=""
+                repeatpassword_changepassword.text="" 
+                root.manager.current = "manage_user"
+                root.manager.transition.direction="right"
+
+<NewPuzzleScreen>:
+    name: "new_puzzle"
+    btn_fullpuzzlecamera_newpuzzle: btn_fullpuzzlecamera_newpuzzle
+    btn_fullpuzzledirectory_newpuzzle:btn_fullpuzzledirectory_newpuzzle
+    btn_piecespuzzlecamera_newpuzzle: btn_piecespuzzlecamera_newpuzzle
+    btn_piecespuzzledirectory_newpuzzle: btn_piecespuzzledirectory_newpuzzle
+    new_puzzle_name: new_puzzle_name
+    title_newpuzzle: title_newpuzzle
+    label_puzzlename_newpuzzle: label_puzzlename_newpuzzle
+    label_fullpicture_newpuzzle: label_fullpicture_newpuzzle
+    label_piecespuzzle_newpuzzle: label_piecespuzzle_newpuzzle
+    btn_solvepuzzle_newpuzzle: btn_solvepuzzle_newpuzzle
+    btn_goback_newpuzzle: btn_goback_newpuzzle
+    img_fullpicture_newpuzzle: img_fullpicture_newpuzzle
+    img_piecespicture_newpuzzle: img_piecespicture_newpuzzle
+
+    on_pre_enter:
+        root.update_screen()
+
+    canvas.before:
+        Rectangle:
+            pos: self.pos
+            size: self.size
+            source: "files/images/background.jpg"
+    FloatLayout:
+
+        TitleLabel:
+            id: title_newpuzzle
+            pos_hint: {'center_x':.2, 'center_y':.9}
+            
+        CustomLabel:
+            id: label_puzzlename_newpuzzle
+            pos_hint: {'center_x':.1, 'center_y':.8}
+            
+        CustomTextInput:
+            id: new_puzzle_name
+            pos_hint: {'center_x':.5, 'center_y':.8}
+            
+
+        CustomLabel:
+            id: label_fullpicture_newpuzzle
+            pos_hint: {'center_x':.1, 'center_y':.6}
+
+        CustomPicture:
+            id: img_fullpicture_newpuzzle
+            pos_hint: {'center_x':.2, 'center_y':.6}
+               
+            
+        CustomButton:
+            id: btn_fullpuzzlecamera_newpuzzle
+            pos_hint: {'center_x':.4, 'center_y':.6}
+            on_release: 
+                root.update_camera_call("FullPuzzle")
+                root.manager.current = "camera"
+                root.manager.transition.direction="left"
+
+        CustomButton:
+            id: btn_fullpuzzledirectory_newpuzzle
+            pos_hint: {'center_x':.7, 'center_y':.6}
+            on_release: 
+                root.update_directory_call("FullPuzzle")
+                root.manager.current = "choose_file"
+                root.manager.transition.direction="left"
+            
+        CustomLabel:
+            id: label_piecespuzzle_newpuzzle
+            pos_hint: {'center_x':.1, 'center_y':.35}
+
+        CustomPicture:
+            id: img_piecespicture_newpuzzle
+            pos_hint: {'center_x':.2, 'center_y':.35}
+         
+            
+        CustomButton:
+            id: btn_piecespuzzlecamera_newpuzzle
+            pos_hint: {'center_x':.4, 'center_y':.35}
+            on_release: 
+                root.update_camera_call("PiecesPuzzle")
+                root.manager.current = "camera"
+                root.manager.transition.direction="left"
+           
+               
+        CustomButton:
+            id: btn_piecespuzzledirectory_newpuzzle
+            pos_hint: {'center_x':.7, 'center_y':.35}
+            on_release:
+                root.update_directory_call("PiecesPuzzle")
+                root.manager.current = "choose_file"
+                root.manager.transition.direction="left"
+               
+
+        CustomButton:
+            id: btn_solvepuzzle_newpuzzle
+            pos_hint: {'center_x':.4, 'center_y':.1}
+            on_release: 
+                root.btn_solve_puzzle_on_press()
+
+        CustomButton:
+            id: btn_goback_newpuzzle
+            pos_hint: {'center_x':.7, 'center_y':.1}
+            on_release: 
+                root.go_back()
+                root.manager.current = "homeboard"
+                root.manager.transition.direction="left"
+
+
+<CameraScreen>:
+    name: "camera"
+    orientation: 'vertical'
+    label_goback_camera: label_goback_camera
+    btn_capture_camera: btn_capture_camera
+
+    on_pre_enter:
+        root.update_screen()
+
+    Camera:
+        id: camera
+        resolution: (640, 480)
+        play: True
+    FloatLayout:        
+        CustomButton:
+            id: label_goback_camera
+            on_press: root.go_back()
+            pos_hint: {'center_x':.25, 'center_y':.2}
+
+        CustomButton:
+            id: btn_capture_camera
+            on_press: root.capture()
+            pos_hint: {'center_x':.75, 'center_y':.2}
+
+<ChooseFileScreen>:
+    name: "choose_file"
+    orientation: 'vertical'
+    btn_upload_choosefile: btn_upload_choosefile
+    btn_goback_choosefile: btn_goback_choosefile
+    on_pre_enter:
+        root.update_screen()
+
+    BoxLayout:
+        orientation: 'vertical'
+       
+        FileChooserListView:
+            id: filechooser
+            on_selection: root.selected(filechooser.selection)
+        Button:
+            id: btn_upload_choosefile
+            size_hint_y: None
+            height: '23dp'
+            on_release: root.open(filechooser.path, filechooser.selection)
+            pos_hint: {'right': 1}
+
+        Button:
+            id: btn_goback_choosefile
+            size_hint_y: None
+            height: '23dp'
+            on_release: 
+                root.manager.current = "new_puzzle"
+                root.manager.transition.direction="left"
+            pos_hint: {'left': 1}
+
+<PictureViewScreen>:
+    name: "picture_view"
+    title_pictureview: title_pictureview
+    btn_fullpuzzle_pictureview: btn_fullpuzzle_pictureview
+    btn_piecespuzzle_pictureview: btn_piecespuzzle_pictureview
+    btn_solution_pictureview: btn_solution_pictureview
+    btn_goback_pictureview: btn_goback_pictureview
+    btn_deletepuzzle_pictureview: btn_deletepuzzle_pictureview
+
+    on_pre_enter:
+        root.update_screen()
+    canvas.before:
+        Rectangle:
+            pos: self.pos
+            size: self.size
+            source: "files/images/background.jpg"
+    FloatLayout:
+        TitleLabel:
+            id: title_pictureview
+            pos_hint: {'center_x':.3, 'center_y':.9}
+           
+        CustomButton:
+            id: btn_fullpuzzle_pictureview
+            pos_hint: {'center_x':.3, 'center_y':.65}
+            on_release:
+                root.full_puzzle_on_click()
+        CustomButton:
+            id:btn_piecespuzzle_pictureview
+            pos_hint: {'center_x':.65, 'center_y':.65}
+            on_release:
+                root.pieces_puzzle_on_click()
+        
+
+        CustomButton:
+            id: btn_deletepuzzle_pictureview
+            pos_hint: {'center_x':.5, 'center_y':.45}
+            on_release:
+                root.btn_deletepuzzle_on_click()
+
+        CustomButton:
+            id: btn_solution_pictureview
+            pos_hint: {'center_x':.3, 'center_y':.25}
+            on_release:
+                root.solution_puzzle_on_click()
+
+        CustomButton:
+            id: btn_goback_pictureview
+            pos_hint: {'center_x':.65, 'center_y':.25}
+            on_release: 
+                root.btn_goback_on_click()
+
+<PictureScreen>:
+    name: "picture"
+    title_picturescreen: title_picturescreen
+    btn_goback_picture: btn_goback_picture
+    
+    on_pre_enter:
+        root.update_screen()
+    canvas.before:
+        Rectangle:
+            pos: self.pos
+            size: self.size
+            source: "files/images/background.jpg"
+    FloatLayout:
+        TitleLabel:
+            id: title_picturescreen
+            pos_hint: {'center_x':.3, 'center_y':.9}
+           
+        Image:
+            id: imageView
+            source: ''
+            allow_stretch: False
+        CustomButton:
+            id: btn_goback_picture
+            pos_hint: {'center_x':.5, 'center_y':.1}
+            on_release: 
+                root.manager.current = "picture_view"
+                root.manager.transition.direction="left"

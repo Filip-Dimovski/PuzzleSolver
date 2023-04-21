@@ -1,0 +1,1474 @@
+[2019-09-09 17:43:39,908] [INFO] : RootScreen: App has started
+[2019-09-09 17:43:46,665] [DEBUG] : LanguageScreen: mk language is used
+[2019-09-09 17:43:53,742] [DEBUG] : Homeboard:  No-user
+[2019-09-09 17:43:53,745] [INFO] : Homeboard: file temp_puzzle\0_FullPuzzle_20190909_164921.png is removed.
+[2019-09-09 17:43:53,747] [INFO] : Homeboard: file temp_puzzle\0_PiecesPuzzle_20190909_165016.png is removed.
+[2019-09-09 17:43:53,747] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 17:43:59,492] [INFO] : Homeboard: User has signed out
+[2019-09-09 17:44:01,344] [DEBUG] : SignInScreen: labels are configured
+[2019-09-09 17:44:13,427] [WARNING] : SignInScreen: wrong password format
+[2019-09-09 17:44:53,698] [INFO] : RootScreen: App has started
+[2019-09-09 17:45:04,751] [DEBUG] : LanguageScreen: mk language is used
+[2019-09-09 17:45:16,979] [DEBUG] : Homeboard:  No-user
+[2019-09-09 17:45:16,980] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 17:45:26,350] [INFO] : Homeboard: User has signed out
+[2019-09-09 17:45:28,004] [DEBUG] : SignInScreen: labels are configured
+[2019-09-09 17:45:37,116] [WARNING] : SignInScreen: wrong e-mail format
+[2019-09-09 17:45:45,036] [WARNING] : SignInScreen: wrong password format
+[2019-09-09 17:45:53,797] [WARNING] : SignInScreen: userName and password do not match
+[2019-09-09 17:46:00,679] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 17:46:00,679] [INFO] : SignInScreen: User filip@dimovski.com is successfully signed in
+[2019-09-09 17:46:13,055] [DEBUG] : ManageUserScreen: labels are configured
+[2019-09-09 17:46:19,110] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 17:46:27,810] [INFO] : RootScreen: App has started
+[2019-09-09 17:46:32,609] [DEBUG] : LanguageScreen: mk language is used
+[2019-09-09 17:46:33,985] [DEBUG] : SignInScreen: labels are configured
+[2019-09-09 17:46:42,968] [WARNING] : SignInScreen: wrong password format
+[2019-09-09 17:46:53,086] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 17:46:53,087] [INFO] : SignInScreen: User filip@dimovski.com is successfully signed in
+[2019-09-09 17:46:55,662] [INFO] : Homeboard: User has signed out
+[2019-09-09 17:46:57,054] [DEBUG] : SignInScreen: labels are configured
+[2019-09-09 17:47:13,636] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 17:47:13,636] [INFO] : SignInScreen: User filip@dimovski.com is successfully signed in
+[2019-09-09 17:47:15,260] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 17:47:23,247] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to FullPuzzle
+[2019-09-09 17:47:23,249] [DEBUG] : CameraScreen: labels configured.
+[2019-09-09 17:47:31,025] [INFO] : CameraScreen: image temp_puzzle/29_FullPuzzle_20190909_174730.png is created.
+[2019-09-09 17:47:31,025] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 17:47:33,454] [DEBUG] : NewPuzzleScreen: DIRECTORY_CALLED is changed to PiecesPuzzle
+[2019-09-09 17:47:33,456] [DEBUG] : ChooseFileScreen: labels are configured.
+[2019-09-09 17:47:47,392] [INFO] : ChooseFileScreen: file C:\Users\Filip.Dimovski\Desktop\test\PiecesPuzzle3.png is copied
+[2019-09-09 17:47:47,393] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 17:49:50,220] [INFO] : RootScreen: App has started
+[2019-09-09 17:49:54,345] [DEBUG] : LanguageScreen: en language is used
+[2019-09-09 17:49:55,639] [DEBUG] : Homeboard:  No-user
+[2019-09-09 17:49:55,639] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 17:49:57,683] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 17:49:58,846] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to FullPuzzle
+[2019-09-09 17:49:58,848] [DEBUG] : CameraScreen: labels configured.
+[2019-09-09 17:50:00,101] [INFO] : CameraScreen: image temp_puzzle/0_FullPuzzle_20190909_174959.png is created.
+[2019-09-09 17:50:00,102] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 17:50:00,949] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to PiecesPuzzle
+[2019-09-09 17:50:00,950] [DEBUG] : CameraScreen: labels configured.
+[2019-09-09 17:50:01,962] [INFO] : CameraScreen: image temp_puzzle/0_PiecesPuzzle_20190909_175001.png is created.
+[2019-09-09 17:50:01,963] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 17:50:07,108] [DEBUG] : PuzzleConnection: check_user_puzzle_rel:False
+[2019-09-09 17:50:07,109] [INFO] : NewPuzzleScreen: Folder users/0/asdas_20190909_175007 is created.
+[2019-09-09 17:50:07,111] [INFO] : NewPuzzleScreen: file users/0/asdas_20190909_175007/FullPuzzle.png is moved
+[2019-09-09 17:50:07,114] [INFO] : NewPuzzleScreen: file users/0/asdas_20190909_175007/PiecesPuzzle.png is moved
+[2019-09-09 17:50:50,120] [INFO] : RootScreen: App has started
+[2019-09-09 17:50:54,107] [DEBUG] : LanguageScreen: mk language is used
+[2019-09-09 17:50:55,671] [DEBUG] : Homeboard:  No-user
+[2019-09-09 17:50:55,672] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 17:50:57,077] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 17:51:00,771] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to FullPuzzle
+[2019-09-09 17:51:00,773] [DEBUG] : CameraScreen: labels configured.
+[2019-09-09 17:51:02,251] [INFO] : CameraScreen: image temp_puzzle/0_FullPuzzle_20190909_175102.png is created.
+[2019-09-09 17:51:02,251] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 17:51:03,008] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to PiecesPuzzle
+[2019-09-09 17:51:03,008] [DEBUG] : CameraScreen: labels configured.
+[2019-09-09 17:51:03,950] [INFO] : CameraScreen: image temp_puzzle/0_PiecesPuzzle_20190909_175103.png is created.
+[2019-09-09 17:51:03,951] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 17:51:06,139] [DEBUG] : PuzzleConnection: check_user_puzzle_rel:False
+[2019-09-09 17:51:06,140] [INFO] : NewPuzzleScreen: Folder users/0/t_20190909_175106 is created.
+[2019-09-09 17:51:06,142] [INFO] : NewPuzzleScreen: file users/0/t_20190909_175106/FullPuzzle.png is moved
+[2019-09-09 17:51:06,145] [INFO] : NewPuzzleScreen: file users/0/t_20190909_175106/PiecesPuzzle.png is moved
+[2019-09-09 17:51:06,178] [DEBUG] : PuzzleSolution: progressbar pop is open
+[2019-09-09 17:51:06,178] [DEBUG] : PuzzleSolution: initialize
+[2019-09-09 17:51:06,178] [DEBUG] : PuzzleSolution: solve_puzzle is called.
+[2019-09-09 17:51:06,179] [DEBUG] : PuzzleSolution: solve_puzzle_algorithm is called.
+[2019-09-09 17:51:06,195] [DEBUG] : PuzzleConnection: update_puzzle_solution called for Puzzle id:0. Solution Path:users/0/t_20190909_175106//SolutionPuzzle.png
+[2019-09-09 17:51:06,196] [INFO] : NewPuzzleScreen: Puzzle is solved.
+[2019-09-09 17:51:06,198] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 17:51:06,231] [INFO] : PuzzleSolution: Number of Contours found = 3
+[2019-09-09 17:51:06,253] [DEBUG] : PuzzleSolution:  part puzzle users/0/t_20190909_175106/piece1.png is created
+[2019-09-09 17:51:06,253] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:06,437] [DEBUG] : PuzzleSolution:  future_matches not match found
+[2019-09-09 17:51:06,444] [DEBUG] : PuzzleSolution:  part puzzle users/0/t_20190909_175106/piece2.png is created
+[2019-09-09 17:51:06,445] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:06,623] [DEBUG] : PuzzleSolution:  future_matches not match found
+[2019-09-09 17:51:06,638] [DEBUG] : PuzzleSolution:  part puzzle users/0/t_20190909_175106/piece3.png is created
+[2019-09-09 17:51:06,638] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:06,808] [DEBUG] : PuzzleSolution:  future_matches not match found
+[2019-09-09 17:51:07,246] [DEBUG] : PuzzleSolution: progress_bar.value =34.333333333333336
+[2019-09-09 17:51:07,322] [DEBUG] : PuzzleSolution: progress_bar.value =67.66666666666667
+[2019-09-09 17:51:08,096] [DEBUG] : PictureViewScreen: btn_goback is clicked
+[2019-09-09 17:51:08,101] [INFO] : PictureViewScreen: File:users/0/t_20190909_175106\FullPuzzle.png is removed
+[2019-09-09 17:51:08,103] [INFO] : PictureViewScreen: File:users/0/t_20190909_175106\piece1.png is removed
+[2019-09-09 17:51:08,104] [INFO] : PictureViewScreen: File:users/0/t_20190909_175106\piece2.png is removed
+[2019-09-09 17:51:08,106] [INFO] : PictureViewScreen: File:users/0/t_20190909_175106\piece3.png is removed
+[2019-09-09 17:51:08,108] [INFO] : PictureViewScreen: File:users/0/t_20190909_175106\PiecesPuzzle.png is removed
+[2019-09-09 17:51:08,110] [INFO] : PictureViewScreen: File:users/0/t_20190909_175106\SolutionPuzzle.png is removed
+[2019-09-09 17:51:08,112] [INFO] : PictureViewScreen: Folder: users/0/t_20190909_175106 is removed. 
+[2019-09-09 17:51:08,112] [DEBUG] : Homeboard:  No-user
+[2019-09-09 17:51:08,113] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 17:51:08,254] [DEBUG] : PuzzleSolution: progress_bar.value =100.0
+[2019-09-09 17:51:09,491] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 17:51:15,912] [DEBUG] : NewPuzzleScreen: DIRECTORY_CALLED is changed to FullPuzzle
+[2019-09-09 17:51:15,914] [DEBUG] : ChooseFileScreen: labels are configured.
+[2019-09-09 17:51:33,108] [INFO] : ChooseFileScreen: file C:\Users\Filip.Dimovski\Desktop\test\FullPuzzle3.png is copied
+[2019-09-09 17:51:33,109] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 17:51:34,239] [DEBUG] : NewPuzzleScreen: DIRECTORY_CALLED is changed to PiecesPuzzle
+[2019-09-09 17:51:34,240] [DEBUG] : ChooseFileScreen: labels are configured.
+[2019-09-09 17:51:37,468] [INFO] : ChooseFileScreen: file C:\Users\Filip.Dimovski\Desktop\test\PiecesPuzzle3.png is copied
+[2019-09-09 17:51:37,469] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 17:51:39,172] [DEBUG] : PuzzleConnection: check_user_puzzle_rel:False
+[2019-09-09 17:51:39,172] [INFO] : NewPuzzleScreen: Folder users/0/leneto_20190909_175139 is created.
+[2019-09-09 17:51:39,175] [INFO] : NewPuzzleScreen: file users/0/leneto_20190909_175139/FullPuzzle.png is moved
+[2019-09-09 17:51:39,177] [INFO] : NewPuzzleScreen: file users/0/leneto_20190909_175139/PiecesPuzzle.png is moved
+[2019-09-09 17:51:39,181] [DEBUG] : PuzzleSolution: progressbar pop is open
+[2019-09-09 17:51:39,181] [DEBUG] : PuzzleSolution: initialize
+[2019-09-09 17:51:39,181] [DEBUG] : PuzzleSolution: solve_puzzle is called.
+[2019-09-09 17:51:39,182] [DEBUG] : PuzzleSolution: solve_puzzle_algorithm is called.
+[2019-09-09 17:51:39,201] [DEBUG] : PuzzleConnection: update_puzzle_solution called for Puzzle id:0. Solution Path:users/0/leneto_20190909_175139//SolutionPuzzle.png
+[2019-09-09 17:51:39,201] [INFO] : NewPuzzleScreen: Puzzle is solved.
+[2019-09-09 17:51:39,202] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 17:51:39,245] [INFO] : PuzzleSolution: Number of Contours found = 32
+[2019-09-09 17:51:39,280] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece1.png is created
+[2019-09-09 17:51:39,280] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:39,715] [DEBUG] : PuzzleSolution:  future_matches match found at: (1028, 102)
+[2019-09-09 17:51:39,737] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece2.png is created
+[2019-09-09 17:51:39,737] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:40,093] [DEBUG] : PuzzleSolution:  future_matches not match found
+[2019-09-09 17:51:40,099] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece3.png is created
+[2019-09-09 17:51:40,099] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:40,260] [DEBUG] : PuzzleSolution: progress_bar.value =4.125
+[2019-09-09 17:51:40,320] [DEBUG] : PuzzleSolution: progress_bar.value =7.25
+[2019-09-09 17:51:40,469] [DEBUG] : PuzzleSolution:  future_matches match found at: (784, 207)
+[2019-09-09 17:51:40,494] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece4.png is created
+[2019-09-09 17:51:40,494] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:40,852] [DEBUG] : PuzzleSolution:  future_matches match found at: (347, 95)
+[2019-09-09 17:51:40,881] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece5.png is created
+[2019-09-09 17:51:40,881] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:41,235] [DEBUG] : PuzzleSolution:  future_matches match found at: (907, 585)
+[2019-09-09 17:51:41,258] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece6.png is created
+[2019-09-09 17:51:41,258] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:41,264] [DEBUG] : PuzzleSolution: progress_bar.value =10.375
+[2019-09-09 17:51:41,358] [DEBUG] : PuzzleSolution: progress_bar.value =13.5
+[2019-09-09 17:51:41,606] [DEBUG] : PuzzleSolution:  future_matches match found at: (854, 114)
+[2019-09-09 17:51:41,633] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece7.png is created
+[2019-09-09 17:51:41,633] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:41,993] [DEBUG] : PuzzleSolution:  future_matches match found at: (715, 461)
+[2019-09-09 17:51:42,016] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece8.png is created
+[2019-09-09 17:51:42,017] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:42,282] [DEBUG] : PuzzleSolution: progress_bar.value =16.625
+[2019-09-09 17:51:42,372] [DEBUG] : PuzzleSolution: progress_bar.value =19.75
+[2019-09-09 17:51:42,401] [DEBUG] : PuzzleSolution:  future_matches match found at: (724, 251)
+[2019-09-09 17:51:42,425] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece9.png is created
+[2019-09-09 17:51:42,425] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:42,784] [DEBUG] : PuzzleSolution:  future_matches not match found
+[2019-09-09 17:51:42,789] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece10.png is created
+[2019-09-09 17:51:42,789] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:43,145] [DEBUG] : PuzzleSolution:  future_matches match found at: (800, 399)
+[2019-09-09 17:51:43,172] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece11.png is created
+[2019-09-09 17:51:43,173] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:43,289] [DEBUG] : PuzzleSolution: progress_bar.value =22.875
+[2019-09-09 17:51:43,363] [DEBUG] : PuzzleSolution: progress_bar.value =26.0
+[2019-09-09 17:51:43,521] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece12.png is created
+[2019-09-09 17:51:43,521] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:43,857] [DEBUG] : PuzzleSolution:  future_matches not match found
+[2019-09-09 17:51:43,863] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece13.png is created
+[2019-09-09 17:51:43,863] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:44,251] [DEBUG] : PuzzleSolution:  future_matches match found at: (705, 344)
+[2019-09-09 17:51:44,281] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece14.png is created
+[2019-09-09 17:51:44,281] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:44,284] [DEBUG] : PuzzleSolution: progress_bar.value =29.125
+[2019-09-09 17:51:44,371] [DEBUG] : PuzzleSolution: progress_bar.value =32.25
+[2019-09-09 17:51:44,641] [DEBUG] : PuzzleSolution:  future_matches not match found
+[2019-09-09 17:51:44,645] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece15.png is created
+[2019-09-09 17:51:44,645] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:45,017] [DEBUG] : PuzzleSolution:  future_matches match found at: (1039, 506)
+[2019-09-09 17:51:45,042] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece16.png is created
+[2019-09-09 17:51:45,042] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:45,289] [DEBUG] : PuzzleSolution: progress_bar.value =35.375
+[2019-09-09 17:51:45,381] [DEBUG] : PuzzleSolution: progress_bar.value =38.5
+[2019-09-09 17:51:45,398] [DEBUG] : PuzzleSolution:  future_matches match found at: (775, 346)
+[2019-09-09 17:51:45,422] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece17.png is created
+[2019-09-09 17:51:45,423] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:45,786] [DEBUG] : PuzzleSolution:  future_matches not match found
+[2019-09-09 17:51:45,791] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece18.png is created
+[2019-09-09 17:51:45,791] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:46,146] [DEBUG] : PuzzleSolution:  future_matches match found at: (559, 421)
+[2019-09-09 17:51:46,172] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece19.png is created
+[2019-09-09 17:51:46,172] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:46,295] [DEBUG] : PuzzleSolution: progress_bar.value =41.625
+[2019-09-09 17:51:46,381] [DEBUG] : PuzzleSolution: progress_bar.value =44.75
+[2019-09-09 17:51:46,544] [DEBUG] : PuzzleSolution:  future_matches match found at: (393, 218)
+[2019-09-09 17:51:46,568] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece20.png is created
+[2019-09-09 17:51:46,568] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:46,922] [DEBUG] : PuzzleSolution:  future_matches not match found
+[2019-09-09 17:51:46,928] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece21.png is created
+[2019-09-09 17:51:46,928] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:47,273] [DEBUG] : PuzzleSolution:  future_matches match found at: (553, 242)
+[2019-09-09 17:51:47,292] [DEBUG] : PuzzleSolution: progress_bar.value =47.875
+[2019-09-09 17:51:47,303] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece22.png is created
+[2019-09-09 17:51:47,303] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:47,387] [DEBUG] : PuzzleSolution: progress_bar.value =51.0
+[2019-09-09 17:51:47,668] [DEBUG] : PuzzleSolution:  future_matches match found at: (388, 627)
+[2019-09-09 17:51:47,699] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece23.png is created
+[2019-09-09 17:51:47,699] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:48,045] [DEBUG] : PuzzleSolution:  future_matches match found at: (203, 513)
+[2019-09-09 17:51:48,070] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece24.png is created
+[2019-09-09 17:51:48,070] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:48,299] [DEBUG] : PuzzleSolution: progress_bar.value =54.125
+[2019-09-09 17:51:48,398] [DEBUG] : PuzzleSolution: progress_bar.value =57.25
+[2019-09-09 17:51:48,428] [DEBUG] : PuzzleSolution:  future_matches match found at: (656, 328)
+[2019-09-09 17:51:48,452] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece25.png is created
+[2019-09-09 17:51:48,452] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:48,806] [DEBUG] : PuzzleSolution:  future_matches match found at: (761, 218)
+[2019-09-09 17:51:48,829] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece26.png is created
+[2019-09-09 17:51:48,829] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:49,192] [DEBUG] : PuzzleSolution:  future_matches match found at: (391, 329)
+[2019-09-09 17:51:49,215] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece27.png is created
+[2019-09-09 17:51:49,215] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:49,304] [DEBUG] : PuzzleSolution: progress_bar.value =60.375
+[2019-09-09 17:51:49,392] [DEBUG] : PuzzleSolution: progress_bar.value =63.5
+[2019-09-09 17:51:49,591] [DEBUG] : PuzzleSolution:  future_matches match found at: (547, 481)
+[2019-09-09 17:51:49,615] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece28.png is created
+[2019-09-09 17:51:49,615] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:49,972] [DEBUG] : PuzzleSolution:  future_matches match found at: (393, 338)
+[2019-09-09 17:51:50,002] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece29.png is created
+[2019-09-09 17:51:50,003] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:50,301] [DEBUG] : PuzzleSolution: progress_bar.value =66.625
+[2019-09-09 17:51:50,366] [DEBUG] : PuzzleSolution:  future_matches match found at: (324, 370)
+[2019-09-09 17:51:50,398] [DEBUG] : PuzzleSolution: progress_bar.value =69.75
+[2019-09-09 17:51:50,399] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece30.png is created
+[2019-09-09 17:51:50,399] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:50,755] [DEBUG] : PuzzleSolution:  future_matches not match found
+[2019-09-09 17:51:50,760] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece31.png is created
+[2019-09-09 17:51:50,760] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:51,112] [DEBUG] : PuzzleSolution:  future_matches match found at: (508, 214)
+[2019-09-09 17:51:51,139] [DEBUG] : PuzzleSolution:  part puzzle users/0/leneto_20190909_175139/piece32.png is created
+[2019-09-09 17:51:51,139] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 17:51:51,305] [DEBUG] : PuzzleSolution: progress_bar.value =72.875
+[2019-09-09 17:51:51,395] [DEBUG] : PuzzleSolution: progress_bar.value =76.0
+[2019-09-09 17:51:51,535] [DEBUG] : PuzzleSolution:  future_matches match found at: (627, 544)
+[2019-09-09 17:51:52,303] [DEBUG] : PuzzleSolution: progress_bar.value =79.125
+[2019-09-09 17:51:52,392] [DEBUG] : PuzzleSolution: progress_bar.value =82.25
+[2019-09-09 17:51:53,309] [DEBUG] : PuzzleSolution: progress_bar.value =85.375
+[2019-09-09 17:51:53,392] [DEBUG] : PuzzleSolution: progress_bar.value =88.5
+[2019-09-09 17:51:54,314] [DEBUG] : PuzzleSolution: progress_bar.value =91.625
+[2019-09-09 17:51:54,397] [DEBUG] : PuzzleSolution: progress_bar.value =94.75
+[2019-09-09 17:51:55,314] [DEBUG] : PuzzleSolution: progress_bar.value =97.875
+[2019-09-09 17:51:55,401] [DEBUG] : PuzzleSolution: progress_bar.value =100.0
+[2019-09-09 17:51:56,195] [DEBUG] : PictureViewScreen: full_puzzle_on_click is called for puzzle: users/0/leneto_20190909_175139/FullPuzzle.png 
+[2019-09-09 17:51:56,221] [INFO] : PictureScreen: called for picture:users/0/leneto_20190909_175139/FullPuzzle.png
+[2019-09-09 17:52:00,602] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 17:52:01,723] [DEBUG] : PictureViewScreen: pieces_puzzle_on_click is called for puzzle: users/0/leneto_20190909_175139/PiecesPuzzle.png 
+[2019-09-09 17:52:01,750] [INFO] : PictureScreen: called for picture:users/0/leneto_20190909_175139/PiecesPuzzle.png
+[2019-09-09 17:52:05,654] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 17:52:06,731] [DEBUG] : PictureViewScreen: solution_puzzle_on_click is called for puzzle: users/0/leneto_20190909_175139/SolutionPuzzle.png 
+[2019-09-09 17:52:06,751] [INFO] : PictureScreen: called for picture:users/0/leneto_20190909_175139/SolutionPuzzle.png
+[2019-09-09 17:54:54,574] [INFO] : RootScreen: App has started
+[2019-09-09 17:57:12,489] [INFO] : RootScreen: App has started
+[2019-09-09 17:57:17,016] [DEBUG] : LanguageScreen: mk language is used
+[2019-09-09 17:57:19,526] [DEBUG] : SignInScreen: labels are configured
+[2019-09-09 17:57:32,350] [INFO] : Homeboard: file temp_puzzle\29_FullPuzzle_20190909_174730.png is removed.
+[2019-09-09 17:57:32,352] [INFO] : Homeboard: file temp_puzzle\29_PiecesPuzzle_20190909_174747.png is removed.
+[2019-09-09 17:57:32,352] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 17:57:32,352] [INFO] : SignInScreen: User filip@dimovski.com is successfully signed in
+[2019-09-09 17:57:35,074] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 17:57:35,074] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 17:57:40,278] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: qweqw, user_id: 29, result =66
+[2019-09-09 17:57:40,280] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 17:57:41,491] [DEBUG] : PictureViewScreen: delete puzzle popup
+[2019-09-09 17:57:42,352] [INFO] : PictureViewScreen: delete puzzle is called
+[2019-09-09 17:57:42,370] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:66. Full Path:users/29/qweqw_20190909_115627/FullPuzzle.png
+[2019-09-09 17:57:42,390] [INFO] : PuzzleConnection delete_user_puzzle_rel called for puzzle_id: 66.
+[2019-09-09 17:57:42,408] [INFO] : PuzzleConnection delete_puzzle_info called for puzzle_id: 66.
+[2019-09-09 17:57:42,410] [INFO] : PictureViewScreen: file users/29/qweqw_20190909_115627\FullPuzzle.png is removed.
+[2019-09-09 17:57:42,413] [INFO] : PictureViewScreen: file users/29/qweqw_20190909_115627\PiecesPuzzle.png is removed.
+[2019-09-09 17:57:42,450] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 17:57:42,450] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 17:57:43,318] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: seee_me123, user_id: 29, result =63
+[2019-09-09 17:57:43,318] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 17:57:44,262] [DEBUG] : PictureViewScreen: delete puzzle popup
+[2019-09-09 17:57:44,894] [INFO] : PictureViewScreen: delete puzzle is called
+[2019-09-09 17:57:44,908] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:63. Full Path:users/29/seee_me123_20190909_114637/FullPuzzle.png
+[2019-09-09 17:57:44,928] [INFO] : PuzzleConnection delete_user_puzzle_rel called for puzzle_id: 63.
+[2019-09-09 17:57:44,946] [INFO] : PuzzleConnection delete_puzzle_info called for puzzle_id: 63.
+[2019-09-09 17:57:44,948] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\FullPuzzle.png is removed.
+[2019-09-09 17:57:44,950] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece1.png is removed.
+[2019-09-09 17:57:44,952] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece10.png is removed.
+[2019-09-09 17:57:44,959] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece100.png is removed.
+[2019-09-09 17:57:44,962] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece101.png is removed.
+[2019-09-09 17:57:44,964] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece102.png is removed.
+[2019-09-09 17:57:44,966] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece103.png is removed.
+[2019-09-09 17:57:44,968] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece104.png is removed.
+[2019-09-09 17:57:44,970] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece105.png is removed.
+[2019-09-09 17:57:44,972] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece106.png is removed.
+[2019-09-09 17:57:44,974] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece107.png is removed.
+[2019-09-09 17:57:44,975] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece108.png is removed.
+[2019-09-09 17:57:44,978] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece109.png is removed.
+[2019-09-09 17:57:44,980] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece11.png is removed.
+[2019-09-09 17:57:44,981] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece12.png is removed.
+[2019-09-09 17:57:44,984] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece13.png is removed.
+[2019-09-09 17:57:44,984] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece14.png is removed.
+[2019-09-09 17:57:44,988] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece15.png is removed.
+[2019-09-09 17:57:44,989] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece16.png is removed.
+[2019-09-09 17:57:44,991] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece17.png is removed.
+[2019-09-09 17:57:44,993] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece18.png is removed.
+[2019-09-09 17:57:44,994] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece19.png is removed.
+[2019-09-09 17:57:44,996] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece2.png is removed.
+[2019-09-09 17:57:44,998] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece20.png is removed.
+[2019-09-09 17:57:45,000] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece21.png is removed.
+[2019-09-09 17:57:45,001] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece22.png is removed.
+[2019-09-09 17:57:45,003] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece23.png is removed.
+[2019-09-09 17:57:45,005] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece24.png is removed.
+[2019-09-09 17:57:45,006] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece25.png is removed.
+[2019-09-09 17:57:45,008] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece26.png is removed.
+[2019-09-09 17:57:45,010] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece27.png is removed.
+[2019-09-09 17:57:45,011] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece28.png is removed.
+[2019-09-09 17:57:45,013] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece29.png is removed.
+[2019-09-09 17:57:45,015] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece3.png is removed.
+[2019-09-09 17:57:45,017] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece30.png is removed.
+[2019-09-09 17:57:45,019] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece31.png is removed.
+[2019-09-09 17:57:45,021] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece32.png is removed.
+[2019-09-09 17:57:45,023] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece33.png is removed.
+[2019-09-09 17:57:45,024] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece34.png is removed.
+[2019-09-09 17:57:45,026] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece35.png is removed.
+[2019-09-09 17:57:45,028] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece36.png is removed.
+[2019-09-09 17:57:45,029] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece37.png is removed.
+[2019-09-09 17:57:45,032] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece38.png is removed.
+[2019-09-09 17:57:45,033] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece39.png is removed.
+[2019-09-09 17:57:45,035] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece4.png is removed.
+[2019-09-09 17:57:45,037] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece40.png is removed.
+[2019-09-09 17:57:45,039] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece41.png is removed.
+[2019-09-09 17:57:45,041] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece42.png is removed.
+[2019-09-09 17:57:45,043] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece43.png is removed.
+[2019-09-09 17:57:45,045] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece44.png is removed.
+[2019-09-09 17:57:45,047] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece45.png is removed.
+[2019-09-09 17:57:45,052] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece46.png is removed.
+[2019-09-09 17:57:45,057] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece47.png is removed.
+[2019-09-09 17:57:45,059] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece48.png is removed.
+[2019-09-09 17:57:45,061] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece49.png is removed.
+[2019-09-09 17:57:45,063] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece5.png is removed.
+[2019-09-09 17:57:45,065] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece50.png is removed.
+[2019-09-09 17:57:45,067] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece51.png is removed.
+[2019-09-09 17:57:45,069] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece52.png is removed.
+[2019-09-09 17:57:45,070] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece53.png is removed.
+[2019-09-09 17:57:45,072] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece54.png is removed.
+[2019-09-09 17:57:45,074] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece55.png is removed.
+[2019-09-09 17:57:45,076] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece56.png is removed.
+[2019-09-09 17:57:45,078] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece57.png is removed.
+[2019-09-09 17:57:45,080] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece58.png is removed.
+[2019-09-09 17:57:45,082] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece59.png is removed.
+[2019-09-09 17:57:45,084] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece6.png is removed.
+[2019-09-09 17:57:45,086] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece60.png is removed.
+[2019-09-09 17:57:45,088] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece61.png is removed.
+[2019-09-09 17:57:45,090] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece62.png is removed.
+[2019-09-09 17:57:45,091] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece63.png is removed.
+[2019-09-09 17:57:45,093] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece64.png is removed.
+[2019-09-09 17:57:45,095] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece65.png is removed.
+[2019-09-09 17:57:45,097] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece66.png is removed.
+[2019-09-09 17:57:45,099] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece67.png is removed.
+[2019-09-09 17:57:45,101] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece68.png is removed.
+[2019-09-09 17:57:45,102] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece69.png is removed.
+[2019-09-09 17:57:45,104] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece7.png is removed.
+[2019-09-09 17:57:45,106] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece70.png is removed.
+[2019-09-09 17:57:45,108] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece71.png is removed.
+[2019-09-09 17:57:45,110] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece72.png is removed.
+[2019-09-09 17:57:45,112] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece73.png is removed.
+[2019-09-09 17:57:45,115] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece74.png is removed.
+[2019-09-09 17:57:45,118] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece75.png is removed.
+[2019-09-09 17:57:45,120] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece76.png is removed.
+[2019-09-09 17:57:45,122] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece77.png is removed.
+[2019-09-09 17:57:45,124] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece78.png is removed.
+[2019-09-09 17:57:45,126] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece79.png is removed.
+[2019-09-09 17:57:45,128] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece8.png is removed.
+[2019-09-09 17:57:45,130] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece80.png is removed.
+[2019-09-09 17:57:45,132] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece81.png is removed.
+[2019-09-09 17:57:45,134] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece82.png is removed.
+[2019-09-09 17:57:45,135] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece83.png is removed.
+[2019-09-09 17:57:45,137] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece84.png is removed.
+[2019-09-09 17:57:45,139] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece85.png is removed.
+[2019-09-09 17:57:45,141] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece86.png is removed.
+[2019-09-09 17:57:45,143] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece87.png is removed.
+[2019-09-09 17:57:45,151] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece88.png is removed.
+[2019-09-09 17:57:45,153] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece89.png is removed.
+[2019-09-09 17:57:45,155] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece9.png is removed.
+[2019-09-09 17:57:45,157] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece90.png is removed.
+[2019-09-09 17:57:45,159] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece91.png is removed.
+[2019-09-09 17:57:45,161] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece92.png is removed.
+[2019-09-09 17:57:45,163] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece93.png is removed.
+[2019-09-09 17:57:45,165] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece94.png is removed.
+[2019-09-09 17:57:45,167] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece95.png is removed.
+[2019-09-09 17:57:45,169] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece96.png is removed.
+[2019-09-09 17:57:45,171] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece97.png is removed.
+[2019-09-09 17:57:45,173] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece98.png is removed.
+[2019-09-09 17:57:45,175] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\piece99.png is removed.
+[2019-09-09 17:57:45,177] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\PiecesPuzzle.png is removed.
+[2019-09-09 17:57:45,181] [INFO] : PictureViewScreen: file users/29/seee_me123_20190909_114637\SolutionPuzzle.png is removed.
+[2019-09-09 17:57:45,212] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 17:57:45,212] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 17:57:46,785] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: seee, user_id: 29, result =61
+[2019-09-09 17:57:46,785] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 17:57:47,672] [DEBUG] : PictureViewScreen: delete puzzle popup
+[2019-09-09 17:57:48,272] [INFO] : PictureViewScreen: delete puzzle is called
+[2019-09-09 17:57:48,290] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:61. Full Path:users/29/seee_20190909_114448/FullPuzzle.png
+[2019-09-09 17:57:48,311] [INFO] : PuzzleConnection delete_user_puzzle_rel called for puzzle_id: 61.
+[2019-09-09 17:57:48,328] [INFO] : PuzzleConnection delete_puzzle_info called for puzzle_id: 61.
+[2019-09-09 17:57:48,330] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\FullPuzzle.png is removed.
+[2019-09-09 17:57:48,333] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece1.png is removed.
+[2019-09-09 17:57:48,334] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece10.png is removed.
+[2019-09-09 17:57:48,340] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece11.png is removed.
+[2019-09-09 17:57:48,342] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece12.png is removed.
+[2019-09-09 17:57:48,344] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece13.png is removed.
+[2019-09-09 17:57:48,345] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece14.png is removed.
+[2019-09-09 17:57:48,347] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece15.png is removed.
+[2019-09-09 17:57:48,349] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece16.png is removed.
+[2019-09-09 17:57:48,352] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece17.png is removed.
+[2019-09-09 17:57:48,354] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece18.png is removed.
+[2019-09-09 17:57:48,356] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece19.png is removed.
+[2019-09-09 17:57:48,357] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece2.png is removed.
+[2019-09-09 17:57:48,359] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece20.png is removed.
+[2019-09-09 17:57:48,366] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece21.png is removed.
+[2019-09-09 17:57:48,368] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece22.png is removed.
+[2019-09-09 17:57:48,370] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece23.png is removed.
+[2019-09-09 17:57:48,372] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece24.png is removed.
+[2019-09-09 17:57:48,374] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece25.png is removed.
+[2019-09-09 17:57:48,375] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece26.png is removed.
+[2019-09-09 17:57:48,378] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece27.png is removed.
+[2019-09-09 17:57:48,379] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece28.png is removed.
+[2019-09-09 17:57:48,381] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece29.png is removed.
+[2019-09-09 17:57:48,383] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece3.png is removed.
+[2019-09-09 17:57:48,385] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece30.png is removed.
+[2019-09-09 17:57:48,386] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece31.png is removed.
+[2019-09-09 17:57:48,389] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece32.png is removed.
+[2019-09-09 17:57:48,391] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece4.png is removed.
+[2019-09-09 17:57:48,393] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece5.png is removed.
+[2019-09-09 17:57:48,395] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece6.png is removed.
+[2019-09-09 17:57:48,397] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece7.png is removed.
+[2019-09-09 17:57:48,398] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece8.png is removed.
+[2019-09-09 17:57:48,400] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\piece9.png is removed.
+[2019-09-09 17:57:48,403] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\PiecesPuzzle.png is removed.
+[2019-09-09 17:57:48,405] [INFO] : PictureViewScreen: file users/29/seee_20190909_114448\SolutionPuzzle.png is removed.
+[2019-09-09 17:57:48,436] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 17:57:48,436] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 17:57:49,322] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: seee_me, user_id: 29, result =62
+[2019-09-09 17:57:49,322] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 17:57:50,238] [DEBUG] : PictureViewScreen: delete puzzle popup
+[2019-09-09 17:57:50,768] [INFO] : PictureViewScreen: delete puzzle is called
+[2019-09-09 17:57:50,786] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:62. Full Path:users/29/seee_me_20190909_114534/FullPuzzle.png
+[2019-09-09 17:57:50,808] [INFO] : PuzzleConnection delete_user_puzzle_rel called for puzzle_id: 62.
+[2019-09-09 17:57:50,830] [INFO] : PuzzleConnection delete_puzzle_info called for puzzle_id: 62.
+[2019-09-09 17:57:50,833] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\FullPuzzle.png is removed.
+[2019-09-09 17:57:50,835] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece1.png is removed.
+[2019-09-09 17:57:50,837] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece10.png is removed.
+[2019-09-09 17:57:50,840] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece11.png is removed.
+[2019-09-09 17:57:50,842] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece12.png is removed.
+[2019-09-09 17:57:50,844] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece13.png is removed.
+[2019-09-09 17:57:50,846] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece14.png is removed.
+[2019-09-09 17:57:50,849] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece15.png is removed.
+[2019-09-09 17:57:50,852] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece16.png is removed.
+[2019-09-09 17:57:50,854] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece17.png is removed.
+[2019-09-09 17:57:50,857] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece18.png is removed.
+[2019-09-09 17:57:50,864] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece19.png is removed.
+[2019-09-09 17:57:50,867] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece2.png is removed.
+[2019-09-09 17:57:50,869] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece20.png is removed.
+[2019-09-09 17:57:50,871] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece21.png is removed.
+[2019-09-09 17:57:50,873] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece22.png is removed.
+[2019-09-09 17:57:50,876] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece23.png is removed.
+[2019-09-09 17:57:50,878] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece24.png is removed.
+[2019-09-09 17:57:50,880] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece25.png is removed.
+[2019-09-09 17:57:50,882] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece26.png is removed.
+[2019-09-09 17:57:50,883] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece27.png is removed.
+[2019-09-09 17:57:50,885] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece28.png is removed.
+[2019-09-09 17:57:50,887] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece29.png is removed.
+[2019-09-09 17:57:50,888] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece3.png is removed.
+[2019-09-09 17:57:50,890] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece30.png is removed.
+[2019-09-09 17:57:50,891] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece31.png is removed.
+[2019-09-09 17:57:50,893] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece32.png is removed.
+[2019-09-09 17:57:50,895] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece4.png is removed.
+[2019-09-09 17:57:50,897] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece5.png is removed.
+[2019-09-09 17:57:50,899] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece6.png is removed.
+[2019-09-09 17:57:50,901] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece7.png is removed.
+[2019-09-09 17:57:50,902] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece8.png is removed.
+[2019-09-09 17:57:50,904] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\piece9.png is removed.
+[2019-09-09 17:57:50,905] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\PiecesPuzzle.png is removed.
+[2019-09-09 17:57:50,907] [INFO] : PictureViewScreen: file users/29/seee_me_20190909_114534\SolutionPuzzle.png is removed.
+[2019-09-09 17:57:50,936] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 17:57:50,936] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 17:57:52,099] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: seee_me12353, user_id: 29, result =65
+[2019-09-09 17:57:52,100] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 17:57:52,941] [DEBUG] : PictureViewScreen: delete puzzle popup
+[2019-09-09 17:57:53,472] [INFO] : PictureViewScreen: delete puzzle is called
+[2019-09-09 17:57:53,490] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:65. Full Path:users/29/seee_me12353_20190909_114826/FullPuzzle.png
+[2019-09-09 17:57:53,509] [INFO] : PuzzleConnection delete_user_puzzle_rel called for puzzle_id: 65.
+[2019-09-09 17:57:53,529] [INFO] : PuzzleConnection delete_puzzle_info called for puzzle_id: 65.
+[2019-09-09 17:57:53,533] [INFO] : PictureViewScreen: file users/29/seee_me12353_20190909_114826\FullPuzzle.png is removed.
+[2019-09-09 17:57:53,535] [INFO] : PictureViewScreen: file users/29/seee_me12353_20190909_114826\piece1.png is removed.
+[2019-09-09 17:57:53,538] [INFO] : PictureViewScreen: file users/29/seee_me12353_20190909_114826\PiecesPuzzle.png is removed.
+[2019-09-09 17:57:53,540] [INFO] : PictureViewScreen: file users/29/seee_me12353_20190909_114826\SolutionPuzzle.png is removed.
+[2019-09-09 17:57:53,582] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 17:57:53,582] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 17:57:54,628] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: test123, user_id: 29, result =67
+[2019-09-09 17:57:54,629] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 17:57:55,592] [DEBUG] : PictureViewScreen: delete puzzle popup
+[2019-09-09 17:57:56,098] [INFO] : PictureViewScreen: delete puzzle is called
+[2019-09-09 17:57:56,114] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:67. Full Path:users/29/test123_20190909_115735/FullPuzzle.png
+[2019-09-09 17:57:56,135] [INFO] : PuzzleConnection delete_user_puzzle_rel called for puzzle_id: 67.
+[2019-09-09 17:57:56,153] [INFO] : PuzzleConnection delete_puzzle_info called for puzzle_id: 67.
+[2019-09-09 17:57:56,155] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\FullPuzzle.png is removed.
+[2019-09-09 17:57:56,158] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece1.png is removed.
+[2019-09-09 17:57:56,160] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece10.png is removed.
+[2019-09-09 17:57:56,162] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece11.png is removed.
+[2019-09-09 17:57:56,164] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece12.png is removed.
+[2019-09-09 17:57:56,166] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece13.png is removed.
+[2019-09-09 17:57:56,168] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece14.png is removed.
+[2019-09-09 17:57:56,174] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece15.png is removed.
+[2019-09-09 17:57:56,176] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece16.png is removed.
+[2019-09-09 17:57:56,177] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece17.png is removed.
+[2019-09-09 17:57:56,180] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece18.png is removed.
+[2019-09-09 17:57:56,182] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece19.png is removed.
+[2019-09-09 17:57:56,184] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece2.png is removed.
+[2019-09-09 17:57:56,185] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece20.png is removed.
+[2019-09-09 17:57:56,188] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece21.png is removed.
+[2019-09-09 17:57:56,190] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece22.png is removed.
+[2019-09-09 17:57:56,192] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece23.png is removed.
+[2019-09-09 17:57:56,193] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece24.png is removed.
+[2019-09-09 17:57:56,196] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece25.png is removed.
+[2019-09-09 17:57:56,198] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece26.png is removed.
+[2019-09-09 17:57:56,200] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece27.png is removed.
+[2019-09-09 17:57:56,202] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece28.png is removed.
+[2019-09-09 17:57:56,204] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece29.png is removed.
+[2019-09-09 17:57:56,206] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece3.png is removed.
+[2019-09-09 17:57:56,208] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece30.png is removed.
+[2019-09-09 17:57:56,209] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece31.png is removed.
+[2019-09-09 17:57:56,211] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece32.png is removed.
+[2019-09-09 17:57:56,213] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece4.png is removed.
+[2019-09-09 17:57:56,215] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece5.png is removed.
+[2019-09-09 17:57:56,217] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece6.png is removed.
+[2019-09-09 17:57:56,219] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece7.png is removed.
+[2019-09-09 17:57:56,221] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece8.png is removed.
+[2019-09-09 17:57:56,223] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\piece9.png is removed.
+[2019-09-09 17:57:56,224] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\PiecesPuzzle.png is removed.
+[2019-09-09 17:57:56,226] [INFO] : PictureViewScreen: file users/29/test123_20190909_115735\SolutionPuzzle.png is removed.
+[2019-09-09 17:57:56,257] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 17:57:56,258] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 17:57:57,335] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: test12345, user_id: 29, result =69
+[2019-09-09 17:57:57,335] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 17:57:58,118] [DEBUG] : PictureViewScreen: delete puzzle popup
+[2019-09-09 17:57:58,625] [INFO] : PictureViewScreen: delete puzzle is called
+[2019-09-09 17:57:58,643] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:69. Full Path:users/29/test12345_20190909_115949/FullPuzzle.png
+[2019-09-09 17:57:58,664] [INFO] : PuzzleConnection delete_user_puzzle_rel called for puzzle_id: 69.
+[2019-09-09 17:57:58,683] [INFO] : PuzzleConnection delete_puzzle_info called for puzzle_id: 69.
+[2019-09-09 17:57:58,689] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\FullPuzzle.png is removed.
+[2019-09-09 17:57:58,691] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece1.png is removed.
+[2019-09-09 17:57:58,693] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece10.png is removed.
+[2019-09-09 17:57:58,695] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece11.png is removed.
+[2019-09-09 17:57:58,697] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece12.png is removed.
+[2019-09-09 17:57:58,699] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece13.png is removed.
+[2019-09-09 17:57:58,701] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece14.png is removed.
+[2019-09-09 17:57:58,703] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece15.png is removed.
+[2019-09-09 17:57:58,705] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece16.png is removed.
+[2019-09-09 17:57:58,707] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece17.png is removed.
+[2019-09-09 17:57:58,709] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece18.png is removed.
+[2019-09-09 17:57:58,711] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece19.png is removed.
+[2019-09-09 17:57:58,712] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece2.png is removed.
+[2019-09-09 17:57:58,714] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece20.png is removed.
+[2019-09-09 17:57:58,716] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece21.png is removed.
+[2019-09-09 17:57:58,718] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece22.png is removed.
+[2019-09-09 17:57:58,720] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece23.png is removed.
+[2019-09-09 17:57:58,722] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece24.png is removed.
+[2019-09-09 17:57:58,724] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece25.png is removed.
+[2019-09-09 17:57:58,726] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece26.png is removed.
+[2019-09-09 17:57:58,727] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece27.png is removed.
+[2019-09-09 17:57:58,730] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece28.png is removed.
+[2019-09-09 17:57:58,731] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece29.png is removed.
+[2019-09-09 17:57:58,733] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece3.png is removed.
+[2019-09-09 17:57:58,735] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece30.png is removed.
+[2019-09-09 17:57:58,737] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece31.png is removed.
+[2019-09-09 17:57:58,739] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece32.png is removed.
+[2019-09-09 17:57:58,741] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece4.png is removed.
+[2019-09-09 17:57:58,743] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece5.png is removed.
+[2019-09-09 17:57:58,744] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece6.png is removed.
+[2019-09-09 17:57:58,746] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece7.png is removed.
+[2019-09-09 17:57:58,748] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece8.png is removed.
+[2019-09-09 17:57:58,750] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\piece9.png is removed.
+[2019-09-09 17:57:58,752] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\PiecesPuzzle.png is removed.
+[2019-09-09 17:57:58,753] [INFO] : PictureViewScreen: file users/29/test12345_20190909_115949\SolutionPuzzle.png is removed.
+[2019-09-09 17:57:58,787] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 17:57:58,787] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 17:57:59,599] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: test1234, user_id: 29, result =68
+[2019-09-09 17:57:59,600] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 17:58:00,335] [DEBUG] : PictureViewScreen: delete puzzle popup
+[2019-09-09 17:58:00,834] [INFO] : PictureViewScreen: delete puzzle is called
+[2019-09-09 17:58:00,851] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:68. Full Path:users/29/test1234_20190909_115922/FullPuzzle.png
+[2019-09-09 17:58:00,871] [INFO] : PuzzleConnection delete_user_puzzle_rel called for puzzle_id: 68.
+[2019-09-09 17:58:00,887] [INFO] : PuzzleConnection delete_puzzle_info called for puzzle_id: 68.
+[2019-09-09 17:58:00,896] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\FullPuzzle.png is removed.
+[2019-09-09 17:58:00,897] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece1.png is removed.
+[2019-09-09 17:58:00,899] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece10.png is removed.
+[2019-09-09 17:58:00,901] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece11.png is removed.
+[2019-09-09 17:58:00,903] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece12.png is removed.
+[2019-09-09 17:58:00,905] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece13.png is removed.
+[2019-09-09 17:58:00,907] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece14.png is removed.
+[2019-09-09 17:58:00,909] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece15.png is removed.
+[2019-09-09 17:58:00,911] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece16.png is removed.
+[2019-09-09 17:58:00,913] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece17.png is removed.
+[2019-09-09 17:58:00,915] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece18.png is removed.
+[2019-09-09 17:58:00,917] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece19.png is removed.
+[2019-09-09 17:58:00,919] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece2.png is removed.
+[2019-09-09 17:58:00,921] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece20.png is removed.
+[2019-09-09 17:58:00,923] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece21.png is removed.
+[2019-09-09 17:58:00,925] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece22.png is removed.
+[2019-09-09 17:58:00,927] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece23.png is removed.
+[2019-09-09 17:58:00,929] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece24.png is removed.
+[2019-09-09 17:58:00,931] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece25.png is removed.
+[2019-09-09 17:58:00,933] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece26.png is removed.
+[2019-09-09 17:58:00,934] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece27.png is removed.
+[2019-09-09 17:58:00,937] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece28.png is removed.
+[2019-09-09 17:58:00,938] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece29.png is removed.
+[2019-09-09 17:58:00,940] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece3.png is removed.
+[2019-09-09 17:58:00,942] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece30.png is removed.
+[2019-09-09 17:58:00,944] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece31.png is removed.
+[2019-09-09 17:58:00,946] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece32.png is removed.
+[2019-09-09 17:58:00,948] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece4.png is removed.
+[2019-09-09 17:58:00,951] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece5.png is removed.
+[2019-09-09 17:58:00,953] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece6.png is removed.
+[2019-09-09 17:58:00,955] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece7.png is removed.
+[2019-09-09 17:58:00,957] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece8.png is removed.
+[2019-09-09 17:58:00,959] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\piece9.png is removed.
+[2019-09-09 17:58:00,961] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\PiecesPuzzle.png is removed.
+[2019-09-09 17:58:00,963] [INFO] : PictureViewScreen: file users/29/test1234_20190909_115922\SolutionPuzzle.png is removed.
+[2019-09-09 17:58:00,999] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 17:58:00,999] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 17:58:01,712] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: sadasd, user_id: 29, result =70
+[2019-09-09 17:58:01,712] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 17:58:02,803] [DEBUG] : PictureViewScreen: delete puzzle popup
+[2019-09-09 17:58:03,302] [INFO] : PictureViewScreen: delete puzzle is called
+[2019-09-09 17:58:03,318] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:70. Full Path:users/29/sadasd_20190909_170329/FullPuzzle.png
+[2019-09-09 17:58:03,337] [INFO] : PuzzleConnection delete_user_puzzle_rel called for puzzle_id: 70.
+[2019-09-09 17:58:03,357] [INFO] : PuzzleConnection delete_puzzle_info called for puzzle_id: 70.
+[2019-09-09 17:58:03,359] [INFO] : PictureViewScreen: file users/29/sadasd_20190909_170329\FullPuzzle.png is removed.
+[2019-09-09 17:58:03,361] [INFO] : PictureViewScreen: file users/29/sadasd_20190909_170329\piece1.png is removed.
+[2019-09-09 17:58:03,362] [INFO] : PictureViewScreen: file users/29/sadasd_20190909_170329\piece10.png is removed.
+[2019-09-09 17:58:03,364] [INFO] : PictureViewScreen: file users/29/sadasd_20190909_170329\piece11.png is removed.
+[2019-09-09 17:58:03,366] [INFO] : PictureViewScreen: file users/29/sadasd_20190909_170329\piece12.png is removed.
+[2019-09-09 17:58:03,368] [INFO] : PictureViewScreen: file users/29/sadasd_20190909_170329\piece13.png is removed.
+[2019-09-09 17:58:03,370] [INFO] : PictureViewScreen: file users/29/sadasd_20190909_170329\piece14.png is removed.
+[2019-09-09 17:58:03,371] [INFO] : PictureViewScreen: file users/29/sadasd_20190909_170329\piece15.png is removed.
+[2019-09-09 17:58:03,373] [INFO] : PictureViewScreen: file users/29/sadasd_20190909_170329\piece16.png is removed.
+[2019-09-09 17:58:03,374] [INFO] : PictureViewScreen: file users/29/sadasd_20190909_170329\piece17.png is removed.
+[2019-09-09 17:58:03,376] [INFO] : PictureViewScreen: file users/29/sadasd_20190909_170329\piece18.png is removed.
+[2019-09-09 17:58:03,378] [INFO] : PictureViewScreen: file users/29/sadasd_20190909_170329\piece19.png is removed.
+[2019-09-09 17:58:03,380] [INFO] : PictureViewScreen: file users/29/sadasd_20190909_170329\piece2.png is removed.
+[2019-09-09 17:58:03,381] [INFO] : PictureViewScreen: file users/29/sadasd_20190909_170329\piece20.png is removed.
+[2019-09-09 17:58:03,384] [INFO] : PictureViewScreen: file users/29/sadasd_20190909_170329\piece21.png is removed.
+[2019-09-09 17:58:03,391] [INFO] : PictureViewScreen: file users/29/sadasd_20190909_170329\piece22.png is removed.
+[2019-09-09 17:58:03,392] [INFO] : PictureViewScreen: file users/29/sadasd_20190909_170329\piece23.png is removed.
+[2019-09-09 17:58:03,394] [INFO] : PictureViewScreen: file users/29/sadasd_20190909_170329\piece24.png is removed.
+[2019-09-09 17:58:03,396] [INFO] : PictureViewScreen: file users/29/sadasd_20190909_170329\piece3.png is removed.
+[2019-09-09 17:58:03,398] [INFO] : PictureViewScreen: file users/29/sadasd_20190909_170329\piece4.png is removed.
+[2019-09-09 17:58:03,400] [INFO] : PictureViewScreen: file users/29/sadasd_20190909_170329\piece5.png is removed.
+[2019-09-09 17:58:03,400] [INFO] : PictureViewScreen: file users/29/sadasd_20190909_170329\piece6.png is removed.
+[2019-09-09 17:58:03,402] [INFO] : PictureViewScreen: file users/29/sadasd_20190909_170329\piece7.png is removed.
+[2019-09-09 17:58:03,404] [INFO] : PictureViewScreen: file users/29/sadasd_20190909_170329\piece8.png is removed.
+[2019-09-09 17:58:03,405] [INFO] : PictureViewScreen: file users/29/sadasd_20190909_170329\piece9.png is removed.
+[2019-09-09 17:58:03,407] [INFO] : PictureViewScreen: file users/29/sadasd_20190909_170329\PiecesPuzzle.png is removed.
+[2019-09-09 17:58:03,409] [INFO] : PictureViewScreen: file users/29/sadasd_20190909_170329\SolutionPuzzle.png is removed.
+[2019-09-09 17:58:03,440] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 17:58:03,440] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 17:58:04,285] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: seee_me1235, user_id: 29, result =64
+[2019-09-09 17:58:04,286] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 17:58:05,201] [DEBUG] : PictureViewScreen: delete puzzle popup
+[2019-09-09 17:58:05,805] [INFO] : PictureViewScreen: delete puzzle is called
+[2019-09-09 17:58:05,823] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:64. Full Path:users/29/seee_me1235_20190909_114725/FullPuzzle.png
+[2019-09-09 17:58:05,844] [INFO] : PuzzleConnection delete_user_puzzle_rel called for puzzle_id: 64.
+[2019-09-09 17:58:05,864] [INFO] : PuzzleConnection delete_puzzle_info called for puzzle_id: 64.
+[2019-09-09 17:58:05,867] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\FullPuzzle.png is removed.
+[2019-09-09 17:58:05,869] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece1.png is removed.
+[2019-09-09 17:58:05,871] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece10.png is removed.
+[2019-09-09 17:58:05,873] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece11.png is removed.
+[2019-09-09 17:58:05,875] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece12.png is removed.
+[2019-09-09 17:58:05,877] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece13.png is removed.
+[2019-09-09 17:58:05,879] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece14.png is removed.
+[2019-09-09 17:58:05,881] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece15.png is removed.
+[2019-09-09 17:58:05,883] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece16.png is removed.
+[2019-09-09 17:58:05,885] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece17.png is removed.
+[2019-09-09 17:58:05,887] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece18.png is removed.
+[2019-09-09 17:58:05,889] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece19.png is removed.
+[2019-09-09 17:58:05,892] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece2.png is removed.
+[2019-09-09 17:58:05,894] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece20.png is removed.
+[2019-09-09 17:58:05,896] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece21.png is removed.
+[2019-09-09 17:58:05,903] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece22.png is removed.
+[2019-09-09 17:58:05,905] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece23.png is removed.
+[2019-09-09 17:58:05,907] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece24.png is removed.
+[2019-09-09 17:58:05,909] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece25.png is removed.
+[2019-09-09 17:58:05,910] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece26.png is removed.
+[2019-09-09 17:58:05,912] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece27.png is removed.
+[2019-09-09 17:58:05,914] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece28.png is removed.
+[2019-09-09 17:58:05,916] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece29.png is removed.
+[2019-09-09 17:58:05,917] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece3.png is removed.
+[2019-09-09 17:58:05,920] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece30.png is removed.
+[2019-09-09 17:58:05,921] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece31.png is removed.
+[2019-09-09 17:58:05,923] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece32.png is removed.
+[2019-09-09 17:58:05,925] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece33.png is removed.
+[2019-09-09 17:58:05,927] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece34.png is removed.
+[2019-09-09 17:58:05,929] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece35.png is removed.
+[2019-09-09 17:58:05,931] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece36.png is removed.
+[2019-09-09 17:58:05,932] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece37.png is removed.
+[2019-09-09 17:58:05,934] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece38.png is removed.
+[2019-09-09 17:58:05,936] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece39.png is removed.
+[2019-09-09 17:58:05,939] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece4.png is removed.
+[2019-09-09 17:58:05,941] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece40.png is removed.
+[2019-09-09 17:58:05,942] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece41.png is removed.
+[2019-09-09 17:58:05,945] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece42.png is removed.
+[2019-09-09 17:58:05,947] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece43.png is removed.
+[2019-09-09 17:58:05,949] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece44.png is removed.
+[2019-09-09 17:58:05,951] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece45.png is removed.
+[2019-09-09 17:58:05,952] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece46.png is removed.
+[2019-09-09 17:58:05,954] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece47.png is removed.
+[2019-09-09 17:58:05,956] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece48.png is removed.
+[2019-09-09 17:58:05,958] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece49.png is removed.
+[2019-09-09 17:58:05,960] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece5.png is removed.
+[2019-09-09 17:58:05,961] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece50.png is removed.
+[2019-09-09 17:58:05,963] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece51.png is removed.
+[2019-09-09 17:58:05,965] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece52.png is removed.
+[2019-09-09 17:58:05,968] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece53.png is removed.
+[2019-09-09 17:58:05,970] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece54.png is removed.
+[2019-09-09 17:58:05,972] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece55.png is removed.
+[2019-09-09 17:58:05,974] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece56.png is removed.
+[2019-09-09 17:58:05,976] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece57.png is removed.
+[2019-09-09 17:58:05,978] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece58.png is removed.
+[2019-09-09 17:58:05,979] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece59.png is removed.
+[2019-09-09 17:58:05,981] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece6.png is removed.
+[2019-09-09 17:58:05,983] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece60.png is removed.
+[2019-09-09 17:58:05,985] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece61.png is removed.
+[2019-09-09 17:58:05,987] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece62.png is removed.
+[2019-09-09 17:58:05,989] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece63.png is removed.
+[2019-09-09 17:58:05,991] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece64.png is removed.
+[2019-09-09 17:58:05,995] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece65.png is removed.
+[2019-09-09 17:58:06,000] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece66.png is removed.
+[2019-09-09 17:58:06,002] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece67.png is removed.
+[2019-09-09 17:58:06,004] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece68.png is removed.
+[2019-09-09 17:58:06,007] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece69.png is removed.
+[2019-09-09 17:58:06,009] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece7.png is removed.
+[2019-09-09 17:58:06,011] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece70.png is removed.
+[2019-09-09 17:58:06,013] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece71.png is removed.
+[2019-09-09 17:58:06,015] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece72.png is removed.
+[2019-09-09 17:58:06,017] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece73.png is removed.
+[2019-09-09 17:58:06,019] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece74.png is removed.
+[2019-09-09 17:58:06,021] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece75.png is removed.
+[2019-09-09 17:58:06,023] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece76.png is removed.
+[2019-09-09 17:58:06,025] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece77.png is removed.
+[2019-09-09 17:58:06,027] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece78.png is removed.
+[2019-09-09 17:58:06,028] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece79.png is removed.
+[2019-09-09 17:58:06,030] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece8.png is removed.
+[2019-09-09 17:58:06,032] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece80.png is removed.
+[2019-09-09 17:58:06,034] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece81.png is removed.
+[2019-09-09 17:58:06,036] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece82.png is removed.
+[2019-09-09 17:58:06,038] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece83.png is removed.
+[2019-09-09 17:58:06,039] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece84.png is removed.
+[2019-09-09 17:58:06,041] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece85.png is removed.
+[2019-09-09 17:58:06,043] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece86.png is removed.
+[2019-09-09 17:58:06,045] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece87.png is removed.
+[2019-09-09 17:58:06,046] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece88.png is removed.
+[2019-09-09 17:58:06,048] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\piece9.png is removed.
+[2019-09-09 17:58:06,050] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\PiecesPuzzle.png is removed.
+[2019-09-09 17:58:06,053] [INFO] : PictureViewScreen: file users/29/seee_me1235_20190909_114725\SolutionPuzzle.png is removed.
+[2019-09-09 17:58:06,083] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 17:58:06,084] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 17:58:07,180] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: zzqwe, user_id: 29, result =60
+[2019-09-09 17:58:07,181] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 17:58:08,308] [DEBUG] : PictureViewScreen: delete puzzle popup
+[2019-09-09 17:58:08,813] [INFO] : PictureViewScreen: delete puzzle is called
+[2019-09-09 17:58:08,830] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:60. Full Path:users/29/zzqwe_20190909_114338/FullPuzzle.png
+[2019-09-09 17:58:08,849] [INFO] : PuzzleConnection delete_user_puzzle_rel called for puzzle_id: 60.
+[2019-09-09 17:58:08,867] [INFO] : PuzzleConnection delete_puzzle_info called for puzzle_id: 60.
+[2019-09-09 17:58:08,870] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\FullPuzzle.png is removed.
+[2019-09-09 17:58:08,873] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece1.png is removed.
+[2019-09-09 17:58:08,875] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece10.png is removed.
+[2019-09-09 17:58:08,877] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece11.png is removed.
+[2019-09-09 17:58:08,879] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece12.png is removed.
+[2019-09-09 17:58:08,881] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece13.png is removed.
+[2019-09-09 17:58:08,884] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece14.png is removed.
+[2019-09-09 17:58:08,885] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece15.png is removed.
+[2019-09-09 17:58:08,888] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece16.png is removed.
+[2019-09-09 17:58:08,890] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece17.png is removed.
+[2019-09-09 17:58:08,892] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece18.png is removed.
+[2019-09-09 17:58:08,894] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece19.png is removed.
+[2019-09-09 17:58:08,897] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece2.png is removed.
+[2019-09-09 17:58:08,898] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece20.png is removed.
+[2019-09-09 17:58:08,900] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece21.png is removed.
+[2019-09-09 17:58:08,902] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece22.png is removed.
+[2019-09-09 17:58:08,904] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece23.png is removed.
+[2019-09-09 17:58:08,911] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece24.png is removed.
+[2019-09-09 17:58:08,913] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece25.png is removed.
+[2019-09-09 17:58:08,916] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece26.png is removed.
+[2019-09-09 17:58:08,918] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece27.png is removed.
+[2019-09-09 17:58:08,920] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece28.png is removed.
+[2019-09-09 17:58:08,922] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece29.png is removed.
+[2019-09-09 17:58:08,924] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece3.png is removed.
+[2019-09-09 17:58:08,926] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece30.png is removed.
+[2019-09-09 17:58:08,929] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece31.png is removed.
+[2019-09-09 17:58:08,930] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece32.png is removed.
+[2019-09-09 17:58:08,933] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece4.png is removed.
+[2019-09-09 17:58:08,935] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece5.png is removed.
+[2019-09-09 17:58:08,937] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece6.png is removed.
+[2019-09-09 17:58:08,939] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece7.png is removed.
+[2019-09-09 17:58:08,941] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece8.png is removed.
+[2019-09-09 17:58:08,943] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\piece9.png is removed.
+[2019-09-09 17:58:08,946] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\PiecesPuzzle.png is removed.
+[2019-09-09 17:58:08,948] [INFO] : PictureViewScreen: file users/29/zzqwe_20190909_114338\SolutionPuzzle.png is removed.
+[2019-09-09 17:58:08,978] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 17:58:08,978] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 17:58:09,726] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: zz, user_id: 29, result =59
+[2019-09-09 17:58:09,726] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 17:58:10,783] [DEBUG] : PictureViewScreen: delete puzzle popup
+[2019-09-09 17:58:11,517] [INFO] : PictureViewScreen: delete puzzle is called
+[2019-09-09 17:58:11,539] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:59. Full Path:users/29/zz_20190909_114259/FullPuzzle.png
+[2019-09-09 17:58:11,562] [INFO] : PuzzleConnection delete_user_puzzle_rel called for puzzle_id: 59.
+[2019-09-09 17:58:11,580] [INFO] : PuzzleConnection delete_puzzle_info called for puzzle_id: 59.
+[2019-09-09 17:58:11,582] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\FullPuzzle.png is removed.
+[2019-09-09 17:58:11,585] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece1.png is removed.
+[2019-09-09 17:58:11,587] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece10.png is removed.
+[2019-09-09 17:58:11,589] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece11.png is removed.
+[2019-09-09 17:58:11,591] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece12.png is removed.
+[2019-09-09 17:58:11,595] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece13.png is removed.
+[2019-09-09 17:58:11,597] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece14.png is removed.
+[2019-09-09 17:58:11,599] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece15.png is removed.
+[2019-09-09 17:58:11,601] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece16.png is removed.
+[2019-09-09 17:58:11,603] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece17.png is removed.
+[2019-09-09 17:58:11,605] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece18.png is removed.
+[2019-09-09 17:58:11,607] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece19.png is removed.
+[2019-09-09 17:58:11,614] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece2.png is removed.
+[2019-09-09 17:58:11,616] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece20.png is removed.
+[2019-09-09 17:58:11,619] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece21.png is removed.
+[2019-09-09 17:58:11,621] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece22.png is removed.
+[2019-09-09 17:58:11,623] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece23.png is removed.
+[2019-09-09 17:58:11,625] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece24.png is removed.
+[2019-09-09 17:58:11,627] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece25.png is removed.
+[2019-09-09 17:58:11,630] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece26.png is removed.
+[2019-09-09 17:58:11,632] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece27.png is removed.
+[2019-09-09 17:58:11,634] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece28.png is removed.
+[2019-09-09 17:58:11,636] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece29.png is removed.
+[2019-09-09 17:58:11,639] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece3.png is removed.
+[2019-09-09 17:58:11,641] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece30.png is removed.
+[2019-09-09 17:58:11,644] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece31.png is removed.
+[2019-09-09 17:58:11,646] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece32.png is removed.
+[2019-09-09 17:58:11,648] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece4.png is removed.
+[2019-09-09 17:58:11,650] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece5.png is removed.
+[2019-09-09 17:58:11,653] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece6.png is removed.
+[2019-09-09 17:58:11,655] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece7.png is removed.
+[2019-09-09 17:58:11,657] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece8.png is removed.
+[2019-09-09 17:58:11,659] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\piece9.png is removed.
+[2019-09-09 17:58:11,661] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\PiecesPuzzle.png is removed.
+[2019-09-09 17:58:11,664] [INFO] : PictureViewScreen: file users/29/zz_20190909_114259\SolutionPuzzle.png is removed.
+[2019-09-09 17:58:11,697] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 17:58:11,698] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 17:58:12,690] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: sesta, user_id: 29, result =58
+[2019-09-09 17:58:12,691] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 17:58:13,625] [DEBUG] : PictureViewScreen: delete puzzle popup
+[2019-09-09 17:58:14,150] [INFO] : PictureViewScreen: delete puzzle is called
+[2019-09-09 17:58:14,174] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:58. Full Path:users/29/sesta_20190909_113933/FullPuzzle.png
+[2019-09-09 17:58:14,201] [INFO] : PuzzleConnection delete_user_puzzle_rel called for puzzle_id: 58.
+[2019-09-09 17:58:14,221] [INFO] : PuzzleConnection delete_puzzle_info called for puzzle_id: 58.
+[2019-09-09 17:58:14,226] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\FullPuzzle.png is removed.
+[2019-09-09 17:58:14,228] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece1.png is removed.
+[2019-09-09 17:58:14,230] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece10.png is removed.
+[2019-09-09 17:58:14,232] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece11.png is removed.
+[2019-09-09 17:58:14,234] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece12.png is removed.
+[2019-09-09 17:58:14,235] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece13.png is removed.
+[2019-09-09 17:58:14,237] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece14.png is removed.
+[2019-09-09 17:58:14,239] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece15.png is removed.
+[2019-09-09 17:58:14,241] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece16.png is removed.
+[2019-09-09 17:58:14,242] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece17.png is removed.
+[2019-09-09 17:58:14,244] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece18.png is removed.
+[2019-09-09 17:58:14,246] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece19.png is removed.
+[2019-09-09 17:58:14,248] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece2.png is removed.
+[2019-09-09 17:58:14,249] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece20.png is removed.
+[2019-09-09 17:58:14,252] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece21.png is removed.
+[2019-09-09 17:58:14,254] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece22.png is removed.
+[2019-09-09 17:58:14,256] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece23.png is removed.
+[2019-09-09 17:58:14,258] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece24.png is removed.
+[2019-09-09 17:58:14,261] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece25.png is removed.
+[2019-09-09 17:58:14,263] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece26.png is removed.
+[2019-09-09 17:58:14,265] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece27.png is removed.
+[2019-09-09 17:58:14,267] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece28.png is removed.
+[2019-09-09 17:58:14,269] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece29.png is removed.
+[2019-09-09 17:58:14,271] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece3.png is removed.
+[2019-09-09 17:58:14,273] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece30.png is removed.
+[2019-09-09 17:58:14,275] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece31.png is removed.
+[2019-09-09 17:58:14,277] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece32.png is removed.
+[2019-09-09 17:58:14,279] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece4.png is removed.
+[2019-09-09 17:58:14,281] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece5.png is removed.
+[2019-09-09 17:58:14,283] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece6.png is removed.
+[2019-09-09 17:58:14,285] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece7.png is removed.
+[2019-09-09 17:58:14,287] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece8.png is removed.
+[2019-09-09 17:58:14,288] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\piece9.png is removed.
+[2019-09-09 17:58:14,291] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\PiecesPuzzle.png is removed.
+[2019-09-09 17:58:14,293] [INFO] : PictureViewScreen: file users/29/sesta_20190909_113933\SolutionPuzzle.png is removed.
+[2019-09-09 17:58:14,327] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 17:58:14,327] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 17:58:15,540] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: asds1, user_id: 29, result =57
+[2019-09-09 17:58:15,540] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 17:58:16,841] [DEBUG] : PictureViewScreen: delete puzzle popup
+[2019-09-09 17:58:17,358] [INFO] : PictureViewScreen: delete puzzle is called
+[2019-09-09 17:58:17,373] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:57. Full Path:users/29/asds1_20190909_111533/FullPuzzle.png
+[2019-09-09 17:58:17,392] [INFO] : PuzzleConnection delete_user_puzzle_rel called for puzzle_id: 57.
+[2019-09-09 17:58:17,410] [INFO] : PuzzleConnection delete_puzzle_info called for puzzle_id: 57.
+[2019-09-09 17:58:17,412] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\FullPuzzle.png is removed.
+[2019-09-09 17:58:17,415] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece1.png is removed.
+[2019-09-09 17:58:17,422] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece10.png is removed.
+[2019-09-09 17:58:17,424] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece11.png is removed.
+[2019-09-09 17:58:17,426] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece12.png is removed.
+[2019-09-09 17:58:17,428] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece13.png is removed.
+[2019-09-09 17:58:17,430] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece14.png is removed.
+[2019-09-09 17:58:17,432] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece15.png is removed.
+[2019-09-09 17:58:17,434] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece16.png is removed.
+[2019-09-09 17:58:17,436] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece17.png is removed.
+[2019-09-09 17:58:17,438] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece18.png is removed.
+[2019-09-09 17:58:17,440] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece19.png is removed.
+[2019-09-09 17:58:17,442] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece2.png is removed.
+[2019-09-09 17:58:17,444] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece20.png is removed.
+[2019-09-09 17:58:17,446] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece21.png is removed.
+[2019-09-09 17:58:17,449] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece22.png is removed.
+[2019-09-09 17:58:17,450] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece23.png is removed.
+[2019-09-09 17:58:17,452] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece24.png is removed.
+[2019-09-09 17:58:17,454] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece25.png is removed.
+[2019-09-09 17:58:17,457] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece26.png is removed.
+[2019-09-09 17:58:17,459] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece27.png is removed.
+[2019-09-09 17:58:17,461] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece28.png is removed.
+[2019-09-09 17:58:17,463] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece29.png is removed.
+[2019-09-09 17:58:17,465] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece3.png is removed.
+[2019-09-09 17:58:17,467] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece30.png is removed.
+[2019-09-09 17:58:17,469] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece31.png is removed.
+[2019-09-09 17:58:17,471] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece32.png is removed.
+[2019-09-09 17:58:17,473] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece4.png is removed.
+[2019-09-09 17:58:17,475] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece5.png is removed.
+[2019-09-09 17:58:17,478] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece6.png is removed.
+[2019-09-09 17:58:17,481] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece7.png is removed.
+[2019-09-09 17:58:17,483] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece8.png is removed.
+[2019-09-09 17:58:17,485] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\piece9.png is removed.
+[2019-09-09 17:58:17,488] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\PiecesPuzzle.png is removed.
+[2019-09-09 17:58:17,490] [INFO] : PictureViewScreen: file users/29/asds1_20190909_111533\SolutionPuzzle.png is removed.
+[2019-09-09 17:58:17,524] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 17:58:17,524] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 17:58:18,660] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 17:58:23,047] [INFO] : RootScreen: App has started
+[2019-09-09 17:58:28,412] [DEBUG] : LanguageScreen: mk language is used
+[2019-09-09 19:16:50,452] [INFO] : RootScreen: App has started
+[2019-09-09 19:16:56,990] [DEBUG] : LanguageScreen: mk language is used
+[2019-09-09 19:16:59,591] [DEBUG] : SignInScreen: labels are configured
+[2019-09-09 19:17:11,408] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 19:17:11,408] [INFO] : SignInScreen: User filip@dimovski.com is successfully signed in
+[2019-09-09 19:17:13,528] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 19:17:13,528] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 19:17:15,276] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 19:17:16,125] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 19:17:17,045] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to FullPuzzle
+[2019-09-09 19:17:17,047] [DEBUG] : CameraScreen: labels configured.
+[2019-09-09 19:17:18,084] [INFO] : CameraScreen: image temp_puzzle/29_FullPuzzle_20190909_191717.png is created.
+[2019-09-09 19:17:18,085] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 19:17:18,908] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to PiecesPuzzle
+[2019-09-09 19:17:18,909] [DEBUG] : CameraScreen: labels configured.
+[2019-09-09 19:17:19,868] [INFO] : CameraScreen: image temp_puzzle/29_PiecesPuzzle_20190909_191719.png is created.
+[2019-09-09 19:17:19,869] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 19:17:23,207] [DEBUG] : PuzzleConnection: check_user_puzzle_rel:False
+[2019-09-09 19:17:23,208] [INFO] : NewPuzzleScreen: Folder users/29/test_20190909_191723 is created.
+[2019-09-09 19:17:23,210] [INFO] : NewPuzzleScreen: file users/29/test_20190909_191723/FullPuzzle.png is moved
+[2019-09-09 19:17:23,212] [INFO] : NewPuzzleScreen: file users/29/test_20190909_191723/PiecesPuzzle.png is moved
+[2019-09-09 19:17:23,237] [INFO] : PuzzleConnection: puzzle: test for user id: 29 is created
+[2019-09-09 19:17:23,268] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: test, user_id: 29, result =71
+[2019-09-09 19:17:23,274] [INFO] : PuzzleConnection: puzzle: test - user id: 29 relation is created
+[2019-09-09 19:17:23,289] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: test, user_id: 29, result =71
+[2019-09-09 19:17:23,304] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:71. Full Path:users/29/test_20190909_191723/FullPuzzle.png
+[2019-09-09 19:17:23,335] [DEBUG] : PuzzleSolution: progressbar pop is open
+[2019-09-09 19:17:23,335] [DEBUG] : PuzzleSolution: initialize
+[2019-09-09 19:17:23,335] [DEBUG] : PuzzleSolution: solve_puzzle is called.
+[2019-09-09 19:17:23,336] [DEBUG] : PuzzleSolution: solve_puzzle_algorithm is called.
+[2019-09-09 19:17:23,358] [DEBUG] : PuzzleConnection: update_puzzle_solution called for Puzzle id:71. Solution Path:users/29/test_20190909_191723//SolutionPuzzle.png
+[2019-09-09 19:17:23,358] [INFO] : NewPuzzleScreen: Puzzle is solved.
+[2019-09-09 19:17:23,360] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 19:17:23,378] [INFO] : PuzzleSolution: Number of Contours found = 1
+[2019-09-09 19:17:23,411] [DEBUG] : PuzzleSolution:  part puzzle users/29/test_20190909_191723/piece1.png is created
+[2019-09-09 19:17:23,412] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 19:17:23,644] [DEBUG] : PuzzleSolution:  future_matches match found at: (450, 356)
+[2019-09-09 19:17:24,379] [DEBUG] : PuzzleSolution: progress_bar.value =100.0
+[2019-09-09 19:17:25,403] [DEBUG] : PictureViewScreen: btn_goback is clicked
+[2019-09-09 19:17:25,433] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 19:17:25,433] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 19:19:09,432] [INFO] : RootScreen: App has started
+[2019-09-09 19:19:14,000] [DEBUG] : LanguageScreen: mk language is used
+[2019-09-09 19:19:16,168] [DEBUG] : SignInScreen: labels are configured
+[2019-09-09 19:19:27,325] [WARNING] : SignInScreen: userName and password do not match
+[2019-09-09 19:19:30,750] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 19:19:30,750] [INFO] : SignInScreen: User filip@dimovski.com is successfully signed in
+[2019-09-09 19:19:33,044] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 19:19:33,044] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 19:19:37,664] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: test, user_id: 29, result =71
+[2019-09-09 19:19:37,666] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 19:19:39,604] [DEBUG] : PictureViewScreen: btn_goback is clicked
+[2019-09-09 19:19:39,632] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 19:19:39,633] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 19:47:05,256] [INFO] : RootScreen: App has started
+[2019-09-09 19:47:39,386] [INFO] : RootScreen: App has started
+[2019-09-09 19:47:57,995] [INFO] : RootScreen: App has started
+[2019-09-09 19:48:31,128] [INFO] : RootScreen: App has started
+[2019-09-09 19:48:35,604] [DEBUG] : LanguageScreen: mk language is used
+[2019-09-09 19:48:37,149] [DEBUG] : SignInScreen: labels are configured
+[2019-09-09 19:48:48,928] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 19:48:48,928] [INFO] : SignInScreen: User filip@dimovski.com is successfully signed in
+[2019-09-09 19:49:14,999] [INFO] : RootScreen: App has started
+[2019-09-09 19:49:21,442] [DEBUG] : LanguageScreen: en language is used
+[2019-09-09 19:49:23,527] [DEBUG] : SignInScreen: labels are configured
+[2019-09-09 19:49:35,068] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 19:49:35,069] [INFO] : SignInScreen: User filip@dimovski.com is successfully signed in
+[2019-09-09 19:49:36,722] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 19:50:17,812] [INFO] : RootScreen: App has started
+[2019-09-09 19:50:27,901] [DEBUG] : LanguageScreen: mk language is used
+[2019-09-09 19:50:29,388] [DEBUG] : SignInScreen: labels are configured
+[2019-09-09 19:50:40,304] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 19:50:40,304] [INFO] : SignInScreen: User filip@dimovski.com is successfully signed in
+[2019-09-09 19:50:41,431] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 19:51:05,740] [INFO] : RootScreen: App has started
+[2019-09-09 19:51:17,744] [DEBUG] : LanguageScreen: mk language is used
+[2019-09-09 19:51:20,759] [DEBUG] : SignInScreen: labels are configured
+[2019-09-09 19:51:33,068] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 19:51:33,069] [INFO] : SignInScreen: User filip@dimovski.com is successfully signed in
+[2019-09-09 19:51:35,061] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 19:51:35,063] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 19:51:45,246] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 19:51:47,084] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 19:51:48,247] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to FullPuzzle
+[2019-09-09 19:51:48,250] [DEBUG] : CameraScreen: labels configured.
+[2019-09-09 19:51:49,487] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 19:51:49,488] [DEBUG] : CameraScreen: go_back is called.
+[2019-09-09 19:51:50,843] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to PiecesPuzzle
+[2019-09-09 19:51:50,843] [DEBUG] : CameraScreen: labels configured.
+[2019-09-09 19:51:52,496] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 19:51:52,496] [DEBUG] : CameraScreen: go_back is called.
+[2019-09-09 19:51:54,147] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to PiecesPuzzle
+[2019-09-09 19:51:54,148] [DEBUG] : CameraScreen: labels configured.
+[2019-09-09 19:51:55,516] [INFO] : CameraScreen: image temp_puzzle/29_PiecesPuzzle_20190909_195155.png is created.
+[2019-09-09 19:51:55,517] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 19:51:56,433] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to FullPuzzle
+[2019-09-09 19:51:56,433] [DEBUG] : CameraScreen: labels configured.
+[2019-09-09 19:51:57,577] [INFO] : CameraScreen: image temp_puzzle/29_FullPuzzle_20190909_195157.png is created.
+[2019-09-09 19:51:57,578] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 19:52:00,409] [DEBUG] : PuzzleConnection: check_user_puzzle_rel:False
+[2019-09-09 19:52:00,410] [INFO] : NewPuzzleScreen: Folder users/29/ww_20190909_195200 is created.
+[2019-09-09 19:52:00,413] [INFO] : NewPuzzleScreen: file users/29/ww_20190909_195200/FullPuzzle.png is moved
+[2019-09-09 19:52:00,415] [INFO] : NewPuzzleScreen: file users/29/ww_20190909_195200/PiecesPuzzle.png is moved
+[2019-09-09 19:52:00,438] [INFO] : PuzzleConnection: puzzle: ww for user id: 29 is created
+[2019-09-09 19:52:00,471] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: ww, user_id: 29, result =72
+[2019-09-09 19:52:00,474] [INFO] : PuzzleConnection: puzzle: ww - user id: 29 relation is created
+[2019-09-09 19:52:00,495] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: ww, user_id: 29, result =72
+[2019-09-09 19:52:00,508] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:72. Full Path:users/29/ww_20190909_195200/FullPuzzle.png
+[2019-09-09 19:52:00,537] [DEBUG] : PuzzleSolution: progressbar pop is open
+[2019-09-09 19:52:00,537] [DEBUG] : PuzzleSolution: initialize
+[2019-09-09 19:52:00,537] [DEBUG] : PuzzleSolution: solve_puzzle is called.
+[2019-09-09 19:52:00,538] [DEBUG] : PuzzleSolution: solve_puzzle_algorithm is called.
+[2019-09-09 19:52:00,559] [DEBUG] : PuzzleConnection: update_puzzle_solution called for Puzzle id:72. Solution Path:users/29/ww_20190909_195200//SolutionPuzzle.png
+[2019-09-09 19:52:00,559] [INFO] : NewPuzzleScreen: Puzzle is solved.
+[2019-09-09 19:52:00,561] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 19:52:00,585] [INFO] : PuzzleSolution: Number of Contours found = 1
+[2019-09-09 19:52:00,618] [DEBUG] : PuzzleSolution:  part puzzle users/29/ww_20190909_195200/piece1.png is created
+[2019-09-09 19:52:00,618] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 19:52:00,908] [DEBUG] : PuzzleSolution:  future_matches match found at: (377, 352)
+[2019-09-09 19:52:01,582] [DEBUG] : PuzzleSolution: progress_bar.value =100.0
+[2019-09-09 19:52:02,985] [DEBUG] : PictureViewScreen: btn_goback is clicked
+[2019-09-09 19:52:03,016] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 19:53:45,633] [INFO] : RootScreen: App has started
+[2019-09-09 19:53:49,473] [DEBUG] : LanguageScreen: mk language is used
+[2019-09-09 19:53:51,371] [DEBUG] : SignInScreen: labels are configured
+[2019-09-09 19:54:03,980] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 19:54:03,981] [INFO] : SignInScreen: User filip@dimovski.com is successfully signed in
+[2019-09-09 19:54:07,083] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 19:54:11,286] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to FullPuzzle
+[2019-09-09 19:54:11,289] [DEBUG] : CameraScreen: labels configured.
+[2019-09-09 19:54:13,138] [INFO] : CameraScreen: image temp_puzzle/29_FullPuzzle_20190909_195412.png is created.
+[2019-09-09 19:54:13,139] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 19:54:14,419] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to PiecesPuzzle
+[2019-09-09 19:54:14,419] [DEBUG] : CameraScreen: labels configured.
+[2019-09-09 19:54:16,722] [INFO] : CameraScreen: image temp_puzzle/29_PiecesPuzzle_20190909_195416.png is created.
+[2019-09-09 19:54:16,722] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 19:54:18,064] [DEBUG] : PuzzleConnection: check_user_puzzle_rel:False
+[2019-09-09 19:54:18,065] [INFO] : NewPuzzleScreen: Folder users/29/tesst_20190909_195418 is created.
+[2019-09-09 19:54:18,067] [INFO] : NewPuzzleScreen: file users/29/tesst_20190909_195418/FullPuzzle.png is moved
+[2019-09-09 19:54:18,070] [INFO] : NewPuzzleScreen: file users/29/tesst_20190909_195418/PiecesPuzzle.png is moved
+[2019-09-09 19:54:18,091] [INFO] : PuzzleConnection: puzzle: tesst for user id: 29 is created
+[2019-09-09 19:54:18,123] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: tesst, user_id: 29, result =73
+[2019-09-09 19:54:18,127] [INFO] : PuzzleConnection: puzzle: tesst - user id: 29 relation is created
+[2019-09-09 19:54:18,143] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: tesst, user_id: 29, result =73
+[2019-09-09 19:54:18,157] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:73. Full Path:users/29/tesst_20190909_195418/FullPuzzle.png
+[2019-09-09 19:54:18,187] [DEBUG] : PuzzleSolution: progressbar pop is open
+[2019-09-09 19:54:18,187] [DEBUG] : PuzzleSolution: initialize
+[2019-09-09 19:54:18,187] [DEBUG] : PuzzleSolution: solve_puzzle is called.
+[2019-09-09 19:54:18,188] [DEBUG] : PuzzleSolution: solve_puzzle_algorithm is called.
+[2019-09-09 19:54:18,213] [DEBUG] : PuzzleConnection: update_puzzle_solution called for Puzzle id:73. Solution Path:users/29/tesst_20190909_195418//SolutionPuzzle.png
+[2019-09-09 19:54:18,214] [INFO] : NewPuzzleScreen: Puzzle is solved.
+[2019-09-09 19:54:18,216] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 19:54:18,233] [INFO] : PuzzleSolution: Number of Contours found = 1
+[2019-09-09 19:54:18,266] [DEBUG] : PuzzleSolution:  part puzzle users/29/tesst_20190909_195418/piece1.png is created
+[2019-09-09 19:54:18,267] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 19:54:18,521] [DEBUG] : PuzzleSolution:  future_matches match found at: (417, 333)
+[2019-09-09 19:54:19,240] [DEBUG] : PuzzleSolution: progress_bar.value =100.0
+[2019-09-09 19:54:20,291] [DEBUG] : PictureViewScreen: btn_goback is clicked
+[2019-09-09 19:54:20,324] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 19:54:20,324] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 19:54:22,545] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: ww, user_id: 29, result =72
+[2019-09-09 19:54:22,545] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 19:54:23,898] [DEBUG] : PictureViewScreen: btn_goback is clicked
+[2019-09-09 19:54:23,934] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 19:54:23,935] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 19:55:19,529] [INFO] : RootScreen: App has started
+[2019-09-09 19:55:23,217] [DEBUG] : LanguageScreen: mk language is used
+[2019-09-09 19:55:26,588] [DEBUG] : SignInScreen: labels are configured
+[2019-09-09 19:55:39,505] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 19:55:39,505] [INFO] : SignInScreen: User filip@dimovski.com is successfully signed in
+[2019-09-09 19:55:47,205] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 19:55:47,205] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 19:56:17,079] [INFO] : RootScreen: App has started
+[2019-09-09 19:56:21,120] [DEBUG] : LanguageScreen: mk language is used
+[2019-09-09 19:56:23,838] [DEBUG] : SignInScreen: labels are configured
+[2019-09-09 19:56:36,006] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 19:56:36,006] [INFO] : SignInScreen: User filip@dimovski.com is successfully signed in
+[2019-09-09 19:56:37,726] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 19:56:37,726] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 19:57:02,034] [INFO] : RootScreen: App has started
+[2019-09-09 19:57:06,124] [DEBUG] : LanguageScreen: mk language is used
+[2019-09-09 19:57:07,827] [DEBUG] : SignInScreen: labels are configured
+[2019-09-09 19:57:19,451] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 19:57:19,451] [INFO] : SignInScreen: User filip@dimovski.com is successfully signed in
+[2019-09-09 19:57:21,425] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 19:57:21,425] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 19:58:00,339] [INFO] : RootScreen: App has started
+[2019-09-09 19:58:18,044] [DEBUG] : LanguageScreen: mk language is used
+[2019-09-09 19:58:20,323] [DEBUG] : SignInScreen: labels are configured
+[2019-09-09 19:58:31,030] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 19:58:31,030] [INFO] : SignInScreen: User filip@dimovski.com is successfully signed in
+[2019-09-09 19:58:32,159] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 19:58:32,159] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 19:58:38,277] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: ww, user_id: 29, result =72
+[2019-09-09 19:58:38,279] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 19:58:40,484] [DEBUG] : PictureViewScreen: btn_goback is clicked
+[2019-09-09 19:58:40,514] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 19:58:40,514] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 19:58:50,542] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 19:58:52,670] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 19:58:54,302] [DEBUG] : NewPuzzleScreen: DIRECTORY_CALLED is changed to PiecesPuzzle
+[2019-09-09 19:58:54,304] [DEBUG] : ChooseFileScreen: labels are configured.
+[2019-09-09 19:59:12,576] [INFO] : ChooseFileScreen: file C:\Users\Filip.Dimovski\Desktop\FD_Potrait_BW_20190411.jpeg is copied
+[2019-09-09 19:59:12,576] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 19:59:14,010] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to FullPuzzle
+[2019-09-09 19:59:14,012] [DEBUG] : CameraScreen: labels configured.
+[2019-09-09 19:59:15,740] [INFO] : CameraScreen: image temp_puzzle/29_FullPuzzle_20190909_195915.png is created.
+[2019-09-09 19:59:15,740] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 19:59:19,463] [DEBUG] : PuzzleConnection: check_user_puzzle_rel:False
+[2019-09-09 19:59:19,464] [INFO] : NewPuzzleScreen: Folder users/29/zs_20190909_195919 is created.
+[2019-09-09 19:59:19,466] [INFO] : NewPuzzleScreen: file users/29/zs_20190909_195919/FullPuzzle.png is moved
+[2019-09-09 19:59:19,469] [INFO] : NewPuzzleScreen: file users/29/zs_20190909_195919/PiecesPuzzle.png is moved
+[2019-09-09 19:59:19,495] [INFO] : PuzzleConnection: puzzle: zs for user id: 29 is created
+[2019-09-09 19:59:19,525] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: zs, user_id: 29, result =74
+[2019-09-09 19:59:19,529] [INFO] : PuzzleConnection: puzzle: zs - user id: 29 relation is created
+[2019-09-09 19:59:19,545] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: zs, user_id: 29, result =74
+[2019-09-09 19:59:19,559] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:74. Full Path:users/29/zs_20190909_195919/FullPuzzle.png
+[2019-09-09 19:59:19,590] [DEBUG] : PuzzleSolution: progressbar pop is open
+[2019-09-09 19:59:19,590] [DEBUG] : PuzzleSolution: initialize
+[2019-09-09 19:59:19,590] [DEBUG] : PuzzleSolution: solve_puzzle is called.
+[2019-09-09 19:59:19,590] [DEBUG] : PuzzleSolution: solve_puzzle_algorithm is called.
+[2019-09-09 19:59:19,618] [DEBUG] : PuzzleConnection: update_puzzle_solution called for Puzzle id:74. Solution Path:users/29/zs_20190909_195919//SolutionPuzzle.png
+[2019-09-09 19:59:19,619] [INFO] : NewPuzzleScreen: Puzzle is solved.
+[2019-09-09 19:59:19,619] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 19:59:19,649] [INFO] : PuzzleSolution: Number of Contours found = 24
+[2019-09-09 19:59:19,667] [DEBUG] : PuzzleSolution:  part puzzle users/29/zs_20190909_195919/piece1.png is created
+[2019-09-09 19:59:19,667] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 19:59:19,867] [DEBUG] : PuzzleSolution:  part puzzle users/29/zs_20190909_195919/piece2.png is created
+[2019-09-09 19:59:19,867] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 19:59:20,064] [DEBUG] : PuzzleSolution:  part puzzle users/29/zs_20190909_195919/piece3.png is created
+[2019-09-09 19:59:20,064] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 19:59:20,216] [DEBUG] : PuzzleSolution:  future_matches not match found
+[2019-09-09 19:59:20,220] [DEBUG] : PuzzleSolution:  part puzzle users/29/zs_20190909_195919/piece4.png is created
+[2019-09-09 19:59:20,220] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 19:59:20,378] [DEBUG] : PuzzleSolution:  part puzzle users/29/zs_20190909_195919/piece5.png is created
+[2019-09-09 19:59:20,378] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 19:59:20,533] [DEBUG] : PuzzleSolution:  future_matches not match found
+[2019-09-09 19:59:20,539] [DEBUG] : PuzzleSolution:  part puzzle users/29/zs_20190909_195919/piece6.png is created
+[2019-09-09 19:59:20,540] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 19:59:20,664] [DEBUG] : PuzzleSolution: progress_bar.value =5.166666666666667
+[2019-09-09 19:59:20,695] [DEBUG] : PuzzleSolution:  future_matches not match found
+[2019-09-09 19:59:20,700] [DEBUG] : PuzzleSolution:  part puzzle users/29/zs_20190909_195919/piece7.png is created
+[2019-09-09 19:59:20,700] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 19:59:20,745] [DEBUG] : PuzzleSolution: progress_bar.value =9.333333333333334
+[2019-09-09 19:59:20,855] [DEBUG] : PuzzleSolution:  future_matches not match found
+[2019-09-09 19:59:20,859] [DEBUG] : PuzzleSolution:  part puzzle users/29/zs_20190909_195919/piece8.png is created
+[2019-09-09 19:59:20,859] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 19:59:21,010] [DEBUG] : PuzzleSolution:  part puzzle users/29/zs_20190909_195919/piece9.png is created
+[2019-09-09 19:59:21,010] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 19:59:21,170] [DEBUG] : PuzzleSolution:  part puzzle users/29/zs_20190909_195919/piece10.png is created
+[2019-09-09 19:59:21,170] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 19:59:21,326] [DEBUG] : PuzzleSolution:  future_matches not match found
+[2019-09-09 19:59:21,331] [DEBUG] : PuzzleSolution:  part puzzle users/29/zs_20190909_195919/piece11.png is created
+[2019-09-09 19:59:21,331] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 19:59:21,499] [DEBUG] : PuzzleSolution:  part puzzle users/29/zs_20190909_195919/piece12.png is created
+[2019-09-09 19:59:21,500] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 19:59:21,653] [DEBUG] : PuzzleSolution:  future_matches match found at: (295, 218)
+[2019-09-09 19:59:21,663] [DEBUG] : PuzzleSolution: progress_bar.value =13.5
+[2019-09-09 19:59:21,678] [DEBUG] : PuzzleSolution:  part puzzle users/29/zs_20190909_195919/piece13.png is created
+[2019-09-09 19:59:21,678] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 19:59:21,748] [DEBUG] : PuzzleSolution: progress_bar.value =17.666666666666668
+[2019-09-09 19:59:21,840] [DEBUG] : PuzzleSolution:  future_matches not match found
+[2019-09-09 19:59:21,845] [DEBUG] : PuzzleSolution:  part puzzle users/29/zs_20190909_195919/piece14.png is created
+[2019-09-09 19:59:21,845] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 19:59:22,003] [DEBUG] : PuzzleSolution:  part puzzle users/29/zs_20190909_195919/piece15.png is created
+[2019-09-09 19:59:22,003] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 19:59:22,162] [DEBUG] : PuzzleSolution:  part puzzle users/29/zs_20190909_195919/piece16.png is created
+[2019-09-09 19:59:22,162] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 19:59:22,314] [DEBUG] : PuzzleSolution:  part puzzle users/29/zs_20190909_195919/piece17.png is created
+[2019-09-09 19:59:22,314] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 19:59:22,479] [DEBUG] : PuzzleSolution:  part puzzle users/29/zs_20190909_195919/piece18.png is created
+[2019-09-09 19:59:22,479] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 19:59:22,630] [DEBUG] : PuzzleSolution:  part puzzle users/29/zs_20190909_195919/piece19.png is created
+[2019-09-09 19:59:22,630] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 19:59:22,665] [DEBUG] : PuzzleSolution: progress_bar.value =21.833333333333336
+[2019-09-09 19:59:22,761] [DEBUG] : PuzzleSolution: progress_bar.value =26.000000000000004
+[2019-09-09 19:59:22,797] [DEBUG] : PuzzleSolution:  part puzzle users/29/zs_20190909_195919/piece20.png is created
+[2019-09-09 19:59:22,797] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 19:59:22,954] [DEBUG] : PuzzleSolution:  part puzzle users/29/zs_20190909_195919/piece21.png is created
+[2019-09-09 19:59:22,954] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 19:59:23,108] [DEBUG] : PuzzleSolution:  part puzzle users/29/zs_20190909_195919/piece22.png is created
+[2019-09-09 19:59:23,109] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 19:59:23,268] [DEBUG] : PuzzleSolution:  future_matches not match found
+[2019-09-09 19:59:23,274] [DEBUG] : PuzzleSolution:  part puzzle users/29/zs_20190909_195919/piece23.png is created
+[2019-09-09 19:59:23,275] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 19:59:23,423] [DEBUG] : PuzzleSolution:  future_matches match found at: (477, 270)
+[2019-09-09 19:59:23,446] [DEBUG] : PuzzleSolution:  part puzzle users/29/zs_20190909_195919/piece24.png is created
+[2019-09-09 19:59:23,446] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 19:59:23,648] [DEBUG] : PuzzleSolution:  future_matches not match found
+[2019-09-09 19:59:23,673] [DEBUG] : PuzzleSolution: progress_bar.value =30.16666666666667
+[2019-09-09 19:59:23,740] [DEBUG] : PuzzleSolution: progress_bar.value =34.333333333333336
+[2019-09-09 19:59:24,668] [DEBUG] : PuzzleSolution: progress_bar.value =38.5
+[2019-09-09 19:59:24,742] [DEBUG] : PuzzleSolution: progress_bar.value =42.666666666666664
+[2019-09-09 19:59:25,625] [DEBUG] : PictureViewScreen: btn_goback is clicked
+[2019-09-09 19:59:25,655] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 19:59:25,655] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 19:59:25,664] [DEBUG] : PuzzleSolution: progress_bar.value =46.83333333333333
+[2019-09-09 19:59:25,736] [DEBUG] : PuzzleSolution: progress_bar.value =50.99999999999999
+[2019-09-09 19:59:26,668] [DEBUG] : PuzzleSolution: progress_bar.value =55.16666666666666
+[2019-09-09 19:59:26,739] [DEBUG] : PuzzleSolution: progress_bar.value =59.33333333333332
+[2019-09-09 19:59:27,669] [DEBUG] : PuzzleSolution: progress_bar.value =63.499999999999986
+[2019-09-09 19:59:27,745] [DEBUG] : PuzzleSolution: progress_bar.value =67.66666666666666
+[2019-09-09 19:59:28,257] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: zs, user_id: 29, result =74
+[2019-09-09 19:59:28,257] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 19:59:28,674] [DEBUG] : PuzzleSolution: progress_bar.value =71.83333333333333
+[2019-09-09 19:59:28,749] [DEBUG] : PuzzleSolution: progress_bar.value =76.0
+[2019-09-09 19:59:29,248] [DEBUG] : PuzzleConnection: get_puzzle_solution_path called for Puzzle id:74. Solution Path:users/29/zs_20190909_195919//SolutionPuzzle.png
+[2019-09-09 19:59:29,248] [DEBUG] : PictureViewScreen: solution_puzzle_on_click is called for puzzle: users/29/zs_20190909_195919//SolutionPuzzle.png 
+[2019-09-09 19:59:29,264] [INFO] : PictureScreen: called for picture:users/29/zs_20190909_195919//SolutionPuzzle.png
+[2019-09-09 19:59:29,677] [DEBUG] : PuzzleSolution: progress_bar.value =80.16666666666667
+[2019-09-09 19:59:29,754] [DEBUG] : PuzzleSolution: progress_bar.value =84.33333333333334
+[2019-09-09 19:59:30,679] [DEBUG] : PuzzleSolution: progress_bar.value =88.50000000000001
+[2019-09-09 19:59:30,753] [DEBUG] : PuzzleSolution: progress_bar.value =92.66666666666669
+[2019-09-09 19:59:31,677] [DEBUG] : PuzzleSolution: progress_bar.value =96.83333333333336
+[2019-09-09 19:59:31,750] [DEBUG] : PuzzleSolution: progress_bar.value =100.0
+[2019-09-09 19:59:35,927] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 20:02:35,744] [INFO] : RootScreen: App has started
+[2019-09-09 20:02:39,516] [DEBUG] : LanguageScreen: mk language is used
+[2019-09-09 20:02:40,615] [DEBUG] : SignInScreen: labels are configured
+[2019-09-09 20:02:53,077] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 20:02:53,077] [INFO] : SignInScreen: User filip@dimovski.com is successfully signed in
+[2019-09-09 20:02:55,091] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 20:02:55,091] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 20:03:21,955] [INFO] : RootScreen: App has started
+[2019-09-09 20:03:25,205] [DEBUG] : LanguageScreen: mk language is used
+[2019-09-09 20:03:26,396] [DEBUG] : SignInScreen: labels are configured
+[2019-09-09 20:03:34,381] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 20:03:34,381] [INFO] : SignInScreen: User filip@dimovski.com is successfully signed in
+[2019-09-09 20:03:35,976] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 20:03:35,976] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 20:04:27,817] [INFO] : RootScreen: App has started
+[2019-09-09 20:04:31,798] [DEBUG] : LanguageScreen: mk language is used
+[2019-09-09 20:04:34,053] [DEBUG] : SignInScreen: labels are configured
+[2019-09-09 20:04:45,708] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 20:04:45,708] [INFO] : SignInScreen: User filip@dimovski.com is successfully signed in
+[2019-09-09 20:04:46,993] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 20:04:46,993] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 20:04:56,801] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 20:04:58,588] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 20:04:59,627] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to FullPuzzle
+[2019-09-09 20:04:59,629] [DEBUG] : CameraScreen: labels configured.
+[2019-09-09 20:05:01,096] [INFO] : CameraScreen: image temp_puzzle/29_FullPuzzle_20190909_200500.png is created.
+[2019-09-09 20:05:01,097] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 20:05:01,970] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to PiecesPuzzle
+[2019-09-09 20:05:01,970] [DEBUG] : CameraScreen: labels configured.
+[2019-09-09 20:05:03,282] [INFO] : CameraScreen: image temp_puzzle/29_PiecesPuzzle_20190909_200503.png is created.
+[2019-09-09 20:05:03,283] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 20:05:06,795] [DEBUG] : PuzzleConnection: check_user_puzzle_rel:True
+[2019-09-09 20:05:11,360] [DEBUG] : PuzzleConnection: check_user_puzzle_rel:False
+[2019-09-09 20:05:11,360] [INFO] : NewPuzzleScreen: Folder users/29/test2_20190909_200511 is created.
+[2019-09-09 20:05:11,363] [INFO] : NewPuzzleScreen: file users/29/test2_20190909_200511/FullPuzzle.png is moved
+[2019-09-09 20:05:11,366] [INFO] : NewPuzzleScreen: file users/29/test2_20190909_200511/PiecesPuzzle.png is moved
+[2019-09-09 20:05:11,390] [INFO] : PuzzleConnection: puzzle: test2 for user id: 29 is created
+[2019-09-09 20:05:11,420] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: test2, user_id: 29, result =75
+[2019-09-09 20:05:11,423] [INFO] : PuzzleConnection: puzzle: test2 - user id: 29 relation is created
+[2019-09-09 20:05:11,441] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: test2, user_id: 29, result =75
+[2019-09-09 20:05:11,455] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:75. Full Path:users/29/test2_20190909_200511/FullPuzzle.png
+[2019-09-09 20:05:11,459] [DEBUG] : PuzzleSolution: progressbar pop is open
+[2019-09-09 20:05:11,459] [DEBUG] : PuzzleSolution: initialize
+[2019-09-09 20:05:11,459] [DEBUG] : PuzzleSolution: solve_puzzle is called.
+[2019-09-09 20:05:11,460] [DEBUG] : PuzzleSolution: solve_puzzle_algorithm is called.
+[2019-09-09 20:05:11,481] [DEBUG] : PuzzleConnection: update_puzzle_solution called for Puzzle id:75. Solution Path:users/29/test2_20190909_200511//SolutionPuzzle.png
+[2019-09-09 20:05:11,481] [INFO] : NewPuzzleScreen: Puzzle is solved.
+[2019-09-09 20:05:11,483] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 20:05:11,508] [INFO] : PuzzleSolution: Number of Contours found = 1
+[2019-09-09 20:05:11,536] [DEBUG] : PuzzleSolution:  part puzzle users/29/test2_20190909_200511/piece1.png is created
+[2019-09-09 20:05:11,537] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 20:05:11,833] [DEBUG] : PuzzleSolution:  future_matches match found at: (414, 317)
+[2019-09-09 20:05:12,578] [DEBUG] : PuzzleSolution: progress_bar.value =100.0
+[2019-09-09 20:05:14,085] [DEBUG] : PictureViewScreen: btn_goback is clicked
+[2019-09-09 20:05:14,114] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 20:05:14,114] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 20:05:17,797] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 20:05:18,954] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 20:05:20,079] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to FullPuzzle
+[2019-09-09 20:05:20,079] [DEBUG] : CameraScreen: labels configured.
+[2019-09-09 20:05:22,447] [INFO] : CameraScreen: image temp_puzzle/29_FullPuzzle_20190909_200522.png is created.
+[2019-09-09 20:05:22,447] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 20:05:23,243] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to PiecesPuzzle
+[2019-09-09 20:05:23,243] [DEBUG] : CameraScreen: labels configured.
+[2019-09-09 20:05:24,558] [INFO] : CameraScreen: image temp_puzzle/29_PiecesPuzzle_20190909_200524.png is created.
+[2019-09-09 20:05:24,559] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 20:05:28,824] [DEBUG] : PuzzleConnection: check_user_puzzle_rel:False
+[2019-09-09 20:05:28,825] [INFO] : NewPuzzleScreen: Folder users/29/Right_20190909_200528 is created.
+[2019-09-09 20:05:28,827] [INFO] : NewPuzzleScreen: file users/29/Right_20190909_200528/FullPuzzle.png is moved
+[2019-09-09 20:05:28,830] [INFO] : NewPuzzleScreen: file users/29/Right_20190909_200528/PiecesPuzzle.png is moved
+[2019-09-09 20:05:28,854] [INFO] : PuzzleConnection: puzzle: Right for user id: 29 is created
+[2019-09-09 20:05:28,888] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: Right, user_id: 29, result =76
+[2019-09-09 20:05:28,891] [INFO] : PuzzleConnection: puzzle: Right - user id: 29 relation is created
+[2019-09-09 20:05:28,906] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: Right, user_id: 29, result =76
+[2019-09-09 20:05:28,921] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:76. Full Path:users/29/Right_20190909_200528/FullPuzzle.png
+[2019-09-09 20:05:28,923] [DEBUG] : PuzzleSolution: progressbar pop is open
+[2019-09-09 20:05:28,923] [DEBUG] : PuzzleSolution: initialize
+[2019-09-09 20:05:28,923] [DEBUG] : PuzzleSolution: solve_puzzle is called.
+[2019-09-09 20:05:28,924] [DEBUG] : PuzzleSolution: solve_puzzle_algorithm is called.
+[2019-09-09 20:05:28,946] [DEBUG] : PuzzleConnection: update_puzzle_solution called for Puzzle id:76. Solution Path:users/29/Right_20190909_200528//SolutionPuzzle.png
+[2019-09-09 20:05:28,946] [INFO] : NewPuzzleScreen: Puzzle is solved.
+[2019-09-09 20:05:28,947] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 20:05:28,971] [INFO] : PuzzleSolution: Number of Contours found = 1
+[2019-09-09 20:05:29,003] [DEBUG] : PuzzleSolution:  part puzzle users/29/Right_20190909_200528/piece1.png is created
+[2019-09-09 20:05:29,003] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 20:05:29,309] [DEBUG] : PuzzleSolution:  future_matches match found at: (397, 330)
+[2019-09-09 20:05:29,980] [DEBUG] : PuzzleSolution: progress_bar.value =100.0
+[2019-09-09 20:05:30,648] [DEBUG] : PictureViewScreen: btn_goback is clicked
+[2019-09-09 20:05:30,681] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 20:05:30,681] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 20:05:33,046] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 20:05:34,508] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 20:05:38,260] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to FullPuzzle
+[2019-09-09 20:05:38,260] [DEBUG] : CameraScreen: labels configured.
+[2019-09-09 20:05:39,651] [INFO] : CameraScreen: image temp_puzzle/29_FullPuzzle_20190909_200539.png is created.
+[2019-09-09 20:05:39,652] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 20:05:40,362] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to PiecesPuzzle
+[2019-09-09 20:05:40,362] [DEBUG] : CameraScreen: labels configured.
+[2019-09-09 20:05:41,468] [INFO] : CameraScreen: image temp_puzzle/29_PiecesPuzzle_20190909_200541.png is created.
+[2019-09-09 20:05:41,468] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 20:05:42,707] [DEBUG] : PuzzleConnection: check_user_puzzle_rel:False
+[2019-09-09 20:05:42,707] [INFO] : NewPuzzleScreen: Folder users/29/posta_20190909_200542 is created.
+[2019-09-09 20:05:42,710] [INFO] : NewPuzzleScreen: file users/29/posta_20190909_200542/FullPuzzle.png is moved
+[2019-09-09 20:05:42,713] [INFO] : NewPuzzleScreen: file users/29/posta_20190909_200542/PiecesPuzzle.png is moved
+[2019-09-09 20:05:42,734] [INFO] : PuzzleConnection: puzzle: posta for user id: 29 is created
+[2019-09-09 20:05:42,767] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: posta, user_id: 29, result =77
+[2019-09-09 20:05:42,770] [INFO] : PuzzleConnection: puzzle: posta - user id: 29 relation is created
+[2019-09-09 20:05:42,786] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: posta, user_id: 29, result =77
+[2019-09-09 20:05:42,800] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:77. Full Path:users/29/posta_20190909_200542/FullPuzzle.png
+[2019-09-09 20:05:42,804] [DEBUG] : PuzzleSolution: progressbar pop is open
+[2019-09-09 20:05:42,804] [DEBUG] : PuzzleSolution: initialize
+[2019-09-09 20:05:42,804] [DEBUG] : PuzzleSolution: solve_puzzle is called.
+[2019-09-09 20:05:42,805] [DEBUG] : PuzzleSolution: solve_puzzle_algorithm is called.
+[2019-09-09 20:05:42,828] [DEBUG] : PuzzleConnection: update_puzzle_solution called for Puzzle id:77. Solution Path:users/29/posta_20190909_200542//SolutionPuzzle.png
+[2019-09-09 20:05:42,828] [INFO] : NewPuzzleScreen: Puzzle is solved.
+[2019-09-09 20:05:42,829] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 20:05:42,846] [INFO] : PuzzleSolution: Number of Contours found = 1
+[2019-09-09 20:05:42,885] [DEBUG] : PuzzleSolution:  part puzzle users/29/posta_20190909_200542/piece1.png is created
+[2019-09-09 20:05:42,885] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 20:05:43,187] [DEBUG] : PuzzleSolution:  future_matches match found at: (391, 341)
+[2019-09-09 20:05:43,846] [DEBUG] : PuzzleSolution: progress_bar.value =100.0
+[2019-09-09 20:05:44,537] [DEBUG] : PictureViewScreen: btn_goback is clicked
+[2019-09-09 20:05:44,568] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 20:05:44,568] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 20:06:10,855] [INFO] : RootScreen: App has started
+[2019-09-09 20:06:14,215] [DEBUG] : LanguageScreen: mk language is used
+[2019-09-09 20:06:16,473] [DEBUG] : SignInScreen: labels are configured
+[2019-09-09 20:06:26,963] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 20:06:26,964] [INFO] : SignInScreen: User filip@dimovski.com is successfully signed in
+[2019-09-09 20:06:28,627] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 20:06:28,627] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 20:06:38,272] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 20:09:26,033] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 20:09:26,033] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 20:09:42,340] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 20:09:44,183] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 20:09:44,183] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 20:09:46,504] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: test1, user_id: 29, result =Puzzle test1 not found for user id: 29
+[2019-09-09 20:09:46,506] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 20:09:49,379] [DEBUG] : PictureViewScreen: btn_goback is clicked
+[2019-09-09 20:09:49,410] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 20:09:49,410] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 20:42:28,089] [INFO] : RootScreen: App has started
+[2019-09-09 20:42:35,298] [DEBUG] : LanguageScreen: en language is used
+[2019-09-09 20:42:36,551] [DEBUG] : SignInScreen: labels are configured
+[2019-09-09 20:42:47,487] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 20:42:47,487] [INFO] : SignInScreen: User filip@dimovski.com is successfully signed in
+[2019-09-09 20:42:48,509] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 20:42:48,509] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 20:43:36,281] [INFO] : RootScreen: App has started
+[2019-09-09 20:43:40,283] [DEBUG] : LanguageScreen: mk language is used
+[2019-09-09 20:43:42,312] [DEBUG] : SignInScreen: labels are configured
+[2019-09-09 20:43:55,282] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 20:43:55,282] [INFO] : SignInScreen: User filip@dimovski.com is successfully signed in
+[2019-09-09 20:43:57,811] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 20:43:57,812] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 20:46:39,852] [INFO] : RootScreen: App has started
+[2019-09-09 20:46:43,924] [DEBUG] : LanguageScreen: mk language is used
+[2019-09-09 20:46:47,673] [DEBUG] : SignInScreen: labels are configured
+[2019-09-09 20:47:00,235] [WARNING] : SignInScreen: userName and password do not match
+[2019-09-09 20:47:10,590] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 20:47:10,590] [INFO] : SignInScreen: User filip@dimovski.com is successfully signed in
+[2019-09-09 20:47:12,169] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 20:47:12,169] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 20:47:20,816] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 20:47:22,951] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 20:47:28,546] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to FullPuzzle
+[2019-09-09 20:47:28,548] [DEBUG] : CameraScreen: labels configured.
+[2019-09-09 20:47:29,793] [INFO] : CameraScreen: image temp_puzzle/29_FullPuzzle_20190909_204729.png is created.
+[2019-09-09 20:47:29,794] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 20:47:30,703] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to PiecesPuzzle
+[2019-09-09 20:47:30,704] [DEBUG] : CameraScreen: labels configured.
+[2019-09-09 20:47:31,923] [INFO] : CameraScreen: image temp_puzzle/29_PiecesPuzzle_20190909_204731.png is created.
+[2019-09-09 20:47:31,924] [DEBUG] : NewPuzzleScreen: labels are configured
+[2019-09-09 20:47:33,019] [DEBUG] : PuzzleConnection: check_user_puzzle_rel:False
+[2019-09-09 20:47:33,019] [INFO] : NewPuzzleScreen: Folder users/29/superman_nova_20190909_204733 is created.
+[2019-09-09 20:47:33,022] [INFO] : NewPuzzleScreen: file users/29/superman_nova_20190909_204733/FullPuzzle.png is moved
+[2019-09-09 20:47:33,024] [INFO] : NewPuzzleScreen: file users/29/superman_nova_20190909_204733/PiecesPuzzle.png is moved
+[2019-09-09 20:47:33,052] [INFO] : PuzzleConnection: puzzle: superman_nova for user id: 29 is created
+[2019-09-09 20:47:33,084] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: superman_nova, user_id: 29, result =98
+[2019-09-09 20:47:33,087] [INFO] : PuzzleConnection: puzzle: superman_nova - user id: 29 relation is created
+[2019-09-09 20:47:33,103] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: superman_nova, user_id: 29, result =98
+[2019-09-09 20:47:33,121] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:98. Full Path:users/29/superman_nova_20190909_204733/FullPuzzle.png
+[2019-09-09 20:47:33,125] [DEBUG] : PuzzleSolution: progressbar pop is open
+[2019-09-09 20:47:33,125] [DEBUG] : PuzzleSolution: initialize
+[2019-09-09 20:47:33,125] [DEBUG] : PuzzleSolution: solve_puzzle is called.
+[2019-09-09 20:47:33,126] [DEBUG] : PuzzleSolution: solve_puzzle_algorithm is called.
+[2019-09-09 20:47:33,146] [DEBUG] : PuzzleConnection: update_puzzle_solution called for Puzzle id:98. Solution Path:users/29/superman_nova_20190909_204733//SolutionPuzzle.png
+[2019-09-09 20:47:33,146] [INFO] : NewPuzzleScreen: Puzzle is solved.
+[2019-09-09 20:47:33,149] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 20:47:33,208] [INFO] : PuzzleSolution: Number of Contours found = 1
+[2019-09-09 20:47:33,248] [DEBUG] : PuzzleSolution:  part puzzle users/29/superman_nova_20190909_204733/piece1.png is created
+[2019-09-09 20:47:33,248] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2019-09-09 20:47:33,631] [DEBUG] : PuzzleSolution:  future_matches match found at: (459, 359)
+[2019-09-09 20:47:34,226] [DEBUG] : PuzzleSolution: progress_bar.value =100.0
+[2019-09-09 20:47:35,018] [DEBUG] : PictureViewScreen: btn_goback is clicked
+[2019-09-09 20:47:35,049] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 20:47:35,050] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2019-09-09 20:47:57,578] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: zs, user_id: 29, result =74
+[2019-09-09 20:47:57,579] [DEBUG] : PictureViewScreen: labels are configured
+[2019-09-09 20:48:27,441] [INFO] : RootScreen: App has started
+[2019-09-09 20:48:31,562] [DEBUG] : LanguageScreen: mk language is used
+[2019-09-09 20:48:34,200] [DEBUG] : SignInScreen: labels are configured
+[2019-09-09 20:48:44,923] [DEBUG] : Homeboard: labels are configured.
+[2019-09-09 20:48:44,923] [INFO] : SignInScreen: User filip@dimovski.com is successfully signed in
+[2019-09-09 20:48:46,707] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2019-09-09 20:48:46,707] [DEBUG] : MyPuzzleScreen: puzzles are loaded

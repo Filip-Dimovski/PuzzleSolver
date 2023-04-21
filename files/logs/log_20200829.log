@@ -1,0 +1,50 @@
+[2020-08-29 15:38:43,278] [INFO] : RootScreen: App has started
+[2020-08-29 15:39:05,587] [DEBUG] : LanguageScreen: mk language is used
+[2020-08-29 15:39:10,475] [DEBUG] : Homeboard:  No-user
+[2020-08-29 15:39:10,475] [DEBUG] : Homeboard: labels are configured.
+[2020-08-29 15:39:13,453] [INFO] : Homeboard: User has signed out
+[2020-08-29 15:39:16,173] [DEBUG] : Homeboard:  No-user
+[2020-08-29 15:39:16,174] [DEBUG] : Homeboard: labels are configured.
+[2020-08-29 15:39:17,227] [DEBUG] : NewPuzzleScreen: labels are configured
+[2020-08-29 15:39:24,186] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to FullPuzzle
+[2020-08-29 15:39:24,192] [DEBUG] : CameraScreen: labels configured.
+[2020-08-29 15:39:32,136] [INFO] : CameraScreen: image temp_puzzle/0_FullPuzzle_20200829_153931.png is created.
+[2020-08-29 15:39:32,148] [DEBUG] : NewPuzzleScreen: labels are configured
+[2020-08-29 15:39:33,339] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to PiecesPuzzle
+[2020-08-29 15:39:33,340] [DEBUG] : CameraScreen: labels configured.
+[2020-08-29 15:39:34,568] [INFO] : CameraScreen: image temp_puzzle/0_PiecesPuzzle_20200829_153934.png is created.
+[2020-08-29 15:39:34,569] [DEBUG] : NewPuzzleScreen: labels are configured
+[2020-08-29 15:39:59,918] [DEBUG] : PuzzleConnection: check_user_puzzle_rel:False
+[2020-08-29 15:39:59,919] [INFO] : NewPuzzleScreen: Folder users/0/test_20200829_153959 is created.
+[2020-08-29 15:39:59,922] [INFO] : NewPuzzleScreen: file users/0/test_20200829_153959/FullPuzzle.png is moved
+[2020-08-29 15:39:59,925] [INFO] : NewPuzzleScreen: file users/0/test_20200829_153959/PiecesPuzzle.png is moved
+[2020-08-29 15:39:59,930] [DEBUG] : PuzzleSolution: progressbar pop is open
+[2020-08-29 15:39:59,930] [DEBUG] : PuzzleSolution: initialize
+[2020-08-29 15:39:59,931] [DEBUG] : PuzzleSolution: solve_puzzle is called.
+[2020-08-29 15:39:59,931] [DEBUG] : PuzzleSolution: solve_puzzle_algorithm is called.
+[2020-08-29 15:39:59,963] [DEBUG] : PuzzleConnection: update_puzzle_solution called for Puzzle id:0. Solution Path:users/0/test_20200829_153959//SolutionPuzzle.png
+[2020-08-29 15:39:59,963] [INFO] : NewPuzzleScreen: Puzzle is solved.
+[2020-08-29 15:39:59,968] [DEBUG] : PictureViewScreen: labels are configured
+[2020-08-29 15:39:59,990] [INFO] : PuzzleSolution: Number of Contours found = 1
+[2020-08-29 15:40:00,033] [DEBUG] : PuzzleSolution:  part puzzle users/0/test_20200829_153959/piece1.png is created
+[2020-08-29 15:40:00,033] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2020-08-29 15:40:00,226] [DEBUG] : PuzzleSolution:  future_matches match found at: 246.89344625270112 : 242.95859511355135
+[2020-08-29 15:40:00,993] [DEBUG] : PuzzleSolution: progress_bar.value =100.0
+[2020-08-29 15:40:04,526] [DEBUG] : PictureViewScreen: full_puzzle_on_click is called for puzzle: users/0/test_20200829_153959/FullPuzzle.png 
+[2020-08-29 15:40:04,536] [INFO] : PictureScreen: called for picture:users/0/test_20200829_153959/FullPuzzle.png
+[2020-08-29 15:40:06,078] [DEBUG] : PictureViewScreen: labels are configured
+[2020-08-29 15:40:07,333] [DEBUG] : PictureViewScreen: pieces_puzzle_on_click is called for puzzle: users/0/test_20200829_153959/PiecesPuzzle.png 
+[2020-08-29 15:40:07,342] [INFO] : PictureScreen: called for picture:users/0/test_20200829_153959/PiecesPuzzle.png
+[2020-08-29 15:40:08,609] [DEBUG] : PictureViewScreen: labels are configured
+[2020-08-29 15:40:09,603] [DEBUG] : PictureViewScreen: solution_puzzle_on_click is called for puzzle: users/0/test_20200829_153959/SolutionPuzzle.png 
+[2020-08-29 15:40:09,618] [INFO] : PictureScreen: called for picture:users/0/test_20200829_153959/SolutionPuzzle.png
+[2020-08-29 15:40:15,845] [DEBUG] : PictureViewScreen: labels are configured
+[2020-08-29 15:40:34,098] [DEBUG] : PictureViewScreen: btn_goback is clicked
+[2020-08-29 15:40:34,100] [INFO] : PictureViewScreen: File:users/0/test_20200829_153959\FullPuzzle.png is removed
+[2020-08-29 15:40:34,102] [INFO] : PictureViewScreen: File:users/0/test_20200829_153959\piece1.png is removed
+[2020-08-29 15:40:34,104] [INFO] : PictureViewScreen: File:users/0/test_20200829_153959\PiecesPuzzle.png is removed
+[2020-08-29 15:40:34,105] [INFO] : PictureViewScreen: File:users/0/test_20200829_153959\SolutionPuzzle.png is removed
+[2020-08-29 15:40:34,107] [INFO] : PictureViewScreen: Folder: users/0/test_20200829_153959 is removed. 
+[2020-08-29 15:40:34,107] [DEBUG] : Homeboard:  No-user
+[2020-08-29 15:40:34,108] [DEBUG] : Homeboard: labels are configured.
+[2020-08-29 15:40:39,757] [INFO] : Homeboard: User has signed out

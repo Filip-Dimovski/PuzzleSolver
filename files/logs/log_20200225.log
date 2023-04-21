@@ -1,0 +1,356 @@
+[2020-02-25 09:28:49,553] [INFO] : RootScreen: App has started
+[2020-02-25 09:29:29,610] [DEBUG] : LanguageScreen: en language is used
+[2020-02-25 09:29:46,482] [DEBUG] : SignUpScreen: labels are configured.
+[2020-02-25 09:29:52,397] [DEBUG] : SignUpScreen: wrong e-mail format.
+[2020-02-25 09:30:09,365] [DEBUG] : SignUpScreen: wrong password format.
+[2020-02-25 09:30:15,993] [DEBUG] : SignUpScreen: passwords do not match.
+[2020-02-25 09:30:27,042] [ERROR] : SignUpScreen: e-mail demo@test.com already exists.
+[2020-02-25 09:30:44,344] [DEBUG] : Homeboard:  No-user
+[2020-02-25 09:30:44,348] [DEBUG] : Homeboard: labels are configured.
+[2020-02-25 09:30:53,443] [INFO] : Homeboard: User has signed out
+[2020-02-25 09:30:54,388] [DEBUG] : SignInScreen: labels are configured
+[2020-02-25 09:31:03,875] [WARNING] : SignInScreen: userName and password do not match
+[2020-02-25 09:31:09,069] [DEBUG] : Homeboard: labels are configured.
+[2020-02-25 09:31:09,070] [INFO] : SignInScreen: User demo@test.com is successfully signed in
+[2020-02-25 09:31:18,675] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2020-02-25 09:31:18,675] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2020-02-25 09:31:24,246] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: demo, user_id: 40, result =131
+[2020-02-25 09:31:24,248] [DEBUG] : PictureViewScreen: labels are configured
+[2020-02-25 09:31:26,074] [DEBUG] : PuzzleConnection: get_puzzle_full_path called for Puzzle id:131. Full Path:users/40/demo_20200120_132258/FullPuzzle.png
+[2020-02-25 09:31:26,074] [DEBUG] : PictureViewScreen: full_puzzle_on_click is called for puzzle: users/40/demo_20200120_132258/FullPuzzle.png 
+[2020-02-25 09:31:26,078] [INFO] : PictureScreen: called for picture:users/40/demo_20200120_132258/FullPuzzle.png
+[2020-02-25 09:31:43,324] [DEBUG] : PictureViewScreen: labels are configured
+[2020-02-25 09:31:45,488] [DEBUG] : PuzzleConnection: get_puzzle_solution_path called for Puzzle id:131. Solution Path:users/0/test_20200224_213722//SolutionPuzzle.png
+[2020-02-25 09:31:45,488] [DEBUG] : PictureViewScreen: solution_puzzle_on_click is called for puzzle: users/0/test_20200224_213722//SolutionPuzzle.png 
+[2020-02-25 09:31:45,489] [INFO] : PictureScreen: called for picture:users/0/test_20200224_213722//SolutionPuzzle.png
+[2020-02-25 09:31:46,528] [DEBUG] : PictureViewScreen: labels are configured
+[2020-02-25 09:32:32,581] [DEBUG] : PictureViewScreen: delete puzzle popup
+[2020-02-25 09:32:33,257] [INFO] : PictureViewScreen: delete puzzle is called
+[2020-02-25 09:32:33,321] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:131. Full Path:users/40/demo_20200120_132258/FullPuzzle.png
+[2020-02-25 09:32:33,350] [INFO] : PuzzleConnection delete_user_puzzle_rel called for puzzle_id: 131.
+[2020-02-25 09:32:33,379] [INFO] : PuzzleConnection delete_puzzle_info called for puzzle_id: 131.
+[2020-02-25 09:32:56,597] [INFO] : RootScreen: App has started
+[2020-02-25 09:33:06,640] [DEBUG] : LanguageScreen: mk language is used
+[2020-02-25 09:33:11,546] [INFO] : RootScreen: App has started
+[2020-02-25 09:33:27,560] [DEBUG] : LanguageScreen: en language is used
+[2020-02-25 09:33:28,623] [DEBUG] : SignInScreen: labels are configured
+[2020-02-25 09:33:38,413] [DEBUG] : Homeboard: labels are configured.
+[2020-02-25 09:33:38,413] [INFO] : SignInScreen: User demo@test.com is successfully signed in
+[2020-02-25 09:33:40,442] [DEBUG] : NewPuzzleScreen: labels are configured
+[2020-02-25 09:33:43,626] [DEBUG] : NewPuzzleScreen: DIRECTORY_CALLED is changed to FullPuzzle
+[2020-02-25 09:33:43,627] [DEBUG] : ChooseFileScreen: labels are configured.
+[2020-02-25 09:34:04,695] [INFO] : ChooseFileScreen: file C:\Users\Filip.Dimovski\Documents\Puzzles\Good Puzzles\Pepa1\FullPuzzle.png is copied
+[2020-02-25 09:34:04,706] [DEBUG] : NewPuzzleScreen: labels are configured
+[2020-02-25 09:34:05,791] [DEBUG] : NewPuzzleScreen: DIRECTORY_CALLED is changed to PiecesPuzzle
+[2020-02-25 09:34:05,792] [DEBUG] : ChooseFileScreen: labels are configured.
+[2020-02-25 09:34:08,233] [INFO] : ChooseFileScreen: file C:\Users\Filip.Dimovski\Documents\Puzzles\Good Puzzles\Pepa1\PiecesPuzzle.png is copied
+[2020-02-25 09:34:08,234] [DEBUG] : NewPuzzleScreen: labels are configured
+[2020-02-25 09:34:09,548] [DEBUG] : PuzzleConnection: check_user_puzzle_rel:False
+[2020-02-25 09:34:09,549] [INFO] : NewPuzzleScreen: Folder users/40/demo_20200225_093409 is created.
+[2020-02-25 09:34:09,552] [INFO] : NewPuzzleScreen: file users/40/demo_20200225_093409/FullPuzzle.png is moved
+[2020-02-25 09:34:09,554] [INFO] : NewPuzzleScreen: file users/40/demo_20200225_093409/PiecesPuzzle.png is moved
+[2020-02-25 09:34:09,582] [INFO] : PuzzleConnection: puzzle: demo for user id: 40 is created
+[2020-02-25 09:34:09,617] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: demo, user_id: 40, result =135
+[2020-02-25 09:34:09,621] [INFO] : PuzzleConnection: puzzle: demo - user id: 40 relation is created
+[2020-02-25 09:34:09,640] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: demo, user_id: 40, result =135
+[2020-02-25 09:34:09,655] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:135. Full Path:users/40/demo_20200225_093409/FullPuzzle.png
+[2020-02-25 09:34:09,689] [DEBUG] : PuzzleSolution: progressbar pop is open
+[2020-02-25 09:34:09,689] [DEBUG] : PuzzleSolution: initialize
+[2020-02-25 09:34:09,689] [DEBUG] : PuzzleSolution: solve_puzzle is called.
+[2020-02-25 09:34:09,690] [DEBUG] : PuzzleSolution: solve_puzzle_algorithm is called.
+[2020-02-25 09:34:09,717] [DEBUG] : PuzzleConnection: update_puzzle_solution called for Puzzle id:135. Solution Path:users/40/demo_20200225_093409//SolutionPuzzle.png
+[2020-02-25 09:34:09,717] [INFO] : NewPuzzleScreen: Puzzle is solved.
+[2020-02-25 09:34:09,720] [DEBUG] : PictureViewScreen: labels are configured
+[2020-02-25 09:34:09,786] [INFO] : PuzzleSolution: Number of Contours found = 9
+[2020-02-25 09:34:09,819] [DEBUG] : PuzzleSolution:  part puzzle users/40/demo_20200225_093409/piece1.png is created
+[2020-02-25 09:34:09,819] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2020-02-25 09:34:10,026] [DEBUG] : PuzzleSolution:  future_matches match found at: 390.8789571126302 : 297.24475436740454
+[2020-02-25 09:34:10,065] [DEBUG] : PuzzleSolution:  part puzzle users/40/demo_20200225_093409/piece2.png is created
+[2020-02-25 09:34:10,065] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2020-02-25 09:34:10,220] [DEBUG] : PuzzleSolution:  future_matches match found at: 157.7544403076172 : 355.4479573567708
+[2020-02-25 09:34:10,249] [DEBUG] : PuzzleSolution:  part puzzle users/40/demo_20200225_093409/piece3.png is created
+[2020-02-25 09:34:10,249] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2020-02-25 09:34:10,370] [DEBUG] : PuzzleSolution:  future_matches match found at: 194.89620971679688 : 167.67227681477866
+[2020-02-25 09:34:10,397] [DEBUG] : PuzzleSolution:  part puzzle users/40/demo_20200225_093409/piece4.png is created
+[2020-02-25 09:34:10,397] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2020-02-25 09:34:10,510] [DEBUG] : PuzzleSolution:  future_matches match found at: 475.13587951660156 : 165.04400444030762
+[2020-02-25 09:34:10,793] [DEBUG] : PuzzleSolution: progress_bar.value =12.11111111111111
+[2020-02-25 09:34:10,855] [DEBUG] : PuzzleSolution: progress_bar.value =23.22222222222222
+[2020-02-25 09:34:11,797] [DEBUG] : PuzzleSolution: progress_bar.value =34.33333333333333
+[2020-02-25 09:34:11,862] [DEBUG] : PuzzleSolution: progress_bar.value =45.44444444444444
+[2020-02-25 09:34:12,019] [DEBUG] : PuzzleConnection: get_puzzle_solution_path called for Puzzle id:135. Solution Path:users/40/demo_20200225_093409//SolutionPuzzle.png
+[2020-02-25 09:34:12,019] [DEBUG] : PictureViewScreen: solution_puzzle_on_click is called for puzzle: users/40/demo_20200225_093409//SolutionPuzzle.png 
+[2020-02-25 09:34:12,042] [INFO] : PictureScreen: called for picture:users/40/demo_20200225_093409//SolutionPuzzle.png
+[2020-02-25 09:34:12,792] [DEBUG] : PuzzleSolution: progress_bar.value =56.55555555555556
+[2020-02-25 09:34:12,867] [DEBUG] : PuzzleSolution: progress_bar.value =67.66666666666667
+[2020-02-25 09:34:13,790] [DEBUG] : PuzzleSolution: progress_bar.value =78.77777777777779
+[2020-02-25 09:34:13,864] [DEBUG] : PuzzleSolution: progress_bar.value =89.8888888888889
+[2020-02-25 09:34:14,790] [DEBUG] : PuzzleSolution: progress_bar.value =100.0
+[2020-02-25 09:34:15,584] [DEBUG] : PictureViewScreen: labels are configured
+[2020-02-25 09:34:16,624] [DEBUG] : PuzzleConnection: get_puzzle_full_path called for Puzzle id:135. Full Path:users/40/demo_20200225_093409/FullPuzzle.png
+[2020-02-25 09:34:16,624] [DEBUG] : PictureViewScreen: full_puzzle_on_click is called for puzzle: users/40/demo_20200225_093409/FullPuzzle.png 
+[2020-02-25 09:34:16,635] [INFO] : PictureScreen: called for picture:users/40/demo_20200225_093409/FullPuzzle.png
+[2020-02-25 09:34:17,718] [DEBUG] : PictureViewScreen: labels are configured
+[2020-02-25 09:34:18,548] [DEBUG] : PuzzleConnection: get_puzzle_pieces_path called for Puzzle id:135. Pieces Path:users/40/demo_20200225_093409/PiecesPuzzle.png
+[2020-02-25 09:34:18,548] [DEBUG] : PictureViewScreen: pieces_puzzle_on_click is called for puzzle: users/40/demo_20200225_093409/PiecesPuzzle.png 
+[2020-02-25 09:34:18,557] [INFO] : PictureScreen: called for picture:users/40/demo_20200225_093409/PiecesPuzzle.png
+[2020-02-25 09:34:19,550] [DEBUG] : PictureViewScreen: labels are configured
+[2020-02-25 09:34:20,590] [DEBUG] : PictureViewScreen: btn_goback is clicked
+[2020-02-25 09:34:20,630] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2020-02-25 09:34:20,630] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2020-02-25 09:34:22,992] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: demo, user_id: 40, result =135
+[2020-02-25 09:34:22,992] [DEBUG] : PictureViewScreen: labels are configured
+[2020-02-25 09:34:26,155] [DEBUG] : PuzzleConnection: get_puzzle_solution_path called for Puzzle id:135. Solution Path:users/40/demo_20200225_093409//SolutionPuzzle.png
+[2020-02-25 09:34:26,155] [DEBUG] : PictureViewScreen: solution_puzzle_on_click is called for puzzle: users/40/demo_20200225_093409//SolutionPuzzle.png 
+[2020-02-25 09:34:26,156] [INFO] : PictureScreen: called for picture:users/40/demo_20200225_093409//SolutionPuzzle.png
+[2020-02-25 09:34:26,995] [DEBUG] : PictureViewScreen: labels are configured
+[2020-02-25 11:36:32,088] [INFO] : RootScreen: App has started
+[2020-02-25 11:36:50,925] [DEBUG] : LanguageScreen: mk language is used
+[2020-02-25 11:36:52,524] [DEBUG] : SignUpScreen: labels are configured.
+[2020-02-25 11:36:55,892] [DEBUG] : SignUpScreen: wrong e-mail format.
+[2020-02-25 11:37:00,185] [DEBUG] : SignUpScreen: wrong e-mail format.
+[2020-02-25 11:37:04,068] [DEBUG] : SignUpScreen: wrong e-mail format.
+[2020-02-25 11:37:10,486] [DEBUG] : SignUpScreen: wrong password format.
+[2020-02-25 11:37:27,529] [DEBUG] : SignUpScreen: passwords do not match.
+[2020-02-25 11:37:35,385] [ERROR] : SignUpScreen: e-mail demo@test.com already exists.
+[2020-02-25 11:37:36,116] [ERROR] : SignUpScreen: e-mail demo@test.com already exists.
+[2020-02-25 11:37:41,785] [DEBUG] : Homeboard: labels are configured.
+[2020-02-25 11:37:41,785] [INFO] : SignUpScreen: User: demo123@test.com is created.
+[2020-02-25 11:37:43,409] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2020-02-25 11:37:43,410] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2020-02-25 11:37:45,215] [DEBUG] : Homeboard: labels are configured.
+[2020-02-25 11:37:46,290] [DEBUG] : NewPuzzleScreen: labels are configured
+[2020-02-25 11:37:48,005] [DEBUG] : NewPuzzleScreen: go_back is called.
+[2020-02-25 11:37:48,025] [DEBUG] : Homeboard: labels are configured.
+[2020-02-25 11:37:48,832] [DEBUG] : ManageUserScreen: labels are configured
+[2020-02-25 11:37:49,795] [DEBUG] : ChangePasswordScreen: labels are configured
+[2020-02-25 11:37:51,318] [DEBUG] : ManageUserScreen: labels are configured
+[2020-02-25 11:37:52,349] [DEBUG] : Homeboard: labels are configured.
+[2020-02-25 11:37:53,632] [DEBUG] : NewPuzzleScreen: labels are configured
+[2020-02-25 11:37:54,724] [DEBUG] : NewPuzzleScreen: DIRECTORY_CALLED is changed to FullPuzzle
+[2020-02-25 11:37:54,726] [DEBUG] : ChooseFileScreen: labels are configured.
+[2020-02-25 11:38:42,235] [INFO] : ChooseFileScreen: file C:\Users\Filip.Dimovski\Documents\Puzzles\Good Puzzles\Alphabet2\FullPuzzle.png is copied
+[2020-02-25 11:38:42,244] [DEBUG] : NewPuzzleScreen: labels are configured
+[2020-02-25 11:38:50,312] [DEBUG] : PuzzleConnection: check_user_puzzle_rel:False
+[2020-02-25 11:38:53,680] [DEBUG] : NewPuzzleScreen: DIRECTORY_CALLED is changed to PiecesPuzzle
+[2020-02-25 11:38:53,681] [DEBUG] : ChooseFileScreen: labels are configured.
+[2020-02-25 11:38:59,345] [DEBUG] : NewPuzzleScreen: labels are configured
+[2020-02-25 11:39:00,326] [DEBUG] : NewPuzzleScreen: CAMERA_CALLED is changed to PiecesPuzzle
+[2020-02-25 11:39:00,328] [DEBUG] : CameraScreen: labels configured.
+[2020-02-25 11:39:01,469] [DEBUG] : NewPuzzleScreen: labels are configured
+[2020-02-25 11:39:01,470] [DEBUG] : CameraScreen: go_back is called.
+[2020-02-25 11:39:02,730] [DEBUG] : NewPuzzleScreen: DIRECTORY_CALLED is changed to PiecesPuzzle
+[2020-02-25 11:39:02,730] [DEBUG] : ChooseFileScreen: labels are configured.
+[2020-02-25 11:39:04,370] [INFO] : ChooseFileScreen: file C:\Users\Filip.Dimovski\Documents\Puzzles\Good Puzzles\Alphabet2\PiecesPuzzle.png is copied
+[2020-02-25 11:39:04,371] [DEBUG] : NewPuzzleScreen: labels are configured
+[2020-02-25 11:39:05,442] [DEBUG] : PuzzleConnection: check_user_puzzle_rel:False
+[2020-02-25 11:39:05,443] [INFO] : NewPuzzleScreen: Folder users/43/test_20200225_113905 is created.
+[2020-02-25 11:39:05,446] [INFO] : NewPuzzleScreen: file users/43/test_20200225_113905/FullPuzzle.png is moved
+[2020-02-25 11:39:05,449] [INFO] : NewPuzzleScreen: file users/43/test_20200225_113905/PiecesPuzzle.png is moved
+[2020-02-25 11:39:05,477] [INFO] : PuzzleConnection: puzzle: test for user id: 43 is created
+[2020-02-25 11:39:05,516] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: test, user_id: 43, result =136
+[2020-02-25 11:39:05,525] [INFO] : PuzzleConnection: puzzle: test - user id: 43 relation is created
+[2020-02-25 11:39:05,545] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: test, user_id: 43, result =136
+[2020-02-25 11:39:05,562] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:136. Full Path:users/43/test_20200225_113905/FullPuzzle.png
+[2020-02-25 11:39:05,570] [DEBUG] : PuzzleSolution: progressbar pop is open
+[2020-02-25 11:39:05,570] [DEBUG] : PuzzleSolution: initialize
+[2020-02-25 11:39:05,570] [DEBUG] : PuzzleSolution: solve_puzzle is called.
+[2020-02-25 11:39:05,571] [DEBUG] : PuzzleSolution: solve_puzzle_algorithm is called.
+[2020-02-25 11:39:05,599] [DEBUG] : PuzzleConnection: update_puzzle_solution called for Puzzle id:136. Solution Path:users/43/test_20200225_113905//SolutionPuzzle.png
+[2020-02-25 11:39:05,600] [INFO] : NewPuzzleScreen: Puzzle is solved.
+[2020-02-25 11:39:05,601] [INFO] : PuzzleSolution: Number of Contours found = 9
+[2020-02-25 11:39:05,603] [DEBUG] : PictureViewScreen: labels are configured
+[2020-02-25 11:39:05,648] [DEBUG] : PuzzleSolution:  part puzzle users/43/test_20200225_113905/piece1.png is created
+[2020-02-25 11:39:05,648] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2020-02-25 11:39:05,874] [DEBUG] : PuzzleSolution:  future_matches match found at: 232.18640804290771 : 280.6709842681885
+[2020-02-25 11:39:05,909] [DEBUG] : PuzzleSolution:  part puzzle users/43/test_20200225_113905/piece2.png is created
+[2020-02-25 11:39:05,909] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2020-02-25 11:39:06,099] [DEBUG] : PuzzleSolution:  future_matches match found at: 292.8454617587003 : 204.62232971191406
+[2020-02-25 11:39:06,126] [DEBUG] : PuzzleSolution:  part puzzle users/43/test_20200225_113905/piece3.png is created
+[2020-02-25 11:39:06,126] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2020-02-25 11:39:06,278] [DEBUG] : PuzzleSolution:  future_matches match found at: 229.78289455837674 : 193.83319430881076
+[2020-02-25 11:39:06,302] [DEBUG] : PuzzleSolution:  part puzzle users/43/test_20200225_113905/piece4.png is created
+[2020-02-25 11:39:06,302] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2020-02-25 11:39:06,458] [DEBUG] : PuzzleSolution:  future_matches match found at: 179.02276102701822 : 274.759765625
+[2020-02-25 11:39:06,485] [DEBUG] : PuzzleSolution:  part puzzle users/43/test_20200225_113905/piece5.png is created
+[2020-02-25 11:39:06,485] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2020-02-25 11:39:06,630] [DEBUG] : PuzzleSolution: progress_bar.value =12.11111111111111
+[2020-02-25 11:39:06,665] [DEBUG] : PuzzleSolution:  future_matches match found at: 171.75115530831474 : 351.0625479561942
+[2020-02-25 11:39:06,691] [DEBUG] : PuzzleSolution:  part puzzle users/43/test_20200225_113905/piece6.png is created
+[2020-02-25 11:39:06,691] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2020-02-25 11:39:06,740] [DEBUG] : PuzzleSolution: progress_bar.value =23.22222222222222
+[2020-02-25 11:39:06,850] [DEBUG] : PuzzleSolution:  future_matches match found at: 256.96878487723217 : 364.94149344308033
+[2020-02-25 11:39:07,625] [DEBUG] : PuzzleSolution: progress_bar.value =34.33333333333333
+[2020-02-25 11:39:07,736] [DEBUG] : PuzzleSolution: progress_bar.value =45.44444444444444
+[2020-02-25 11:39:08,628] [DEBUG] : PuzzleSolution: progress_bar.value =56.55555555555556
+[2020-02-25 11:39:08,741] [DEBUG] : PuzzleSolution: progress_bar.value =67.66666666666667
+[2020-02-25 11:39:09,631] [DEBUG] : PuzzleSolution: progress_bar.value =78.77777777777779
+[2020-02-25 11:39:09,744] [DEBUG] : PuzzleSolution: progress_bar.value =89.8888888888889
+[2020-02-25 11:39:10,367] [DEBUG] : PuzzleConnection: get_puzzle_full_path called for Puzzle id:136. Full Path:users/43/test_20200225_113905/FullPuzzle.png
+[2020-02-25 11:39:10,367] [DEBUG] : PictureViewScreen: full_puzzle_on_click is called for puzzle: users/43/test_20200225_113905/FullPuzzle.png 
+[2020-02-25 11:39:10,381] [INFO] : PictureScreen: called for picture:users/43/test_20200225_113905/FullPuzzle.png
+[2020-02-25 11:39:10,630] [DEBUG] : PuzzleSolution: progress_bar.value =100.0
+[2020-02-25 11:39:11,573] [DEBUG] : PictureViewScreen: labels are configured
+[2020-02-25 11:39:12,466] [DEBUG] : PuzzleConnection: get_puzzle_pieces_path called for Puzzle id:136. Pieces Path:users/43/test_20200225_113905/PiecesPuzzle.png
+[2020-02-25 11:39:12,466] [DEBUG] : PictureViewScreen: pieces_puzzle_on_click is called for puzzle: users/43/test_20200225_113905/PiecesPuzzle.png 
+[2020-02-25 11:39:12,478] [INFO] : PictureScreen: called for picture:users/43/test_20200225_113905/PiecesPuzzle.png
+[2020-02-25 11:39:13,332] [DEBUG] : PictureViewScreen: labels are configured
+[2020-02-25 11:39:14,307] [DEBUG] : PuzzleConnection: get_puzzle_solution_path called for Puzzle id:136. Solution Path:users/43/test_20200225_113905//SolutionPuzzle.png
+[2020-02-25 11:39:14,308] [DEBUG] : PictureViewScreen: solution_puzzle_on_click is called for puzzle: users/43/test_20200225_113905//SolutionPuzzle.png 
+[2020-02-25 11:39:14,330] [INFO] : PictureScreen: called for picture:users/43/test_20200225_113905//SolutionPuzzle.png
+[2020-02-25 11:39:25,065] [DEBUG] : PictureViewScreen: labels are configured
+[2020-02-25 11:39:28,642] [DEBUG] : PictureViewScreen: btn_goback is clicked
+[2020-02-25 11:39:28,675] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2020-02-25 11:39:28,676] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2020-02-25 11:39:30,272] [DEBUG] : Homeboard: labels are configured.
+[2020-02-25 11:39:31,409] [DEBUG] : NewPuzzleScreen: labels are configured
+[2020-02-25 11:39:34,577] [DEBUG] : NewPuzzleScreen: DIRECTORY_CALLED is changed to FullPuzzle
+[2020-02-25 11:39:34,578] [DEBUG] : ChooseFileScreen: labels are configured.
+[2020-02-25 11:39:39,670] [INFO] : ChooseFileScreen: file C:\Users\Filip.Dimovski\Documents\Puzzles\Good Puzzles\Alphabet1\FullPuzzle.png is copied
+[2020-02-25 11:39:39,671] [DEBUG] : NewPuzzleScreen: labels are configured
+[2020-02-25 11:39:41,588] [DEBUG] : NewPuzzleScreen: DIRECTORY_CALLED is changed to PiecesPuzzle
+[2020-02-25 11:39:41,589] [DEBUG] : ChooseFileScreen: labels are configured.
+[2020-02-25 11:39:43,961] [INFO] : ChooseFileScreen: file C:\Users\Filip.Dimovski\Documents\Puzzles\Good Puzzles\Alphabet1\PiecesPuzzle.png is copied
+[2020-02-25 11:39:43,962] [DEBUG] : NewPuzzleScreen: labels are configured
+[2020-02-25 11:39:44,778] [DEBUG] : PuzzleConnection: check_user_puzzle_rel:False
+[2020-02-25 11:39:44,781] [INFO] : NewPuzzleScreen: Folder users/43/test2_20200225_113944 is created.
+[2020-02-25 11:39:44,785] [INFO] : NewPuzzleScreen: file users/43/test2_20200225_113944/FullPuzzle.png is moved
+[2020-02-25 11:39:44,788] [INFO] : NewPuzzleScreen: file users/43/test2_20200225_113944/PiecesPuzzle.png is moved
+[2020-02-25 11:39:44,813] [INFO] : PuzzleConnection: puzzle: test2 for user id: 43 is created
+[2020-02-25 11:39:44,856] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: test2, user_id: 43, result =137
+[2020-02-25 11:39:44,865] [INFO] : PuzzleConnection: puzzle: test2 - user id: 43 relation is created
+[2020-02-25 11:39:44,885] [DEBUG] : PuzzleConnection: get_puzzle_id: puzzle_name: test2, user_id: 43, result =137
+[2020-02-25 11:39:44,903] [DEBUG] : PuzzleConnection: get_puzzle_folder_path called for Puzzle id:137. Full Path:users/43/test2_20200225_113944/FullPuzzle.png
+[2020-02-25 11:39:44,907] [DEBUG] : PuzzleSolution: progressbar pop is open
+[2020-02-25 11:39:44,907] [DEBUG] : PuzzleSolution: initialize
+[2020-02-25 11:39:44,908] [DEBUG] : PuzzleSolution: solve_puzzle is called.
+[2020-02-25 11:39:44,908] [DEBUG] : PuzzleSolution: solve_puzzle_algorithm is called.
+[2020-02-25 11:39:44,938] [DEBUG] : PuzzleConnection: update_puzzle_solution called for Puzzle id:137. Solution Path:users/43/test2_20200225_113944//SolutionPuzzle.png
+[2020-02-25 11:39:44,938] [INFO] : NewPuzzleScreen: Puzzle is solved.
+[2020-02-25 11:39:44,939] [DEBUG] : PictureViewScreen: labels are configured
+[2020-02-25 11:39:44,949] [INFO] : PuzzleSolution: Number of Contours found = 6
+[2020-02-25 11:39:45,009] [DEBUG] : PuzzleSolution:  part puzzle users/43/test2_20200225_113944/piece1.png is created
+[2020-02-25 11:39:45,009] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2020-02-25 11:39:45,244] [DEBUG] : PuzzleSolution:  future_matches match found at: 163.8127899169922 : 211.54857444763184
+[2020-02-25 11:39:45,278] [DEBUG] : PuzzleSolution:  part puzzle users/43/test2_20200225_113944/piece2.png is created
+[2020-02-25 11:39:45,279] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2020-02-25 11:39:45,477] [DEBUG] : PuzzleSolution:  future_matches match found at: 93.45002794265747 : 220.43791961669922
+[2020-02-25 11:39:45,503] [DEBUG] : PuzzleSolution:  part puzzle users/43/test2_20200225_113944/piece3.png is created
+[2020-02-25 11:39:45,503] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2020-02-25 11:39:45,672] [DEBUG] : PuzzleSolution:  future_matches match found at: 310.6067632039388 : 265.62384033203125
+[2020-02-25 11:39:45,700] [DEBUG] : PuzzleSolution:  part puzzle users/43/test2_20200225_113944/piece4.png is created
+[2020-02-25 11:39:45,700] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2020-02-25 11:39:45,865] [DEBUG] : PuzzleSolution:  future_matches match found at: 342.2569274902344 : 366.34784444173175
+[2020-02-25 11:39:45,894] [DEBUG] : PuzzleSolution:  part puzzle users/43/test2_20200225_113944/piece5.png is created
+[2020-02-25 11:39:45,894] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2020-02-25 11:39:45,947] [DEBUG] : PuzzleSolution: progress_bar.value =17.666666666666668
+[2020-02-25 11:39:46,054] [DEBUG] : PuzzleSolution: progress_bar.value =34.333333333333336
+[2020-02-25 11:39:46,067] [DEBUG] : PuzzleSolution:  future_matches match found at: 161.73145378960504 : 284.00199211968317
+[2020-02-25 11:39:46,953] [DEBUG] : PuzzleSolution: progress_bar.value =51.0
+[2020-02-25 11:39:47,051] [DEBUG] : PuzzleSolution: progress_bar.value =67.66666666666667
+[2020-02-25 11:39:47,116] [DEBUG] : PuzzleConnection: get_puzzle_solution_path called for Puzzle id:137. Solution Path:users/43/test2_20200225_113944//SolutionPuzzle.png
+[2020-02-25 11:39:47,116] [DEBUG] : PictureViewScreen: solution_puzzle_on_click is called for puzzle: users/43/test2_20200225_113944//SolutionPuzzle.png 
+[2020-02-25 11:39:47,142] [INFO] : PictureScreen: called for picture:users/43/test2_20200225_113944//SolutionPuzzle.png
+[2020-02-25 11:39:47,959] [DEBUG] : PuzzleSolution: progress_bar.value =84.33333333333334
+[2020-02-25 11:39:48,069] [DEBUG] : PuzzleSolution: progress_bar.value =100.0
+[2020-02-25 11:39:58,039] [DEBUG] : PictureViewScreen: labels are configured
+[2020-02-25 11:40:02,909] [DEBUG] : PictureViewScreen: btn_goback is clicked
+[2020-02-25 11:40:02,949] [DEBUG] : PuzzleConnection: fetch_all_puzzles called
+[2020-02-25 11:40:02,950] [DEBUG] : MyPuzzleScreen: puzzles are loaded
+[2020-02-25 11:40:09,670] [DEBUG] : Homeboard: labels are configured.
+[2020-02-25 11:40:13,015] [INFO] : Homeboard: User has signed out
+[2020-02-25 12:20:30,282] [INFO] : RootScreen: App has started
+[2020-02-25 12:21:11,874] [DEBUG] : LanguageScreen: en language is used
+[2020-02-25 12:21:18,959] [DEBUG] : SignUpScreen: labels are configured.
+[2020-02-25 12:21:23,108] [DEBUG] : SignUpScreen: wrong e-mail format.
+[2020-02-25 12:21:28,262] [DEBUG] : Homeboard:  No-user
+[2020-02-25 12:21:28,263] [DEBUG] : Homeboard: labels are configured.
+[2020-02-25 12:21:30,012] [DEBUG] : NewPuzzleScreen: labels are configured
+[2020-02-25 12:21:34,919] [DEBUG] : NewPuzzleScreen: DIRECTORY_CALLED is changed to FullPuzzle
+[2020-02-25 12:21:34,921] [DEBUG] : ChooseFileScreen: labels are configured.
+[2020-02-25 12:22:00,046] [INFO] : ChooseFileScreen: file C:\Users\Filip.Dimovski\Documents\Puzzles\Good Puzzles\Pepa1\FullPuzzle.png is copied
+[2020-02-25 12:22:00,061] [DEBUG] : NewPuzzleScreen: labels are configured
+[2020-02-25 12:22:09,093] [DEBUG] : NewPuzzleScreen: DIRECTORY_CALLED is changed to PiecesPuzzle
+[2020-02-25 12:22:09,093] [DEBUG] : ChooseFileScreen: labels are configured.
+[2020-02-25 12:22:11,804] [INFO] : ChooseFileScreen: file C:\Users\Filip.Dimovski\Documents\Puzzles\Good Puzzles\Pepa1\PiecesPuzzle.png is copied
+[2020-02-25 12:22:11,805] [DEBUG] : NewPuzzleScreen: labels are configured
+[2020-02-25 12:22:14,382] [DEBUG] : PuzzleConnection: check_user_puzzle_rel:False
+[2020-02-25 12:22:14,383] [INFO] : NewPuzzleScreen: Folder users/0/demo123_20200225_122214 is created.
+[2020-02-25 12:22:14,387] [INFO] : NewPuzzleScreen: file users/0/demo123_20200225_122214/FullPuzzle.png is moved
+[2020-02-25 12:22:14,390] [INFO] : NewPuzzleScreen: file users/0/demo123_20200225_122214/PiecesPuzzle.png is moved
+[2020-02-25 12:22:14,395] [DEBUG] : PuzzleSolution: progressbar pop is open
+[2020-02-25 12:22:14,395] [DEBUG] : PuzzleSolution: initialize
+[2020-02-25 12:22:14,395] [DEBUG] : PuzzleSolution: solve_puzzle is called.
+[2020-02-25 12:22:14,396] [DEBUG] : PuzzleSolution: solve_puzzle_algorithm is called.
+[2020-02-25 12:22:14,416] [DEBUG] : PuzzleConnection: update_puzzle_solution called for Puzzle id:0. Solution Path:users/0/demo123_20200225_122214//SolutionPuzzle.png
+[2020-02-25 12:22:14,416] [INFO] : NewPuzzleScreen: Puzzle is solved.
+[2020-02-25 12:22:14,421] [DEBUG] : PictureViewScreen: labels are configured
+[2020-02-25 12:22:14,433] [INFO] : PuzzleSolution: Number of Contours found = 9
+[2020-02-25 12:22:14,466] [DEBUG] : PuzzleSolution:  part puzzle users/0/demo123_20200225_122214/piece1.png is created
+[2020-02-25 12:22:14,467] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2020-02-25 12:22:14,632] [DEBUG] : PuzzleSolution:  future_matches match found at: 390.8789571126302 : 297.24475436740454
+[2020-02-25 12:22:14,667] [DEBUG] : PuzzleSolution:  part puzzle users/0/demo123_20200225_122214/piece2.png is created
+[2020-02-25 12:22:14,667] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2020-02-25 12:22:14,821] [DEBUG] : PuzzleSolution:  future_matches match found at: 157.7544403076172 : 355.4479573567708
+[2020-02-25 12:22:14,857] [DEBUG] : PuzzleSolution:  part puzzle users/0/demo123_20200225_122214/piece3.png is created
+[2020-02-25 12:22:14,857] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2020-02-25 12:22:14,961] [DEBUG] : PuzzleSolution:  future_matches match found at: 194.89620971679688 : 167.67227681477866
+[2020-02-25 12:22:14,989] [DEBUG] : PuzzleSolution:  part puzzle users/0/demo123_20200225_122214/piece4.png is created
+[2020-02-25 12:22:14,989] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2020-02-25 12:22:15,100] [DEBUG] : PuzzleSolution:  future_matches match found at: 475.13587951660156 : 165.04400444030762
+[2020-02-25 12:22:15,436] [DEBUG] : PuzzleSolution: progress_bar.value =12.11111111111111
+[2020-02-25 12:22:15,547] [DEBUG] : PuzzleSolution: progress_bar.value =23.22222222222222
+[2020-02-25 12:22:16,437] [DEBUG] : PuzzleSolution: progress_bar.value =34.33333333333333
+[2020-02-25 12:22:16,448] [DEBUG] : PictureViewScreen: solution_puzzle_on_click is called for puzzle: users/0/demo123_20200225_122214/SolutionPuzzle.png 
+[2020-02-25 12:22:16,468] [INFO] : PictureScreen: called for picture:users/0/demo123_20200225_122214/SolutionPuzzle.png
+[2020-02-25 12:22:16,547] [DEBUG] : PuzzleSolution: progress_bar.value =45.44444444444444
+[2020-02-25 12:22:17,437] [DEBUG] : PuzzleSolution: progress_bar.value =56.55555555555556
+[2020-02-25 12:22:17,547] [DEBUG] : PuzzleSolution: progress_bar.value =67.66666666666667
+[2020-02-25 12:22:18,444] [DEBUG] : PuzzleSolution: progress_bar.value =78.77777777777779
+[2020-02-25 12:22:18,545] [DEBUG] : PuzzleSolution: progress_bar.value =89.8888888888889
+[2020-02-25 12:22:19,449] [DEBUG] : PuzzleSolution: progress_bar.value =100.0
+[2020-02-25 12:23:03,142] [DEBUG] : PictureViewScreen: labels are configured
+[2020-02-25 12:31:21,962] [INFO] : RootScreen: App has started
+[2020-02-25 12:31:28,158] [DEBUG] : LanguageScreen: mk language is used
+[2020-02-25 12:31:29,307] [DEBUG] : Homeboard:  No-user
+[2020-02-25 12:31:29,308] [DEBUG] : Homeboard: labels are configured.
+[2020-02-25 12:31:31,243] [DEBUG] : NewPuzzleScreen: labels are configured
+[2020-02-25 12:31:32,598] [DEBUG] : NewPuzzleScreen: DIRECTORY_CALLED is changed to FullPuzzle
+[2020-02-25 12:31:32,600] [DEBUG] : ChooseFileScreen: labels are configured.
+[2020-02-25 12:31:54,063] [INFO] : ChooseFileScreen: file C:\Users\Filip.Dimovski\Documents\Puzzles\Bad Puzzles\Farm1\FullPuzzle.png is copied
+[2020-02-25 12:31:54,084] [DEBUG] : NewPuzzleScreen: labels are configured
+[2020-02-25 12:31:55,233] [DEBUG] : NewPuzzleScreen: DIRECTORY_CALLED is changed to PiecesPuzzle
+[2020-02-25 12:31:55,233] [DEBUG] : ChooseFileScreen: labels are configured.
+[2020-02-25 12:31:57,870] [INFO] : ChooseFileScreen: file C:\Users\Filip.Dimovski\Documents\Puzzles\Bad Puzzles\Farm1\PiecesPuzzle.png is copied
+[2020-02-25 12:31:57,871] [DEBUG] : NewPuzzleScreen: labels are configured
+[2020-02-25 12:32:03,128] [DEBUG] : PuzzleConnection: check_user_puzzle_rel:False
+[2020-02-25 12:32:03,129] [INFO] : NewPuzzleScreen: Folder users/0/test123_20200225_123203 is created.
+[2020-02-25 12:32:03,132] [INFO] : NewPuzzleScreen: file users/0/test123_20200225_123203/FullPuzzle.png is moved
+[2020-02-25 12:32:03,134] [INFO] : NewPuzzleScreen: file users/0/test123_20200225_123203/PiecesPuzzle.png is moved
+[2020-02-25 12:32:03,174] [DEBUG] : PuzzleSolution: progressbar pop is open
+[2020-02-25 12:32:03,174] [DEBUG] : PuzzleSolution: initialize
+[2020-02-25 12:32:03,174] [DEBUG] : PuzzleSolution: solve_puzzle is called.
+[2020-02-25 12:32:03,175] [DEBUG] : PuzzleSolution: solve_puzzle_algorithm is called.
+[2020-02-25 12:32:03,196] [DEBUG] : PuzzleConnection: update_puzzle_solution called for Puzzle id:0. Solution Path:users/0/test123_20200225_123203//SolutionPuzzle.png
+[2020-02-25 12:32:03,196] [INFO] : NewPuzzleScreen: Puzzle is solved.
+[2020-02-25 12:32:03,199] [DEBUG] : PictureViewScreen: labels are configured
+[2020-02-25 12:32:03,206] [INFO] : PuzzleSolution: Number of Contours found = 5
+[2020-02-25 12:32:03,248] [DEBUG] : PuzzleSolution:  part puzzle users/0/test123_20200225_123203/piece1.png is created
+[2020-02-25 12:32:03,248] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2020-02-25 12:32:03,404] [DEBUG] : PuzzleSolution:  future_matches match found at: 512.0647277832031 : 380.96510823567706
+[2020-02-25 12:32:03,439] [DEBUG] : PuzzleSolution:  part puzzle users/0/test123_20200225_123203/piece2.png is created
+[2020-02-25 12:32:03,439] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2020-02-25 12:32:03,591] [DEBUG] : PuzzleSolution:  future_matches match found at: 108.01186180114746 : 134.65447616577148
+[2020-02-25 12:32:03,622] [DEBUG] : PuzzleSolution:  part puzzle users/0/test123_20200225_123203/piece3.png is created
+[2020-02-25 12:32:03,623] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2020-02-25 12:32:03,756] [DEBUG] : PuzzleSolution:  future_matches match found at: 308.6271497938368 : 187.72255622016058
+[2020-02-25 12:32:03,782] [DEBUG] : PuzzleSolution:  part puzzle users/0/test123_20200225_123203/piece4.png is created
+[2020-02-25 12:32:03,782] [DEBUG] : PuzzleSolution:  future_matches is called.
+[2020-02-25 12:32:03,910] [DEBUG] : PuzzleSolution:  future_matches match found at: 437.9793192545573 : 159.26925998263889
+[2020-02-25 12:32:04,272] [DEBUG] : PuzzleSolution: progress_bar.value =21.0
+[2020-02-25 12:32:04,355] [DEBUG] : PuzzleSolution: progress_bar.value =41.0
+[2020-02-25 12:32:05,050] [DEBUG] : PictureViewScreen: solution_puzzle_on_click is called for puzzle: users/0/test123_20200225_123203/SolutionPuzzle.png 
+[2020-02-25 12:32:05,078] [INFO] : PictureScreen: called for picture:users/0/test123_20200225_123203/SolutionPuzzle.png
+[2020-02-25 12:32:05,242] [DEBUG] : PuzzleSolution: progress_bar.value =61.0
+[2020-02-25 12:32:05,387] [DEBUG] : PuzzleSolution: progress_bar.value =81.0
+[2020-02-25 12:32:06,237] [DEBUG] : PuzzleSolution: progress_bar.value =100.0

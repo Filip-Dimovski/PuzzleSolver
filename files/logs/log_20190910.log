@@ -1,0 +1,4 @@
+[2019-09-10 08:36:07,773] [INFO] : RootScreen: App has started
+[2019-09-10 08:36:14,281] [DEBUG] : LanguageScreen: mk language is used
+[2019-09-10 08:36:19,240] [DEBUG] : SignInScreen: labels are configured
+[2019-09-10 08:36:23,221] [WARNING] : SignInScreen: wrong e-mail format

@@ -1,0 +1,8 @@
+[2019-10-25 17:04:44,031] [INFO] : RootScreen: App has started
+[2019-10-25 17:04:55,548] [DEBUG] : LanguageScreen: mk language is used
+[2019-10-25 17:04:57,116] [DEBUG] : Homeboard:  No-user
+[2019-10-25 17:04:57,117] [DEBUG] : Homeboard: labels are configured.
+[2019-10-25 17:05:01,622] [INFO] : Homeboard: User has signed out
+[2019-10-25 17:05:02,948] [DEBUG] : SignInScreen: labels are configured
+[2019-10-25 17:05:32,892] [WARNING] : SignInScreen: wrong password format
+[2019-10-25 17:05:40,678] [DEBUG] : SignInScreen: labels are configured
